@@ -1,0 +1,114 @@
+# jemdoc: {index.html}
+= Wenrui Diao's homepage
+
+~~~
+{}{img_left}{pic/image003.jpg}{alt text}{}{200px}{}
+
+== Wenrui Diao
+Ph.D. Student
+
+Department of Information Engineering, The Chinese University of Hong Kong
+
+*Email:* dw013 \[AT\] ie.cuhk.edu.hk
+
+*Address:* Rm 726, Ho Sin-Hang Engineering Building, CUHK
+
+\[[https://scholar.google.com/citations?user=vRTj2FIAAAAJ&hl=en Google 
+Scholar]\] \[[http://dblp.uni-trier.de/pers/ht/d/Diao:Wenrui DBLP]\]
+~~~
+
+== Biography
+I am a Ph.D student in [http://www.ie.cuhk.edu.hk/main/index.shtml 
+Department of Information Engineering] at [http://www.cuhk.edu.hk/ The 
+Chinese University of Hong Kong], under the supervision of 
+[http://personal.ie.cuhk.edu.hk/~khzhang/ Prof. Kehuan Zhang] and 
+[http://home.ie.cuhk.edu.hk/~mhchen/ Prof. Minghua Chen] 
+(co-supervisor). Before joining CUHK, I ever worked / interned in [http://china.emc.com/campaign/centre-of-excellence/innovation.htm EMC Labs China], [http://www.syniverse.com/home Syniverse Technologies] and [http://www.cs.cityu.edu.hk/ City University of Hong Kong]. I also work closely with [http://www.emc.com/emc-plus/rsa-labs/staff-associates/zhou-li.htm Dr. Zhou Li] of RSA Laboratories. My research areas include system security, mobile security, vulnerability analysis, etc. I am a member of [http://ssl.ie.cuhk.edu.hk/ System Security Lab] of CUHK.
+
+== Education
+- Aug 2013 - present: Ph.D. in Information Engineering, supervised by [http://personal.ie.cuhk.edu.hk/~khzhang/ Prof. Kehuan Zhang], The Chinese University of Hong Kong, Hong Kong
+- Sep 2016 - Jan 2017: Visiting Ph.D. Student, supervised by [http://www.informatics.indiana.edu/xw7/ Prof. XiaoFeng Wang], Indiana University, Bloomington, IN, USA
+- Sep 2010 - Jul 2011: M.Sc. in Information Engineering, The Chinese University of Hong Kong, Hong Kong
+- Sep 2006 - Jul 2010: B.Sc. in Information Security, Shandong 
+University, Jinan, China
+
+== Experience
+- Feb 2013 - Jul 2013: Research Assistant, supervised by [http://www.cs.cityu.edu.hk/~congwang/ Prof. Cong Wang], City University of Hong Kong, Hong Kong.
+- Nov 2011 - Jan 2013: System Application Engineer, Syniverse Technologies AP, Hong Kong.
+- Jun 2011 - Sep 2011: Software Engineer Intern, EMC Labs China, Shanghai, China.
+
+== Publications
+. Zhe Zhou, *Wenrui Diao*, Xiangyu Liu, Zhou Li, Kehuan Zhang, and Rui Liu. Vulnerable GPU Memory Management: Towards Recovering Raw Data from GPU. /The 17th Privacy Enhancing Technologies Symposium (*PETS'17*)/, 
+Minneapolis, MN, USA. July 2017.
+. *Wenrui Diao*, Xiangyu Liu, Zhou Li, and Kehuan Zhang. Evading 
+Android Runtime Analysis Through Detecting Programmed Interactions. /The 9th ACM Conference on Security and Privacy in Wireless and Mobile Networks (*WiSec'16*)/, Darmstadt, Germany. July 2016. \[[paper/wisec39s-diao.pdf PDF]\]
+. *Wenrui Diao*, Xiangyu Liu, Zhou Li, and Kehuan Zhang. No Pardon for 
+the Interruption: New Inference Attacks on Android Through Interrupt Timing Analysis. /The 37th IEEE Symposium on Security and Privacy (*IEEE S&P'16*)/, San Jose, CA, USA. May 2016. \[[paper/oakland16_diao.pdf PDF]\] \[[https://www.youtube.com/watch?v=LP66hwWegrA Presentation]\]
+. Xiangyu Liu, Zhe Zhou, *Wenrui Diao*, Zhou Li, and Kehuan Zhang. When 
+Good Becomes Evil: Keystroke Inference with Smartwatch. /The 22nd ACM Conference on Computer and Communications Security (*CCS'15*)/, Denver, CO, USA. October 2015.
+. *Wenrui Diao*, Xiangyu Liu, Zhe Zhou, Kehuan Zhang, and Zhou Li. 
+Mind-Reading: Privacy Attacks Exploiting Cross-App KeyEvent Injections. /The 20th European Symposium on Research in Computer Security (*ESORICS'15*)/, Vienna, Austria. September 2015. \[[paper/esorics15_diao.pdf PDF]\] \[[https://sites.google.com/site/imedemo/ Demo]\]
+. Xiangyu Liu, Zhe Zhou, *Wenrui Diao*, Zhou Li, and Kehuan Zhang. An 
+Empirical Study on Android for Saving Non-shared Data on Public Storage. /The 30th IFIP International Information Security and Privacy Conference (*IFIP SEC'15*)/, Hamburg, Germany. May 2015. \[Nominated for the Best Student Paper Award\]
+. *Wenrui Diao*, Xiangyu Liu, Zhe Zhou, and Kehuan Zhang. Your Voice 
+Assistant is Mine: How to Abuse Speakers to Steal Information and 
+Control Your Phone. /The 4th Annual ACM CCS Workshop on Security and 
+Privacy in Smartphones and Mobile Devices (*SPSM'14*)/, Scottsdale, AZ, 
+USA. November 2014. \[[paper/p63-diao.pdf PDF]\] 
+\[[https://sites.google.com/site/demogvs/ Demo]\] \[Media Coverage: 
+[https://uk.news.yahoo.com/google-voice-search-android-smartphones-could-exploited-malware-061413938.html Yahoo! News], [http://www.theregister.co.uk/2014/07/29/bump_in_the_night_nope_its_your_android_blabbering_to_hackers/ The Register], [http://www.ibtimes.co.uk/google-voice-search-android-smartphones-could-be-exploited-by-malware-states-research-1461842 IBTimes], [http://www.net-security.org/secworld.php?id=17178 Help Net Security], [http://www.tomsguide.com/us/loudmouth-android-malware-secrets,news-19234.html Tom's Guide], [http://www.cnbeta.com/articles/312895.htm cnBeta],
+[http://news.takungpao.com.hk/paper/q/2015/0710/3046081.html Ta Kung Pao],
+[http://std.stheadline.com/yesterday/edu/0710go04.html Sing Tao Daily]
+\]
+. Zhe Zhou, *Wenrui Diao*, Xiangyu Liu, and Kehuan Zhang. Acoustic 
+Fingerprinting Revisited: Generate Stable Device ID Stealthily with Inaudible Sound. /The 21st ACM Conference on Computer and Communications Security (*CCS'14*)/, Scottsdale, AZ, USA. November 2014.
+
+== Professional Activities
+Reviewer:
+- IEEE Transactions on Information Forensics and Security
+- Journal of Network and Computer Applications (Elsevier)
+- Applied Computing and Informatics (Elsevier)
+- The Computer Journal (Oxford)
+
+External Reviewer:
+- IEEE European Symposium on Security and Privacy (IEEE EuroS&P): 2017
+- ACM Conference on Computer and Communications Security (CCS): 2014, 2015, 2016
+- ACM Asia Conference on Computer and Communications Security (ASIACCS): 2016, 2017
+- EAI International Conference on Security and Privacy in Communication Networks (SecureComm): 2016
+- USENIX Workshop on Offensive Technologies (WOOT): 2016
+- Information Security Conference (ISC): 2014
+- International Conference on Security and Cryptography (SECRYPT): 2013
+- International Conference on Availability, Reliability and Security (ARES): 2013
+
+
+#== Talks
+#Conference Presentation:
+#- No Pardon for the Interruption: New Inference Attacks on Android Through Interrupt Timing Analysis. /IEEE S&P’16/, San Jose, CA, USA, May 2016.
+#- Mind-Reading: Privacy Attacks Exploiting Cross-App KeyEvent Injections. /ESORICS’15/, Vienna, Austria, September 2015.
+
+== Teaching
+Teaching Assistant:
+- IERG 4090 - [https://course.ie.cuhk.edu.hk/~ierg4090/ Networking Protocols and Systems]: 2016 Spring, 2017 Spring
+- IERG 4831 - [https://course.ie.cuhk.edu.hk/~ierg4831/ Networking Laboratory I]: 2016 Spring, 2017 Spring
+- IERG 3921 - Information Engineering Lab: 2015 Fall
+- IERG 4210 - Web Programming and Security: 2015 Spring
+- IERG 3310 - Computer Networks: 2014 Fall
+
+Part-time Instructor:
+- IEMS 5710 - Cryptography, Information Security & Privacy: 2015 Spring
+
+== Awards
+- 2016: IEEE S&P'16 Student Travel Grants 
+- 2012: Dean’s List 2010-2011, Faculty of Engineering, CUHK
+#- 2010: Research and Innovation Scholarship, Shandong University
+#- 2009: CUMCM 2nd Prize, China Undergraduate Mathematical Contest in Modeling, Shandong Site
+#- 2009: The Second Prize Scholarship of Excellent Student 2008-2009, Shandong University
+
+== Reported Vulnerabilities
+
+- AndroidID-32940378, AndroidID-33000178
+
+== Useful Links
+- [http://www.uclouvain.be/crypto/callforpapers/forthcoming UCL Crypto Group | Call for Papers]
+- [http://jianying.space/conference-ranking.html Top Crypto and Security Conferences Ranking]
+- [http://s3.eurecom.fr/~balzarot/notes/top4/index.html 10+ Years of System Security Circus]
