@@ -61,8 +61,8 @@ External Reviewer:
 - EAI International Conference on Security and Privacy in Communication Networks (SecureComm): 2016
 - USENIX Workshop on Offensive Technologies (WOOT): 2016
 - Information Security Conference (ISC): 2014
-- International Conference on Security and Cryptography (SECRYPT): 2013
-- International Conference on Availability, Reliability and Security (ARES): 2013
+#- International Conference on Security and Cryptography (SECRYPT): 2013
+#- International Conference on Availability, Reliability and Security (ARES): 2013
 
 
 
@@ -83,10 +83,10 @@ Part-time Instructor:
 - IEMS 5710 - Cryptography, Information Security & Privacy: 2015 Spring
 
 == Awards
+- 2017: Reaching Out Award 2016/17, HKSAR Government Scholarship Fund
 - 2016: IEEE S&P'16 Student Travel Grants 
 - 2012: Dean’s List 2010-2011, Faculty of Engineering, CUHK
-#- 2010: Research and Innovation Scholarship, Shandong University
-#- 2009: CUMCM 2nd Prize, China Undergraduate Mathematical Contest in Modeling, Shandong Site
+
 
 == Reported Vulnerabilities
 
