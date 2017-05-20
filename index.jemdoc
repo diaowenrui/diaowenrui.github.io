@@ -38,7 +38,7 @@ University, Jinan, China
 - Jun 2011 - Sep 2011: Software Engineer Intern, EMC Labs China, Shanghai, China.
 
 == Publications
-. Zhe Zhou, *Wenrui Diao*, Xiangyu Liu, Zhou Li, Kehuan Zhang, and Rui Liu. Vulnerable GPU Memory Management: Towards Recovering Raw Data from GPU. /The 17th Privacy Enhancing Technologies Symposium (*PETS'17*)/, Minneapolis, MN, USA. July 2017. \[[paper/pets17-zhou.pdf PDF]\]
+. Zhe Zhou, *Wenrui Diao*, Xiangyu Liu, Zhou Li, Kehuan Zhang, and Rui Liu. Vulnerable GPU Memory Management: Towards Recovering Raw Data from GPU. /The 17th Privacy Enhancing Technologies Symposium (*PETS'17*)/, Minneapolis, MN, USA. July 2017.
 . *Wenrui Diao*, Xiangyu Liu, Zhou Li, and Kehuan Zhang. Evading Android Runtime Analysis Through Detecting Programmed Interactions. /The 9th ACM Conference on Security and Privacy in Wireless and Mobile Networks (*WiSec'16*)/, Darmstadt, Germany. July 2016. \[[paper/wisec16-diao.pdf PDF]\]
 . *Wenrui Diao*, Xiangyu Liu, Zhou Li, and Kehuan Zhang. No Pardon for the Interruption: New Inference Attacks on Android Through Interrupt Timing Analysis. /The 37th IEEE Symposium on Security and Privacy (*IEEE S&P'16*)/, San Jose, CA, USA. May 2016. \[[paper/oakland16-diao.pdf PDF]\]
 . Xiangyu Liu, Zhe Zhou, *Wenrui Diao*, Zhou Li, and Kehuan Zhang. When Good Becomes Evil: Keystroke Inference with Smartwatch. /The 22nd ACM Conference on Computer and Communications Security (*CCS'15*)/, Denver, CO, USA. October 2015. \[[paper/ccs15-liu.pdf PDF]\]
