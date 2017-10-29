@@ -132,7 +132,7 @@ strong {
 
 
 h1, h2, h3 {
-	font-family: 'Roboto Slab', 'Noto Sans SC', Verdana, Helvetica, Arial, Segoe UI, sans-serif;
+	font-family: 'Roboto Slab', 'Noto Sans SC', Verdana, Helvetica, Georgia, sans-serif;
 	color: #527bbd;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
