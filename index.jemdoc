@@ -19,7 +19,7 @@ Scholar]\] \[[http://dblp.uni-trier.de/pers/ht/d/Diao:Wenrui DBLP]\]
 ~~~
 
 == Biography
-I am an Associate Professor in [http://xxxy.jnu.edu.cn College of Cyber Security] at [http://www.jnu.edu.cn/ Jinan University]. Before joining JNU, I obtained my Ph.D. degree from [http://www.cuhk.edu.hk/ The Chinese University of Hong Kong], under the supervision of [https://staff.ie.cuhk.edu.hk/~khzhang/ Prof. Kehuan Zhang]. Also, I ever visited \/ worked \/ interned at [https://www.indiana.edu/ Indiana University Bloomington], [http://www.cs.cityu.edu.hk/ City University of Hong Kong], [http://www.syniverse.com/home Syniverse Technologies], and [http://china.emc.com/campaign/centre-of-excellence/innovation.htm EMC Labs China]. My research focuses on system security, especially mobile security and IoT security. Also, I work closely with [https://zhouli-sec.weebly.com/ Dr. Zhou Li]. I was a member of [http://ssl.ie.cuhk.edu.hk/ System Security Lab] of CUHK.
+I am an Associate Professor in [http://xxxy.jnu.edu.cn College of Cyber Security] at [http://www.jnu.edu.cn/ Jinan University]. Before joining JNU, I obtained my Ph.D. degree from [http://www.cuhk.edu.hk/ The Chinese University of Hong Kong], under the supervision of [https://staff.ie.cuhk.edu.hk/~khzhang/ Prof. Kehuan Zhang]. Also, I ever visited \/ worked \/ interned at [https://www.indiana.edu/ Indiana University Bloomington], [http://www.cs.cityu.edu.hk/ City University of Hong Kong], [http://www.syniverse.com/home Syniverse Technologies], and [http://china.emc.com/campaign/centre-of-excellence/innovation.htm EMC Labs China]. My research focuses on system security, especially mobile security and IoT security. Also, I work closely with [https://zhouli-sec.weebly.com/ Dr. Zhou Li] and [http://www.informatics.indiana.edu/xw7/ Prof. XiaoFeng Wang]. I was a member of [http://ssl.ie.cuhk.edu.hk/ System Security Lab] of CUHK.
 
 == Education
 - Aug 2013 - Aug 2017: Ph.D. in Information Engineering, supervised by [http://personal.ie.cuhk.edu.hk/~khzhang/ Prof. Kehuan Zhang], The Chinese University of Hong Kong, Hong Kong.
@@ -35,12 +35,12 @@ I am an Associate Professor in [http://xxxy.jnu.edu.cn College of Cyber Security
 
 == Publications
 ~~~
-Publications at top-tier venues: IEEE S&P ('16), CCS ('14, '15), NDSS ('18)
+Publications at top-tier venues (4 papers): IEEE S&P ('16), CCS ('14, '15), NDSS ('18)
 ~~~
 
 . *\[NDSS'18\]* ~Jiongyi Chen, *Wenrui Diao*, Qingchuan Zhao, Chaoshun Zuo, Zhiqiang Lin, XiaoFeng Wang, Wing Cheong Lau, Menghan Sun, Ronghai Yang, and Kehuan Zhang. IoTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing. /The 25th Annual Network and Distributed System Security Symposium/, San Diego, CA, USA. February, 2018. \[CCF B\]
-. *\[Preprint\]* ~Nan Zhang, Soteris Demetriou, Xianghang Mi, *Wenrui Diao*, Kan Yuan, Peiyuan Zong, Feng Qian, XiaoFeng Wang, Kai Chen, Yuan Tian, Carl A. Gunter, Kehuan Zhang, Patrick Tague, and Yue-Hsun Lin. Understanding IoT Security Through the Data Crystal Ball: Where We Are Now and Where We Are Going to Be. /CoRR abs\/1703.09809/. 2017. \[[https://arxiv.org/pdf/1703.09809.pdf PDF]\]
 . *\[PETS'17\]* ~Zhe Zhou, *Wenrui Diao*, Xiangyu Liu, Zhou Li, Kehuan Zhang, and Rui Liu. Vulnerable GPU Memory Management: Towards Recovering Raw Data from GPU. /The 17th Privacy Enhancing Technologies Symposium/, Minneapolis, MN, USA. July 2017. \[CCF C\]
+. *\[Preprint\]* ~Nan Zhang, Soteris Demetriou, Xianghang Mi, *Wenrui Diao*, Kan Yuan, Peiyuan Zong, Feng Qian, XiaoFeng Wang, Kai Chen, Yuan Tian, Carl A. Gunter, Kehuan Zhang, Patrick Tague, and Yue-Hsun Lin. Understanding IoT Security Through the Data Crystal Ball: Where We Are Now and Where We Are Going to Be. /CoRR abs\/1703.09809/. 2017. \[[https://arxiv.org/pdf/1703.09809.pdf PDF]\]
 . *\[WiSec'16\]* ~*Wenrui Diao*, Xiangyu Liu, Zhou Li, and Kehuan Zhang. Evading Android Runtime Analysis Through Detecting Programmed Interactions. /The 9th ACM Conference on Security and Privacy in Wireless and Mobile Networks/, Darmstadt, Germany. July 2016. \[CCF C\] \[[paper/wisec16-diao.pdf PDF]\]
 . *\[IEEE S&P'16\]* ~*Wenrui Diao*, Xiangyu Liu, Zhou Li, and Kehuan Zhang. No Pardon for the Interruption: New Inference Attacks on Android Through Interrupt Timing Analysis. /The 37th IEEE Symposium on Security and Privacy/, San Jose, CA, USA. May 2016. \[CCF A\] \[[paper/oakland16-diao.pdf PDF]\]
 . *\[CCS'15\]* ~Xiangyu Liu, Zhe Zhou, *Wenrui Diao*, Zhou Li, and Kehuan Zhang. When Good Becomes Evil: Keystroke Inference with Smartwatch. /The 22nd ACM Conference on Computer and Communications Security/, Denver, CO, USA. October 2015. \[CCF A\] \[[paper/ccs15-liu.pdf PDF]\] 
