@@ -23,7 +23,11 @@ Scholar]\] \[[https://dblp.org/pers/hd/d/Diao:Wenrui DBLP]\]
 ~~~
 *News:*
 
+>>> Jun 2018: One paper accepted by ICSME 2018.
+
 >>> Apr 2018: One paper accepted by SecureComm 2018.
+
+>>> Mar 2018: One paper accepted by DSN 2018.
 
 >>> Mar 2018: One paper accepted by Journal of Computer Security.
 
@@ -50,9 +54,10 @@ I am an Associate Professor in [http://xxxy.jnu.edu.cn College of Cyber Security
 Publications at top-tier venues (4 papers): IEEE S&P ('16), CCS ('14, '15), NDSS ('18)
 ~~~
 
+. *\[ICSME'18\]*​ Chao Chen, *Wenrui Diao*, Yingpei Zeng, Shanqing Guo, and Chengyu Hu. DRLgencert: Deep Learning-based Automated Testing of Certificate Verification in SSL\/TLS Implementations. /The 34th IEEE International Conference on Software Maintenance and Evolution/, Madrid, Spain. September 2018. \[CCF B\]
 . *\[SecureComm'18\]*​ Shuaike Dong, Menghao Li, *Wenrui Diao*, Xiangyu Liu, Jian Liu, Zhou Li, Fenghao Xu, Kai Chen, XiaoFeng Wang, and Kehuan Zhang. Understanding Android Obfuscation Techniques: A Large-Scale Investigation in the Wild. /The 14th EAI International Conference on Security and Privacy in Communication Networks/, Singapore​. August 2018. \[CCF C\]
-. *\[JCS\]* *Wenrui Diao*, Rui Liu, Xiangyu Liu, Zhe Zhou, Zhou Li, and Kehuan Zhang. Accessing Mobile User’s Privacy Based on IME Personalization: Understanding and Practical Attacks. /Journal of Computer Security/. 2018. \[CCF B\] \[[https://content.iospress.com/articles/journal-of-computer-security/jcs16909 Link]\]
-#. *\[DSN'18\]* Jia Chen, Ge Han, Shanqing Guo, and *Wenrui Diao*. FragDroid: Automated User Interface Interaction with Activity and Fragment Analysis in Android Applications. /The 48th IEEE\/IFIP International Conference on Dependable Systems and Networks/, Luxembourg City, Luxembourg. June 2018. \[CCF B\]
+. *\[JCS\]* *Wenrui Diao*, Rui Liu, Xiangyu Liu, Zhe Zhou, Zhou Li, and Kehuan Zhang. Accessing Mobile User’s Privacy Based on IME Personalization: Understanding and Practical Attacks. /Journal of Computer Security/. vol. 26, no. 3, pp. 283-309, 2018. \[CCF B\] \[[https://content.iospress.com/articles/journal-of-computer-security/jcs16909 Link]\]
+. *\[DSN'18\]* Jia Chen, Ge Han, Shanqing Guo, and *Wenrui Diao*. FragDroid: Automated User Interface Interaction with Activity and Fragment Analysis in Android Applications. /The 48th IEEE\/IFIP International Conference on Dependable Systems and Networks/, Luxembourg City, Luxembourg. June 2018. \[CCF B\]
 . *\[NDSS'18\]* Jiongyi Chen, *Wenrui Diao*, Qingchuan Zhao, Chaoshun Zuo, Zhiqiang Lin, XiaoFeng Wang, Wing Cheong Lau, Menghan Sun, Ronghai Yang, and Kehuan Zhang. IoTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing. /The 25th Annual Network and Distributed System Security Symposium/, San Diego, CA, USA. February 2018. \[CCF B\] \[[paper/ndss18-chen.pdf PDF]\]
 . *\[PETS'17\]* Zhe Zhou, *Wenrui Diao*, Xiangyu Liu, Zhou Li, Kehuan Zhang, and Rui Liu. Vulnerable GPU Memory Management: Towards Recovering Raw Data from GPU. /The 17th Privacy Enhancing Technologies Symposium/, Minneapolis, MN, USA. July 2017. \[CCF C\]
 . *\[Preprint\]* Nan Zhang, Soteris Demetriou, Xianghang Mi, *Wenrui Diao*, Kan Yuan, Peiyuan Zong, Feng Qian, XiaoFeng Wang, Kai Chen, Yuan Tian, Carl A. Gunter, Kehuan Zhang, Patrick Tague, and Yue-Hsun Lin. Understanding IoT Security Through the Data Crystal Ball: Where We Are Now and Where We Are Going to Be. /arXiv Preprint, CoRR abs/1703.09809/. 2017. \[[https://arxiv.org/pdf/1703.09809.pdf PDF]\]
@@ -107,9 +112,9 @@ Teaching Assistant@CUHK:
 - 2012: Dean’s List 2010-2011, Faculty of Engineering, CUHK
 
 
-#== Reported Vulnerabilities
+== Reported Vulnerabilities
 
-#- AndroidID-32940378, AndroidID-33000178
+- AndroidID-32940378, AndroidID-33000178, Android-ID-79268567, Android-ID-79268769
 
 == Useful Links
 - [https://seclab.skku.edu/publications/events/ SKKU seclab | Upcoming Events]
