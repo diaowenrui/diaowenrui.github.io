@@ -112,9 +112,9 @@ Teaching Assistant@CUHK:
 - 2012: Dean’s List 2010-2011, Faculty of Engineering, CUHK
 
 
-== Reported Vulnerabilities
+#== Reported Vulnerabilities
 
-- AndroidID-32940378, AndroidID-33000178, Android-ID-79268567, Android-ID-79268769
+#:- AndroidID-32940378, AndroidID-33000178, Android-ID-79268567, Android-ID-79268769
 
 == Useful Links
 - [https://seclab.skku.edu/publications/events/ SKKU seclab | Upcoming Events]
