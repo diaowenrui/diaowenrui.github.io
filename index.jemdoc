@@ -73,7 +73,7 @@ I am a Qilu Young Professor (“齐鲁青年学者”特聘教授) in [http://ww
 
 == Publications
 ~~~
-Publications at top-tier venues (5 papers): IEEE S&P ('16), CCS ('14, '15), NDSS ('19, '18)
+Publications at top-tier venues (5 papers): IEEE S&P ('16), CCS ('15, '14), NDSS ('19, '18)
 ~~~
 
 . *\[RAID'19\]* *Wenrui Diao*, Yue Zhang, Li Zhang, Zhou Li, Fenghao Xu, Xiaorui Pan, Xiangyu Liu, Jian Weng, Kehuan Zhang, and XiaoFeng Wang. Kindness is a Risky Business: On the Usage of the Accessibility APIs in Android. /The 22nd International Symposium on Research in Attacks, Intrusions and Defenses/, Beijing, China. September, 2019. \[CCF B\]
@@ -141,6 +141,7 @@ Teaching Assistant@CUHK:
 - IERG 3310 - Computer Networks: 2014 Fall
 
 == Awards
+- 2019: Qilu Young Scholar, Shandong University (山东大学“齐鲁青年学者”)
 - 2018: [https://www.google.com/about/appsecurity/android-rewards/ Android Security Rewards] -- $200, Google
 - 2017: PETS 2017 Stipends, [https://petsymposium.org/2017/ The 17th Privacy Enhancing Technologies Symposium]
 - 2017: Reaching Out Award 2016/17, HKSAR Government Scholarship Fund
@@ -154,7 +155,7 @@ Teaching Assistant@CUHK:
 
 == Useful Links
 - [https://seclab.skku.edu/publications/events/ SKKU seclab | Upcoming Events]
-- [http://www.uclouvain.be/crypto/callforpapers/forthcoming UCL Crypto Group | Call for Papers]
+#- [http://www.uclouvain.be/crypto/callforpapers/forthcoming UCL Crypto Group | Call for Papers]
 - [http://jianying.space/conference-ranking.html Top Crypto and Security Conferences Ranking]
 #- [http://s3.eurecom.fr/~balzarot/notes/top4/index.html 10+ Years of System Security Circus]
 - [http://www.ccf.org.cn/xspj/wlyxxaq/ CCF Conference and Journal Rankings]
