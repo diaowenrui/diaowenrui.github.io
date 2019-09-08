@@ -78,8 +78,8 @@ I am a Qilu Young Professor (“齐鲁青年学者”特聘教授) in [http://ww
 Publications at top-tier venues (5 papers): IEEE S&P ('16), CCS ('15, '14), NDSS ('19, '18)
 ~~~
 
-. *\[RAID'19\]* *Wenrui Diao*, Yue Zhang, Li Zhang, Zhou Li, Fenghao Xu, Xiaorui Pan, Xiangyu Liu, Jian Weng, Kehuan Zhang, and XiaoFeng Wang. Kindness is a Risky Business: On the Usage of the Accessibility APIs in Android. /The 22nd International Symposium on Research in Attacks, Intrusions and Defenses/, Beijing, China. September, 2019. \[CCF B\]
-. *\[RAID'19\]* Li Zhang, Jiongyi Chen, *Wenrui Diao*, Shanqing Guo, Jian Weng, and Kehuan Zhang. CryptoREX: Large-scale Analysis of Cryptographic Misuse in IoT Devices. /The 22nd International Symposium on Research in Attacks, Intrusions and Defenses/, Beijing, China. September, 2019. \[CCF B\]
+. *\[RAID'19\]* *Wenrui Diao*, Yue Zhang, Li Zhang, Zhou Li, Fenghao Xu, Xiaorui Pan, Xiangyu Liu, Jian Weng, Kehuan Zhang, and XiaoFeng Wang. Kindness is a Risky Business: On the Usage of the Accessibility APIs in Android. /The 22nd International Symposium on Research in Attacks, Intrusions and Defenses/, Beijing, China. September, 2019. \[CCF B\]  \[[paper/raid2019-diao.pdf PDF]\] 
+. *\[RAID'19\]* Li Zhang, Jiongyi Chen, *Wenrui Diao*, Shanqing Guo, Jian Weng, and Kehuan Zhang. CryptoREX: Large-scale Analysis of Cryptographic Misuse in IoT Devices. /The 22nd International Symposium on Research in Attacks, Intrusions and Defenses/, Beijing, China. September, 2019. \[CCF B\] \[[paper/raid2019-zhang-li.pdf PDF]\] 
 . *\[DSN'19\]* Jiongyi Chen, Chaoshun Zuo, *Wenrui Diao*, Shuaike Dong, Qingchuan Zhao, Menghan Sun, Zhiqiang Lin, Yinqian Zhang, and Kehuan Zhang. Your IoTs Are (Not) Mine: On the Remote Binding Between IoT Devices and Users. /The 49th IEEE\/IFIP International Conference on Dependable Systems and Networks/, Portland, OR, USA. June 2019. \[CCF B\] \[[paper/dsn19-chen.pdf PDF]\] 
 . *\[NDSS'19\]*​ Fenghao Xu, *Wenrui Diao*, Zhou Li, Jiongyi Chen, and Kehuan Zhang. BadBluetooth: Breaking Android Security Mechanisms via Malicious Bluetooth Peripherals. /The 26th Annual Network and Distributed System Security Symposium/, San Diego, CA, USA. February 2019. \[CCF B\] \[[paper/ndss19-xu.pdf PDF]\]
 . *\[ICSME'18\]*​ Chao Chen, *Wenrui Diao*, Yingpei Zeng, Shanqing Guo, and Chengyu Hu. DRLgencert: Deep Learning-based Automated Testing of Certificate Verification in SSL\/TLS Implementations. /The 34th IEEE International Conference on Software Maintenance and Evolution/, Madrid, Spain. September 2018. \[CCF B\] \[[paper/icsme18-chen.pdf PDF]\] 
@@ -159,6 +159,9 @@ Teaching Assistant@CUHK:
 #:- AndroidID-32940378, AndroidID-33000178, Android-ID-79268567, Android-ID-79268769
 
 == Students
+- Jin Zhang (Master Student, 2019 - )
+- Rui Li (Master Student, 2019 - )
+
 
 Alumni:
 - Li Zhang (Co-supervised Master Student at Jinan University, Graduated in 2019)
