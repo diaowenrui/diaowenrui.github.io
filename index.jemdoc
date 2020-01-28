@@ -27,6 +27,8 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 ~~~
 *News:*
 
+>>> Jan 2020: I will serve as TPC Member for [http://dsp-lab.eng.uci.edu/simla/ SiMLA 2020].
+
 >>> Oct 2019: I will serve as TPC Member for [http://www.icissp.org/ ICISSP 2020].
 
 >>> Jun 2019: Joined Shandong University as a Professor. 
@@ -37,7 +39,7 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 
 >>> Jan 2019: I will serve as TPC Member for [https://www.sigsac.org/ccs/CCS2019/ ACM CCS 2019].
 
->>> Nov 2018: One paper accepted by NDSS 2019.
+#>>> Nov 2018: One paper accepted by NDSS 2019.
 
 #>>> Jun 2018: One paper accepted by ICSME 2018.
 
@@ -103,6 +105,7 @@ Publications at top-tier venues (5 papers): IEEE S&P ('16), CCS ('15, '14), NDSS
 
 == Professional Activities
 TPC Member:
+- Worshop on Security in Machine Learning and its Applications (SiMLA): 2020
 - International Conference on Information Systems Security and Privacy (ICISSP): 2020
 - ACM Conference on Computer and Communications Security (*CCS*): 2018, 2019
 
@@ -162,6 +165,7 @@ Teaching Assistant@CUHK:
 #:- AndroidID-32940378, AndroidID-33000178, Android-ID-79268567, Android-ID-79268769
 
 == Students
+- Jianqi Du (Ph.D. Student, 2020 - )
 - Jin Zhang (Master Student, 2019 - )
 - Rui Li (Master Student, 2019 - )
 
@@ -174,6 +178,6 @@ Alumni:
 - [https://sec-deadlines.github.io/ Security and Privacy Conference Deadlines]
 #- [http://www.uclouvain.be/crypto/callforpapers/forthcoming UCL Crypto Group | Call for Papers]
 - [http://jianying.space/conference-ranking.html Top Crypto and Security Conferences Ranking]
-#- [http://s3.eurecom.fr/~balzarot/notes/top4/index.html 10+ Years of System Security Circus]
+- [http://s3.eurecom.fr/~balzarot/notes/top4_2019/ System Security Circus 2019]
 - [http://www.ccf.org.cn/xspj/wlyxxaq/ CCF Conference and Journal Rankings]
 - [http://www.call4papers.cn/ Call4Papers]
