@@ -29,7 +29,7 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 
 >>> Jan 2020: I will serve as TPC Member for [http://dsp-lab.eng.uci.edu/simla/ SiMLA 2020].
 
->>> Oct 2019: I will serve as TPC Member for [http://www.icissp.org/ ICISSP 2020].
+>>> Oct 2019: I will serve as TPC Member for [http://www.icissp.org/?y=2020 ICISSP 2020].
 
 >>> Jun 2019: Joined Shandong University as a Professor. 
 
@@ -83,9 +83,9 @@ Publications at top-tier venues (5 papers): IEEE S&P ('16), CCS ('15, '14), NDSS
 ~~~
 
 . *\[RAID'19\]* *Wenrui Diao*, Yue Zhang, Li Zhang, Zhou Li, Fenghao Xu, Xiaorui Pan, Xiangyu Liu, Jian Weng, Kehuan Zhang, and XiaoFeng Wang. Kindness is a Risky Business: On the Usage of the Accessibility APIs in Android. /The 22nd International Symposium on Research in Attacks, Intrusions and Defenses/, Beijing, China. September 23-25, 2019. \[CCF B\]  \[[paper/raid2019-diao.pdf PDF]\] \[[https://sites.google.com/site/droidaccessibility/ Demo]\]
-. *\[RAID'19\]* Li Zhang, Jiongyi Chen, *Wenrui Diao*, Shanqing Guo, Jian Weng, and Kehuan Zhang. CryptoREX: Large-scale Analysis of Cryptographic Misuse in IoT Devices. /The 22nd International Symposium on Research in Attacks, Intrusions and Defenses/, Beijing, China. September 23-25, 2019. \[CCF B\] \[[paper/raid2019-zhang-li.pdf PDF]\] \[[https://github.com/zhanglikernel/CRYPTOREX Code]\] 
+. *\[RAID'19\]* Li Zhang, Jiongyi Chen, *Wenrui Diao*, Shanqing Guo, Jian Weng, and Kehuan Zhang. CryptoREX: Large-scale Analysis of Cryptographic Misuse in IoT Devices. /The 22nd International Symposium on Research in Attacks, Intrusions and Defenses/, Beijing, China. September 23-25, 2019. \[CCF B\] \[[paper/raid2019-zhang-li.pdf PDF]\] \[[https://github.com/zhanglikernel/CRYPTOREX Code]\]
 . *\[DSN'19\]* Jiongyi Chen, Chaoshun Zuo, *Wenrui Diao*, Shuaike Dong, Qingchuan Zhao, Menghan Sun, Zhiqiang Lin, Yinqian Zhang, and Kehuan Zhang. Your IoTs Are (Not) Mine: On the Remote Binding Between IoT Devices and Users. /The 49th IEEE\/IFIP International Conference on Dependable Systems and Networks/, Portland, OR, USA. June 24-27, 2019. \[CCF B\] \[[paper/dsn19-chen.pdf PDF]\] 
-. *\[NDSS'19\]*​ Fenghao Xu, *Wenrui Diao*, Zhou Li, Jiongyi Chen, and Kehuan Zhang. BadBluetooth: Breaking Android Security Mechanisms via Malicious Bluetooth Peripherals. /The 26th Annual Network and Distributed System Security Symposium/, San Diego, CA, USA. February 24-27, 2019. \[Top\] \[CCF B\] \[[paper/ndss19-xu.pdf PDF]\] \[[https://sites.google.com/view/bluetoothvul/ Demo]\]
+. *\[NDSS'19\]*​ Fenghao Xu, *Wenrui Diao*, Zhou Li, Jiongyi Chen, and Kehuan Zhang. BadBluetooth: Breaking Android Security Mechanisms via Malicious Bluetooth Peripherals. /The 26th Annual Network and Distributed System Security Symposium/, San Diego, CA, USA. February 24-27, 2019. \[Top\] \[CCF B\] \[[paper/ndss19-xu.pdf PDF]\] \[[https://sites.google.com/view/bluetoothvul/ Demo]\] \[CVE-2019-2225\]
 . *\[ICSME'18\]*​ Chao Chen, *Wenrui Diao*, Yingpei Zeng, Shanqing Guo, and Chengyu Hu. DRLgencert: Deep Learning-based Automated Testing of Certificate Verification in SSL\/TLS Implementations. /The 34th IEEE International Conference on Software Maintenance and Evolution/, Madrid, Spain. September 23-29, 2018. \[CCF B\] \[[paper/icsme18-chen.pdf PDF]\] 
 . *\[SecureComm'18\]*​ Shuaike Dong, Menghao Li, *Wenrui Diao*, Xiangyu Liu, Jian Liu, Zhou Li, Fenghao Xu, Kai Chen, XiaoFeng Wang, and Kehuan Zhang. Understanding Android Obfuscation Techniques: A Large-Scale Investigation in the Wild. /The 14th EAI International Conference on Security and Privacy in Communication Networks/, Singapore​. August 8-10, 2018. \[CCF C\] \[[paper/securecomm18-dong.pdf PDF]\]
 . *\[JCS\]* *Wenrui Diao*, Rui Liu, Xiangyu Liu, Zhe Zhou, Zhou Li, and Kehuan Zhang. Accessing Mobile User’s Privacy Based on IME Personalization: Understanding and Practical Attacks. /Journal of Computer Security/. vol. 26, no. 3, pp. 283-309, 2018. \[CCF B\] \[[https://content.iospress.com/articles/journal-of-computer-security/jcs16909 Link]\]
@@ -154,7 +154,7 @@ Teaching Assistant@CUHK:
 
 == Awards
 - 2019: Qilu Young Scholar, Shandong University (山东大学“齐鲁青年学者”)
-- 2018: [https://www.google.com/about/appsecurity/android-rewards/ Android Security Rewards] -- $200, Google
+#- 2018: [https://www.google.com/about/appsecurity/android-rewards/ Android Security Rewards] -- $200, Google
 - 2017: PETS 2017 Stipends, [https://petsymposium.org/2017/ The 17th Privacy Enhancing Technologies Symposium]
 - 2017: Reaching Out Award 2016/17, HKSAR Government Scholarship Fund
 - 2016: IEEE S&P 2016 Student Travel Grants, [https://www.ieee-security.org/TC/SP2016/ The 37th IEEE Symposium on Security and Privacy]
