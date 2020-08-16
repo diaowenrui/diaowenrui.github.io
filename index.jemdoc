@@ -27,6 +27,8 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 ~~~
 *News:*
 
+>>> Aug 2020: I will serve as TPC Member for [https://www.iitr.ac.in/mass2020/ IEEE MASS 2020].
+
 >>> May 2020: I received [https://www.acmturc.com/2020/en/new_star_award.html ACM SIGSAC China Rising Star Award] ([https://www.acmturc.com/2020/cn/new_star_award.html ACM SIGSAC China新星奖]).
 
 >>> May 2020: I will serve as TPC Member for [http://www.icissp.org/?y=2021 ICISSP 2021].
@@ -117,6 +119,7 @@ Publications at top-tier venues (5 papers): IEEE S&P ('16), CCS ('15, '14), NDSS
 == Professional Activities
 TPC Member:
 - International Conference on Information Systems Security and Privacy (ICISSP): 2020, 2021
+- IEEE International Conference on Mobile Ad-Hoc and Smart Systems (*MASS*): 2020
 - Workshop on Security in Machine Learning and its Applications (SiMLA): 2020
 - ACM Conference on Computer and Communications Security (*CCS*): 2018, 2019
 
@@ -140,7 +143,7 @@ External Reviewer:
 
 
 == Invited Talks
-- BadBluetooth: Breaking roid Security Mechanisms via Malicious Bluetooth Peripherals
+- BadBluetooth: Breaking Android Security Mechanisms via Malicious Bluetooth Peripherals
 -- Aug 2020: [https://bcs.qianxin.com/2020/meetings/index?meeting_id=47 InForSec@Beijing Cyber Security Conference]
 
 - Security Threats to Android System: Exploration, Understanding, and Defense
