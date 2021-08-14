@@ -129,7 +129,7 @@ Publications at top-tier venues (7 papers): IEEE S&P ('21, '16), CCS (21', '15, 
 #\[Media Coverage: [https://uk.news.yahoo.com/google-voice-search-android-smartphones-could-exploited-malware-061413938.html Yahoo! News], [http://www.theregister.co.uk/2014/07/29/bump_in_the_night_nope_its_your_android_blabbering_to_hackers/ The Register], [http://www.ibtimes.co.uk/google-voice-search-android-smartphones-could-be-exploited-by-malware-states-research-1461842 IBTimes], [http://www.net-security.org/secworld.php?id=17178 Help Net Security], [http://www.tomsguide.com/us/loudmouth-android-malware-secrets,news-19234.html Tom's Guide], [http://www.cnbeta.com/articles/312895.htm cnBeta], [https://news.mingpao.com/pns/%E5%AD%B8%E8%80%85%E6%8F%AD%E6%89%8B%E6%A9%9F%E7%A4%BE%E4%BA%A4%E7%B6%B2%E6%BC%8F%E6%B4%9E%20%E9%BB%91%E5%AE%A2%E9%81%99%E6%8E%A7%E8%AA%9E%E9%9F%B3%E5%8A%9F%E8%83%BD%E7%9B%9C%E7%A7%81%E9%9A%B1/web_tc/article/20150710/s00002/1436464098927 Ming Pao (明報)], [http://news.takungpao.com.hk/paper/q/2015/0710/3046081.html Ta Kung Pao (大公報)], [http://std.stheadline.com/yesterday/edu/0710go04.html Sing Tao Daily (星島日報)]\]
 
 == Professional Activities
-TPC Member:
+*TPC Member:*
 - European Symposium on Research in Computer Security (*ESORICS*): 2021
 - International Conference on Information and Communications Security (*ICICS*): 2021
 - International Conference on Information Systems Security and Privacy (ICISSP): 2021, 2020
@@ -137,7 +137,8 @@ TPC Member:
 - IEEE International Conference on Mobile Ad-Hoc and Smart Systems (*MASS*): 2020
 - ACM Conference on Computer and Communications Security (*CCS*): 2019, 2018
 
-Reviewer:
+*Reviewer:*
+- ACM Transactions on Software Engineering and Methodology
 - IEEE Transactions on Mobile Computing
 - IEEE Transactions on Information Forensics and Security
 - Journal of Network and Computer Applications (Elsevier)
@@ -146,7 +147,7 @@ Reviewer:
 - Cybersecurity (Springer)
 - Journal on Communications (通讯学报)
 
-External Reviewer:
+*External Reviewer:*
 - International Conference on Applied Cryptography and Network Security (ACNS): 2021
 - Network and Distributed System Security Symposium (NDSS): 2018
 - ACM Conference on Computer and Communications Security (CCS): 2014, 2015, 2016, 2017
@@ -159,6 +160,9 @@ External Reviewer:
 
 
 == Invited Talks
+- Android Custom Permissions Demystified
+-- Jul 2021: [https://www.acmturc.com/2021/en/SIGSAC_China.html SIGSAC@ACM Turing Award Celebration Conference - China]
+
 - BadBluetooth: Breaking Android Security Mechanisms via Malicious Bluetooth Peripherals
 -- Aug 2020: [https://bcs.qianxin.com/2020/meetings/index?meeting_id=47 InForSec@Beijing Cyber Security Conference]
 
