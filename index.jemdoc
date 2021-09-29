@@ -27,6 +27,8 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 ~~~
 *News:*
 
+>>> Sep 2021: I will serve as TPC Member for [https://icics2022.cyber.kent.ac.uk/ ICICS 2022].
+
 >>> Sep 2021: One paper accepted by [http://ieee-icpads.net/2021/ ICPADS 2021].
 
 >>> Aug 2021: Our team received 第十四届全国大学生信息安全竞赛-作品赛 一等奖
@@ -95,7 +97,7 @@ P.S., 山东大学为中央网信办和教育部一流网络安全学院建设�
 
 - 关于各类学术实习推荐，我乐意为参与过本组科研实习、所指导竞赛队伍的同学提供推荐信。
 
-- 有意愿参与本组科研实践的本科同学，一般应已完成计算机类核心课程（建议大二课程结束后），成绩排名前列，请提供成绩单以供参考。（每年度接收1-2名同学，2021年度已无空余名额，不再接收申请。）
+#- 有意愿参与本组科研实践的本科同学，一般应已完成计算机类核心课程（建议大二课程结束后），成绩排名前列，请提供成绩单以供参考。（每年度接收1-2名同学，2021年度已无空余名额，不再接收申请。）
 
 == Biography
 I am a Qilu Young Professor (“齐鲁青年学者”特聘教授) in [http://www.cst.qd.sdu.edu.cn/ School of Cyber Science and Technology] at [http://www.sdu.edu.cn/ Shandong University]. Before joining SDU, I obtained my Ph.D. degree from [http://www.cuhk.edu.hk/ The Chinese University of Hong Kong], under the supervision of [https://staff.ie.cuhk.edu.hk/~khzhang/ Prof. Kehuan Zhang]. Also, I ever visited \/ worked \/ interned at [http://www.jnu.edu.cn/ Jinan University], [https://www.indiana.edu/ Indiana University Bloomington], [http://www.cs.cityu.edu.hk/ City University of Hong Kong], [http://www.syniverse.com/home Syniverse Technologies], and [http://china.emc.com/campaign/centre-of-excellence/innovation.htm EMC Labs China]. My research focuses on system security, especially mobile security and IoT security. Also, I work closely with [http://faculty.sites.uci.edu/zhouli/ Prof. Zhou Li] and [http://www.informatics.indiana.edu/xw7/ Prof. XiaoFeng Wang]. I was a founding member of [http://ssl.ie.cuhk.edu.hk/ System Security Lab] of CUHK.
@@ -145,8 +147,8 @@ Publications at top-tier venues (7 papers): IEEE S&P ('21, '16), CCS (21', '15, 
 
 == Professional Activities
 *TPC Member:*
+- International Conference on Information and Communications Security (*ICICS*): 2022, 2021
 - European Symposium on Research in Computer Security (*ESORICS*): 2021
-- International Conference on Information and Communications Security (*ICICS*): 2021
 - International Conference on Information Systems Security and Privacy (ICISSP): 2021, 2020
 - ACNS Workshop on Security in Machine Learning and its Applications (SiMLA): 2021,2020
 - IEEE International Conference on Mobile Ad-Hoc and Smart Systems (*MASS*): 2020
@@ -248,4 +250,5 @@ Alumni:
 - [http://jianying.space/conference-ranking.html Top Crypto and Security Conferences Ranking]
 - [http://s3.eurecom.fr/~balzarot/notes/top4_2020/ System Security Circus 2020]
 - [https://www.ccf.org.cn/Academic_Evaluation/NIS/ CCF Conference and Journal Rankings]
-#- [http://www.call4papers.cn/ Call4Papers]
+- [http://123.57.137.208/ccf/ccf-3.jsp Call4Papers]
+- [https://ccfddl.github.io/ CCF Conference Deadlines]
