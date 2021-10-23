@@ -97,7 +97,7 @@ P.S., 山东大学为中央网信办和教育部一流网络安全学院建设�
 
 - 鼓励已保研至本组的本校学生在大四（毕业设计阶段）参与科研实践，以尽早获得科研产出。
 
-- 关于各类学术实习推荐，我乐意为参与过本组科研实习、所指导竞赛队伍的同学提供推荐信。
+#- 关于各类学术实习推荐，我乐意为参与过本组科研实习、所指导竞赛队伍的同学提供推荐信。
 
 #- 有意愿参与本组科研实践的本科同学，一般应已完成计算机类核心课程（建议大二课程结束后），成绩排名前列，请提供成绩单以供参考。（每年度接收1-2名同学，2021年度已无空余名额，不再接收申请。）
 
@@ -122,9 +122,9 @@ I am a Qilu Young Professor (“齐鲁青年学者”特聘教授) in [http://ww
 Publications at top-tier venues (7 papers): IEEE S&P ('21, '16), CCS (21', '15, '14), NDSS ('19, '18)
 ~~~
 
-. *\[TSE\]* Rui Li, *Wenrui Diao*, Zhou Li, Shishuai Yang, Shuang Li, and Shanqing Guo. Android Custom Permissions Demystified: A Comprehensive Security Evaluation. /IEEE Transactions on Software Engineering/, 2021. \[CCF A\] \[[https://ieeexplore.ieee.org/document/9573482 Link]\]
-. *\[ICPADS'21\]* Jin Zhang, Chennan Zhang, Xiangyu Liu, Yuncheng Wang, *Wenrui Diao*, and Shanqing Guo. ShadowDroid: Practical Black-box Attack against ML-based Android Malware Detection. /The 27th IEEE International Conference on Parallel and Distributed Systems/, Beijing, China. December 14-16, 2021. \[CCF C\]
-. *\[CCS'21\]* Fenghao Xu, Siyu Shen, *Wenrui Diao*, Zhou Li, Yi Chen, Rui Li, and Kehuan Zhang. Android on PC: On the Security of End-user Android Emulators. /The 28th ACM Conference on Computer and Communications Security/, Seoul, South Korea. November 15-19, 2021. \[Top\] \[CCF A\]
+. *\[IEEE TSE\]* Rui Li, *Wenrui Diao*, Zhou Li, Shishuai Yang, Shuang Li, and Shanqing Guo. Android Custom Permissions Demystified: A Comprehensive Security Evaluation. /IEEE Transactions on Software Engineering/, 2021. \[CCF A\] \[[https://ieeexplore.ieee.org/document/9573482 Link]\]
+. *\[ICPADS'21\]* Jin Zhang, Chennan Zhang, Xiangyu Liu, Yuncheng Wang, *Wenrui Diao*, and Shanqing Guo. ShadowDroid: Practical Black-box Attack against ML-based Android Malware Detection. /The 27th IEEE International Conference on Parallel and Distributed Systems/, Beijing, China. December 14-16, 2021. \[CCF C\] \[[paper/icpads21-zhang.pdf PDF]\]
+. *\[CCS'21\]* Fenghao Xu, Siyu Shen, *Wenrui Diao*, Zhou Li, Yi Chen, Rui Li, and Kehuan Zhang. Android on PC: On the Security of End-user Android Emulators. /The 28th ACM Conference on Computer and Communications Security/, Seoul, South Korea. November 15-19, 2021. \[Top\] \[CCF A\] \[[paper/ccs21-xu.pdf PDF]\] \[[https://sites.google.com/view/emulatorsec Demo]\]
 . *\[IEEE S&P'21\]* Rui Li, *Wenrui Diao*, Zhou Li, Jianqi Du, and Shanqing Guo. Android Custom Permissions Demystified: From Privilege Escalation to Design Shortcomings. /The 42nd IEEE Symposium on Security and Privacy/, San Francisco, CA, USA. May 23-27, 2021. \[Top\] \[CCF A\] \[[paper/oakland21-li.pdf PDF]\] \[[https://sites.google.com/view/custom-permission Demo]\] \[CVE-2020-0418, CVE-2021-0306, CVE-2021-0307, CVE-2021-0317\]
 . *\[WiSec'20\]* Zicheng Zhang, *Wenrui Diao*, Chengyu Hu, Shanqing Guo, Chaoshun Zuo, and Li Li. An Empirical Study of Potentially Malicious Third-Party Libraries in Android Apps. /The 13th ACM Conference on Security and Privacy in Wireless and Mobile Networks/, Linz, Austria. July 8-10, 2020. \[CCF C\] \[[paper/wisec20-zhang.pdf PDF]\]
 . *\[RAID'19\]* *Wenrui Diao*, Yue Zhang, Li Zhang, Zhou Li, Fenghao Xu, Xiaorui Pan, Xiangyu Liu, Jian Weng, Kehuan Zhang, and XiaoFeng Wang. Kindness is a Risky Business: On the Usage of the Accessibility APIs in Android. /The 22nd International Symposium on Research in Attacks, Intrusions and Defenses/, Beijing, China. September 23-25, 2019. \[CCF B\]  \[[paper/raid2019-diao.pdf PDF]\] \[[https://sites.google.com/site/droidaccessibility/ Demo]\]
