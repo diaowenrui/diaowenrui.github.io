@@ -27,6 +27,8 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 ~~~
 *News:*
 
+>>> Dec 2021: Three papers accepted by [hhttps://conf.researchr.org/home/icse-2022 ICSE 2022].
+
 >>> Oct 2021: Our team ranked 2021 DataCon大数据安全分析竞赛-邮件安全赛道 第9名
 
 >>> Oct 2021: One paper accepted by [https://www.computer.org/csdl/journal/ts IEEE TSE].
@@ -121,9 +123,12 @@ I am a Qilu Young Professor (“齐鲁青年学者”特聘教授) in [http://ww
 
 == Publications
 ~~~
-Publications at top-tier venues (7 papers): IEEE S&P ('21, '16), CCS (21', '15, '14), NDSS ('19, '18)
+Publications at top-tier venues (10 papers): IEEE S&P ('21, '16), CCS (21', '15, '14), NDSS ('19, '18), ICSE ('22 × 3)
 ~~~
 
+. *\[ICSE'22\]* Xing Zhang, Jiongyi Chen, Chao Feng, Ruilin Li, *Wenrui Diao*, Kehuan Zhang, Jing Lei, and and Chaojing Tang. DeFault: Mutual Information-based Crash Triage for Massive Crashes. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\]
+. *\[ICSE'22\]* Qinsheng Hou, *Wenrui Diao*, Yanhao Wang, Xiaofeng Liu, Song Liu, Lingyun Ying, Shanqing Guo, Yuanzhi Li, Meining Nie, and Haixin Duan. Large-scale Security Measurements on the Android Firmware Ecosystem. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\]
+. *\[ICSE'22\]* Shishuai Yang, Rui Li, Jiongyi Chen, *Wenrui Diao*, and Shanqing Guo. Demystifying Android Non-SDK APIs: Measurement and Understanding. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\]
 . *\[IEEE TSE\]* Rui Li, *Wenrui Diao*, Zhou Li, Shishuai Yang, Shuang Li, and Shanqing Guo. Android Custom Permissions Demystified: A Comprehensive Security Evaluation. /IEEE Transactions on Software Engineering/, 2021. \[CCF A\] \[[https://ieeexplore.ieee.org/document/9573482 Link]\]
 . *\[ICPADS'21\]* Jin Zhang, Chennan Zhang, Xiangyu Liu, Yuncheng Wang, *Wenrui Diao*, and Shanqing Guo. ShadowDroid: Practical Black-box Attack against ML-based Android Malware Detection. /The 27th IEEE International Conference on Parallel and Distributed Systems/, Beijing, China. December 14-16, 2021. \[CCF C\] \[[paper/icpads21-zhang.pdf PDF]\]
 . *\[CCS'21\]* Fenghao Xu, Siyu Shen, *Wenrui Diao*, Zhou Li, Yi Chen, Rui Li, and Kehuan Zhang. Android on PC: On the Security of End-user Android Emulators. /The 28th ACM Conference on Computer and Communications Security/, Seoul, South Korea. November 15-19, 2021. \[Top\] \[CCF A\] \[[paper/ccs21-xu.pdf PDF]\] \[[https://sites.google.com/view/emulatorsec Demo]\]
