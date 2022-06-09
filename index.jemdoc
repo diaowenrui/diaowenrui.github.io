@@ -27,6 +27,8 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 ~~~
 *News:*
 
+>>> Jun 2022: I will serve as TPC Member for [http://nsclab.org/nss2022/ NSS 2022].
+
 >>> Mar 2022: One paper accepted by [https://wisec2022.cs.utsa.edu/ WiSec 2022].
 
 >>> Jan 2022: I will serve as TPC Member for [https://esorics2022.compute.dtu.dk/ ESORICS 2022].
@@ -55,9 +57,9 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 
 >>> Aug 2020: I will serve as TPC Member for [https://www.iitr.ac.in/mass2020/ IEEE MASS 2020].
 
->>> May 2020: I received [https://www.acmturc.com/2020/en/new_star_award.html ACM SIGSAC China Rising Star Award] ([https://www.acmturc.com/2020/cn/new_star_award.html ACM SIGSAC China新星奖]).
+#>>> May 2020: I received [https://www.acmturc.com/2020/en/new_star_award.html ACM SIGSAC China Rising Star Award] ([https://www.acmturc.com/2020/cn/new_star_award.html ACM SIGSAC China新星奖]).
 
->>> May 2020: I will serve as TPC Member for [http://www.icissp.org/?y=2021 ICISSP 2021].
+#>>> May 2020: I will serve as TPC Member for [http://www.icissp.org/?y=2021 ICISSP 2021].
 
 #>>> Apr 2020: One paper accepted by [https://wisec2020.ins.jku.at/ WiSec 2020].
 
@@ -130,7 +132,7 @@ I am a Qilu Young Professor (“齐鲁青年学者”特聘教授) in [http://ww
 Publications at top-tier venues (10 papers): IEEE S&P ('21, '16), CCS (21', '15, '14), NDSS ('19, '18), ICSE ('22 × 3)
 ~~~
 
-. *\[WiSec'22\]* Chennan Zhang, Shuang Li, *Wenrui Diao*, and Shanqing Guo. PITracker: Detecting Android PendingIntent Vulnerabilities through Intent Flow Analysis. /The 15th ACM Conference on Security and Privacy in Wireless and Mobile Networks/, San Antonio, Texas, USA. May 16-19, 2022. \[CCF C\]
+. *\[WiSec'22\]* Chennan Zhang, Shuang Li, *Wenrui Diao*, and Shanqing Guo. PITracker: Detecting Android PendingIntent Vulnerabilities through Intent Flow Analysis. /The 15th ACM Conference on Security and Privacy in Wireless and Mobile Networks/, San Antonio, Texas, USA. May 16-19, 2022. \[CCF C\] \[[paper/wisec22-zhang.pdf PDF]\]
 . *\[ICSE'22\]* Xing Zhang, Jiongyi Chen, Chao Feng, Ruilin Li, *Wenrui Diao*, Kehuan Zhang, Jing Lei, and and Chaojing Tang. DeFault: Mutual Information-based Crash Triage for Massive Crashes. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\]
 . *\[ICSE'22\]* Qinsheng Hou, *Wenrui Diao*, Yanhao Wang, Xiaofeng Liu, Song Liu, Lingyun Ying, Shanqing Guo, Yuanzhi Li, Meining Nie, and Haixin Duan. Large-scale Security Measurements on the Android Firmware Ecosystem. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\]
 . *\[ICSE'22\]* Shishuai Yang, Rui Li, Jiongyi Chen, *Wenrui Diao*, and Shanqing Guo. Demystifying Android Non-SDK APIs: Measurement and Understanding. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\] \[[paper/icse22-yang.pdf PDF]\] 
