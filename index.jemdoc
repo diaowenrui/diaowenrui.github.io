@@ -132,7 +132,7 @@ I am a Qilu Young Professor (“齐鲁青年学者”特聘教授) in [http://ww
 Publications at top-tier venues (10 papers): IEEE S&P ('21, '16), CCS (21', '15, '14), NDSS ('19, '18), ICSE ('22 × 3)
 ~~~
 
-. *\[WiSec'22\]* Chennan Zhang, Shuang Li, *Wenrui Diao*, and Shanqing Guo. PITracker: Detecting Android PendingIntent Vulnerabilities through Intent Flow Analysis. /The 15th ACM Conference on Security and Privacy in Wireless and Mobile Networks/, San Antonio, Texas, USA. May 16-19, 2022. \[CCF C\] \[[paper/wisec22-zhang.pdf PDF]\]
+. *\[WiSec'22\]* Chennan Zhang, Shuang Li, *Wenrui Diao*, and Shanqing Guo. PITracker: Detecting Android PendingIntent Vulnerabilities through Intent Flow Analysis. /The 15th ACM Conference on Security and Privacy in Wireless and Mobile Networks/, San Antonio, Texas, USA. May 16-19, 2022. \[CCF C\] \[[paper/wisec22-zhang.pdf PDF]\] \[[https://github.com/Sp1keeeee/PItracker Code]\]
 . *\[ICSE'22\]* Xing Zhang, Jiongyi Chen, Chao Feng, Ruilin Li, *Wenrui Diao*, Kehuan Zhang, Jing Lei, and and Chaojing Tang. DeFault: Mutual Information-based Crash Triage for Massive Crashes. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\]
 . *\[ICSE'22\]* Qinsheng Hou, *Wenrui Diao*, Yanhao Wang, Xiaofeng Liu, Song Liu, Lingyun Ying, Shanqing Guo, Yuanzhi Li, Meining Nie, and Haixin Duan. Large-scale Security Measurements on the Android Firmware Ecosystem. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\]
 . *\[ICSE'22\]* Shishuai Yang, Rui Li, Jiongyi Chen, *Wenrui Diao*, and Shanqing Guo. Demystifying Android Non-SDK APIs: Measurement and Understanding. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\] \[[paper/icse22-yang.pdf PDF]\] 
@@ -250,7 +250,7 @@ Teaching Assistant@CUHK:
 - Shishuai Yang (MS-Ph.D. Student, 2020 - )
 - Jianqi Du (Ph.D. Student, 2020 - )
 - Kailun Yan (Ph.D. Student, 2021 - )
-- Jin Zhang (MS Student, 2019 - )
+#- Jin Zhang (MS Student, 2019 - )
 - Guangwei Tian (MS Student, 2020 - )
 - Chennan Zhang (MS Student, 2020 - )
 - Zidong Zhang (MS Student, 2021 - )
@@ -258,6 +258,9 @@ Teaching Assistant@CUHK:
 - Xiaoyin Liu (MS Student, 2021 - )
 
 Alumni:
+- Jin Zhang (MS Student at Shandong University, Graduated in 2022)
+-- Publications (first author): ICPADS 2021
+-- Awards: 硕士研究生国家奖学金
 - Li Zhang (Co-supervised MS Student at Jinan University, Graduated in 2019)
 -- Publications (first author): RAID 2019
 -- Awards: RAID 2019 Student Travel Grants
