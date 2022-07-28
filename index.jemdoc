@@ -27,6 +27,10 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 ~~~
 *News:*
 
+>>> Jul 2022: I will serve as TPC Member for [http://www.sklois.cn/inscrypt2022/ Inscrypt 2022].
+
+>>> Jul 2022: One paper accepted by [https://secon2022.ieee-secon.org/ IEEE SECON 2022].
+
 >>> Jun 2022: I will serve as TPC Member for [http://nsclab.org/nss2022/ NSS 2022].
 
 >>> Mar 2022: One paper accepted by [https://wisec2022.cs.utsa.edu/ WiSec 2022].
@@ -45,7 +49,7 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 
 >>> Aug 2021: Our team received 第十四届全国大学生信息安全竞赛-作品赛 一等奖.
 
->>> Jul 2021: One paper accepted by [https://www.sigsac.org/ccs/CCS2021/index.html CCS 2021].
+>>> Jul 2021: One paper accepted by [https://www.sigsac.org/ccs/CCS2021/index.html ACM CCS 2021].
 
 >>> Mar 2021: I will serve as TPC Member for [https://www.icics.cn/ ICICS 2021].
 
@@ -132,9 +136,10 @@ I am a Qilu Young Professor (“齐鲁青年学者”特聘教授) in [http://ww
 Publications at top-tier venues (10 papers): IEEE S&P ('21, '16), CCS (21', '15, '14), NDSS ('19, '18), ICSE ('22 × 3)
 ~~~
 
+. *\[SECON'22\]* Jianqi Du, Fenghao Xu, Chennan Zhang, Zidong Zhang, Xiaoyin Liu, Pengcheng Ren, Wenrui Diao, Shanqing Guo, and Kehuan Zhang. Identifying the BLE Misconfigurations of IoT Devices through Companion Mobile Apps. /The 19th Annual IEEE International Conference on Sensing, Communication, and Networking/, Virtual Conference. September 20-23, 2022. \[CCF B\]
 . *\[WiSec'22\]* Chennan Zhang, Shuang Li, *Wenrui Diao*, and Shanqing Guo. PITracker: Detecting Android PendingIntent Vulnerabilities through Intent Flow Analysis. /The 15th ACM Conference on Security and Privacy in Wireless and Mobile Networks/, San Antonio, Texas, USA. May 16-19, 2022. \[CCF C\] \[[paper/wisec22-zhang.pdf PDF]\] \[[https://github.com/Sp1keeeee/PItracker Code]\]
-. *\[ICSE'22\]* Xing Zhang, Jiongyi Chen, Chao Feng, Ruilin Li, *Wenrui Diao*, Kehuan Zhang, Jing Lei, and and Chaojing Tang. DeFault: Mutual Information-based Crash Triage for Massive Crashes. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\]
-. *\[ICSE'22\]* Qinsheng Hou, *Wenrui Diao*, Yanhao Wang, Xiaofeng Liu, Song Liu, Lingyun Ying, Shanqing Guo, Yuanzhi Li, Meining Nie, and Haixin Duan. Large-scale Security Measurements on the Android Firmware Ecosystem. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\]
+. *\[ICSE'22\]* Xing Zhang, Jiongyi Chen, Chao Feng, Ruilin Li, *Wenrui Diao*, Kehuan Zhang, Jing Lei, and and Chaojing Tang. DeFault: Mutual Information-based Crash Triage for Massive Crashes. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\] \[[paper/icse22-zhang.pdf PDF]\] 
+. *\[ICSE'22\]* Qinsheng Hou, *Wenrui Diao*, Yanhao Wang, Xiaofeng Liu, Song Liu, Lingyun Ying, Shanqing Guo, Yuanzhi Li, Meining Nie, and Haixin Duan. Large-scale Security Measurements on the Android Firmware Ecosystem. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\] \[[paper/icse22-hou.pdf PDF]\] \[[https://github.com/chicharitomu14/AndScanner Code]\]
 . *\[ICSE'22\]* Shishuai Yang, Rui Li, Jiongyi Chen, *Wenrui Diao*, and Shanqing Guo. Demystifying Android Non-SDK APIs: Measurement and Understanding. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\] \[[paper/icse22-yang.pdf PDF]\] 
 . *\[IEEE TSE\]* Rui Li, *Wenrui Diao*, Zhou Li, Shishuai Yang, Shuang Li, and Shanqing Guo. Android Custom Permissions Demystified: A Comprehensive Security Evaluation. /IEEE Transactions on Software Engineering/, 2021. \[CCF A\] \[[https://ieeexplore.ieee.org/document/9573482 Link]\] \[[https://github.com/little-leiry/CuPerFuzzer Code]\]
 . *\[ICPADS'21\]* Jin Zhang, Chennan Zhang, Xiangyu Liu, Yuncheng Wang, *Wenrui Diao*, and Shanqing Guo. ShadowDroid: Practical Black-box Attack against ML-based Android Malware Detection. /The 27th IEEE International Conference on Parallel and Distributed Systems/, Beijing, China. December 14-16, 2021. \[CCF C\] \[[paper/icpads21-zhang.pdf PDF]\]
