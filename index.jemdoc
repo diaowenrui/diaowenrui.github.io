@@ -7,7 +7,9 @@
 == Wenrui Diao 刁文瑞
 Ph.D., The Chinese University of Hong Kong, 2017
 
-Qilu Young Professor (“齐鲁青年学者”特聘教授)
+#Taishan Young Scholar (山东省泰山学者青年专家)
+
+Qilu Young Professor (山东大学“齐鲁青年学者”特聘教授)
 
 School of Cyber Science and Technology, Shandong University
 
@@ -26,6 +28,10 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 
 ~~~
 *News:*
+
+>>> Nov 2022: One paper accepted by [https://qrs22.techconf.org/ IEEE QRS 2022].
+
+#>>> Oct 2022: I was awarded 山东省泰山学者青年专家.
 
 >>> Jul 2022: I will serve as TPC Member for [http://www.sklois.cn/inscrypt2022/ Inscrypt 2022].
 
@@ -93,30 +99,34 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 ~~~
 
 == 招生意向
-在网络空间安全专业（网络与系统安全方向）招收博士、硕士研究生，将主要开展国际水准的移动安全、物联网安全、侧信道分析、代码分析等方向研究。研究项目获得国家自然科学基金及山东大学高层次人才学科建设经费支持。研究成果发表于IEEE S&P、CCS、NDSS、RAID、DSN、ESORICS等多个[https://www.ccf.org.cn/Academic_Evaluation/NIS/ 系统安全领域顶级/著名国际会议]。欢迎对于系统安全研究具有浓厚兴趣，具备良好编程动手能力及系统软硬件知识的同学报考。
+在网络空间安全专业（网络与系统安全方向）招收博士、硕士研究生，将主要开展国际水准的移动安全、物联网安全、侧信道分析、代码分析等方向研究。研究项目获得国家自然科学基金及山东大学高层次人才学科建设经费支持。研究成果发表于IEEE S&P、CCS、NDSS、ICSE、RAID、DSN、ESORICS等多个[https://www.ccf.org.cn/Academic_Evaluation/NIS/ 系统安全\&软件工程领域顶级\/知名国际会议]。欢迎对于系统安全研究具有浓厚兴趣，具备良好编程动手能力及系统软硬件知识的同学报考。
 
 课题组为科研表现优异的研究生提供多种形式的国内/海外学术交流访问机会，为优秀硕士生提供硕转博衔接培养机会，为优秀博士生提供海外顶级系统安全实验室访问机会。P.S., 本组专业型硕士研究生（专硕）亦采用科研导向的培养模式，毕业标准参照学术型硕士研究生（学硕）。
 
 有意报考同学请通过电子邮件同我取得联系，标明推免报考类型（专硕\/学硕）。按照学院要求，不可在正式录取前确认学生，推免同学可在【我院推免录取名单公示后】同我联系，本院推免同学可提前进组参与科研实践，考研同学可在【通过我院研招复试后】同我联系。我院博士招生采用申请-考核制，一般在12月（来年4\/5月可能有少量名额的第二批招生）开展招生工作，可随时联系，但预计在11月名额才会较为确定。
 
-报考硕士研究生的同学需具备信息安全、计算机、软件工程等电子信息类本科专业背景，通过英语六级，请提供【简历】\+【本科成绩单】。申请博士研究生的同学需具备计算机安全或相关领域（如软件工程、操作系统、编程语言等）研究基础及论文发表经历，请提供【简历】\+【论文代表作】。如未提供有效材料，恕无法回复邮件。再次强调一下，本组研究方向关注现实安全问题，为非理论性研究，学生需具备【良好的编程与系统搭建能力】，以便开展科研。
+报考硕士研究生的同学需具备信息安全、计算机、软件工程等电子信息类本科专业背景，通过英语六级，请提供【简历】\+【本科成绩单】。申请博士研究生的同学需具备计算机安全或相关领域（如软件工程、操作系统、编程语言等）研究基础及论文发表经历，请提供【简历】\+【论文代表作】。如未提供有效材料，恕无法回复邮件。
+
+再次强调一下，本组研究方向关注现实安全问题，为非理论性研究，学生需具备【良好的编程与系统搭建能力】，以便开展科研。
 
 P.S., 山东大学为中央网信办和教育部一流网络安全学院建设示范项目高校。网络空间安全学院位于山东大学青岛校区，地处青岛市“蓝色硅谷”核心区，依山傍海，空气清新，景色宜人，校园距离海边直线距离不足500米。
+
+=== To 本校学生:
+
+- 鼓励已保研至本组的本校学生在大四（毕业设计阶段）参与科研实践，以尽早获得科研产出。
 
 ~~~
 {}{img_left}{pic/campus.png}{alt text}{}{190px}{} 
 ~~~
 
-== To 本校学生
 
-- 鼓励已保研至本组的本校学生在大四（毕业设计阶段）参与科研实践，以尽早获得科研产出。
 
 #- 关于各类学术实习推荐，我乐意为参与过本组科研实习、所指导竞赛队伍的同学提供推荐信。
 
 #- 有意愿参与本组科研实践的本科同学，一般应已完成计算机类核心课程（建议大二课程结束后），成绩排名前列，请提供成绩单以供参考。（每年度接收1-2名同学，2021年度已无空余名额，不再接收申请。）
 
 == Biography
-I am a Qilu Young Professor (“齐鲁青年学者”特聘教授) in [http://www.cst.qd.sdu.edu.cn/ School of Cyber Science and Technology] at [http://www.sdu.edu.cn/ Shandong University]. Before joining SDU, I obtained my Ph.D. degree from [http://www.cuhk.edu.hk/ The Chinese University of Hong Kong], under the supervision of [https://staff.ie.cuhk.edu.hk/~khzhang/ Prof. Kehuan Zhang]. Also, I ever visited \/ worked \/ interned at [http://www.jnu.edu.cn/ Jinan University], [https://www.indiana.edu/ Indiana University Bloomington], [http://www.cs.cityu.edu.hk/ City University of Hong Kong], [http://www.syniverse.com/home Syniverse Technologies], and [http://china.emc.com/campaign/centre-of-excellence/innovation.htm EMC Labs China]. My research focuses on system security, especially mobile security and IoT security. Also, I work closely with [http://faculty.sites.uci.edu/zhouli/ Prof. Zhou Li] and [http://www.informatics.indiana.edu/xw7/ Prof. XiaoFeng Wang]. I was a founding member of [http://ssl.ie.cuhk.edu.hk/ System Security Lab] of CUHK.
+I am a Qilu Young Professor (“齐鲁青年学者”特聘教授) in [http://www.cst.qd.sdu.edu.cn/ School of Cyber Science and Technology] at [http://www.sdu.edu.cn/ Shandong University]. Before joining SDU, I obtained my Ph.D. degree from [http://www.cuhk.edu.hk/ The Chinese University of Hong Kong], under the supervision of [https://staff.ie.cuhk.edu.hk/~khzhang/ Prof. Kehuan Zhang]. Also, I ever visited \/ worked \/ interned at [http://www.jnu.edu.cn/ Jinan University], [https://www.indiana.edu/ Indiana University Bloomington], [http://www.cs.cityu.edu.hk/ City University of Hong Kong], [http://www.syniverse.com/home Syniverse Technologies], and [http://china.emc.com/campaign/centre-of-excellence/innovation.htm EMC Labs China]. My research focuses on system security, especially mobile security and IoT security. Also, I work closely with [http://faculty.sites.uci.edu/zhouli/ Prof. Zhou Li] and [https://faculty.sdu.edu.cn/guoshanqing/zh_CN/index/521661/list/index.htm Prof. Shanqing Guo]. I was a founding member of [http://ssl.ie.cuhk.edu.hk/ System Security Lab] of CUHK.
 
 == Education
 - Aug 2013 - Aug 2017: Ph.D. in Information Engineering, supervised by [https://staff.ie.cuhk.edu.hk/~khzhang/ Prof. Kehuan Zhang], The Chinese University of Hong Kong, Hong Kong.
@@ -134,25 +144,32 @@ I am a Qilu Young Professor (“齐鲁青年学者”特聘教授) in [http://ww
 == Publications
 ~~~
 Publications at top-tier venues (10 papers): IEEE S&P ('21, '16), CCS (21', '15, '14), NDSS ('19, '18), ICSE ('22 × 3)
+
+Publications Ranking Statistics: CCF A: 9 papers, CCF B: 10 papers, CCF C: 8 papers
+
+#Author with (🧑‍🎓\/👩‍🎓): Student Author - 本组学生或本人所直接指导的学生
+
+#Author with (✉️): Corresponding Author - 通讯作者，即相关论文由本组所主导完成
 ~~~
 
-. *\[SECON'22\]* Jianqi Du, Fenghao Xu, Chennan Zhang, Zidong Zhang, Xiaoyin Liu, Pengcheng Ren, *Wenrui Diao*, Shanqing Guo, and Kehuan Zhang. Identifying the BLE Misconfigurations of IoT Devices through Companion Mobile Apps. /The 19th Annual IEEE International Conference on Sensing, Communication, and Networking/, Virtual Conference. September 20-23, 2022. \[CCF B\]
-. *\[WiSec'22\]* Chennan Zhang, Shuang Li, *Wenrui Diao*, and Shanqing Guo. PITracker: Detecting Android PendingIntent Vulnerabilities through Intent Flow Analysis. /The 15th ACM Conference on Security and Privacy in Wireless and Mobile Networks/, San Antonio, Texas, USA. May 16-19, 2022. \[CCF C\] \[[paper/wisec22-zhang.pdf PDF]\] \[[https://github.com/Sp1keeeee/PItracker Code]\]
+. *\[QRS'22\]* Guangwei Tian (🧑‍🎓), Jiongyi Chen (✉️), Kailun Yan (🧑‍🎓), Shishuai Yang (🧑‍🎓), Wenrui Diao (✉️), and Shanqing Guo. Cast Away: On the Security of DLNA Deployments in the SmartTV Ecosystem. /The 22nd IEEE International Conference on Software Quality, Reliability, and Security/, Guangzhou, China. December 5-9, 2022. \[CCF C\]
+. *\[SECON'22\]* Jianqi Du (🧑‍🎓), Fenghao Xu (✉️), Chennan Zhang (🧑‍🎓), Zidong Zhang (🧑‍🎓), Xiaoyin Liu (👩‍🎓), Pengcheng Ren, *Wenrui Diao* (✉️), Shanqing Guo, and Kehuan Zhang. Identifying the BLE Misconfigurations of IoT Devices through Companion Mobile Apps. /The 19th Annual IEEE International Conference on Sensing, Communication, and Networking/, Virtual Conference. September 20-23, 2022. \[CCF B\] \[[paper/secon22-du.pdf PDF]\]
+. *\[WiSec'22\]* Chennan Zhang (🧑‍🎓), Shuang Li (👩‍🎓), *Wenrui Diao* (✉️), and Shanqing Guo. PITracker: Detecting Android PendingIntent Vulnerabilities through Intent Flow Analysis. /The 15th ACM Conference on Security and Privacy in Wireless and Mobile Networks/, San Antonio, Texas, USA. May 16-19, 2022. \[CCF C\] \[[paper/wisec22-zhang.pdf PDF]\] \[[https://github.com/Sp1keeeee/PItracker Code]\]
 . *\[ICSE'22\]* Xing Zhang, Jiongyi Chen, Chao Feng, Ruilin Li, *Wenrui Diao*, Kehuan Zhang, Jing Lei, and and Chaojing Tang. DeFault: Mutual Information-based Crash Triage for Massive Crashes. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\] \[[paper/icse22-zhang.pdf PDF]\] 
 . *\[ICSE'22\]* Qinsheng Hou, *Wenrui Diao*, Yanhao Wang, Xiaofeng Liu, Song Liu, Lingyun Ying, Shanqing Guo, Yuanzhi Li, Meining Nie, and Haixin Duan. Large-scale Security Measurements on the Android Firmware Ecosystem. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\] \[[paper/icse22-hou.pdf PDF]\] \[[https://github.com/chicharitomu14/AndScanner Code]\]
-. *\[ICSE'22\]* Shishuai Yang, Rui Li, Jiongyi Chen, *Wenrui Diao*, and Shanqing Guo. Demystifying Android Non-SDK APIs: Measurement and Understanding. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\] \[[paper/icse22-yang.pdf PDF]\] 
-. *\[IEEE TSE\]* Rui Li, *Wenrui Diao*, Zhou Li, Shishuai Yang, Shuang Li, and Shanqing Guo. Android Custom Permissions Demystified: A Comprehensive Security Evaluation. /IEEE Transactions on Software Engineering/, 2021. \[CCF A\] \[[https://ieeexplore.ieee.org/document/9573482 Link]\] \[[https://github.com/little-leiry/CuPerFuzzer Code]\]
-. *\[ICPADS'21\]* Jin Zhang, Chennan Zhang, Xiangyu Liu, Yuncheng Wang, *Wenrui Diao*, and Shanqing Guo. ShadowDroid: Practical Black-box Attack against ML-based Android Malware Detection. /The 27th IEEE International Conference on Parallel and Distributed Systems/, Beijing, China. December 14-16, 2021. \[CCF C\] \[[paper/icpads21-zhang.pdf PDF]\]
-. *\[CCS'21\]* Fenghao Xu, Siyu Shen, *Wenrui Diao*, Zhou Li, Yi Chen, Rui Li, and Kehuan Zhang. Android on PC: On the Security of End-user Android Emulators. /The 28th ACM Conference on Computer and Communications Security/, Seoul, South Korea. November 15-19, 2021. \[Top\] \[CCF A\] \[[paper/ccs21-xu.pdf PDF]\] \[[https://sites.google.com/view/emulatorsec Demo]\]
-. *\[IEEE S&P'21\]* Rui Li, *Wenrui Diao*, Zhou Li, Jianqi Du, and Shanqing Guo. Android Custom Permissions Demystified: From Privilege Escalation to Design Shortcomings. /The 42nd IEEE Symposium on Security and Privacy/, San Francisco, CA, USA. May 23-27, 2021. \[Top\] \[CCF A\] \[[paper/oakland21-li.pdf PDF]\] \[[https://github.com/little-leiry/CuPerFuzzer Code]\] \[[https://sites.google.com/view/custom-permission Demo]\] \[CVE-2020-0418, CVE-2021-0306, CVE-2021-0307, CVE-2021-0317\]
-. *\[WiSec'20\]* Zicheng Zhang, *Wenrui Diao*, Chengyu Hu, Shanqing Guo, Chaoshun Zuo, and Li Li. An Empirical Study of Potentially Malicious Third-Party Libraries in Android Apps. /The 13th ACM Conference on Security and Privacy in Wireless and Mobile Networks/, Linz, Austria. July 8-10, 2020. \[CCF C\] \[[paper/wisec20-zhang.pdf PDF]\]
-. *\[RAID'19\]* *Wenrui Diao*, Yue Zhang, Li Zhang, Zhou Li, Fenghao Xu, Xiaorui Pan, Xiangyu Liu, Jian Weng, Kehuan Zhang, and XiaoFeng Wang. Kindness is a Risky Business: On the Usage of the Accessibility APIs in Android. /The 22nd International Symposium on Research in Attacks, Intrusions and Defenses/, Beijing, China. September 23-25, 2019. \[CCF B\]  \[[paper/raid2019-diao.pdf PDF]\] \[[https://sites.google.com/site/droidaccessibility/ Demo]\]
-. *\[RAID'19\]* Li Zhang, Jiongyi Chen, *Wenrui Diao*, Shanqing Guo, Jian Weng, and Kehuan Zhang. CryptoREX: Large-scale Analysis of Cryptographic Misuse in IoT Devices. /The 22nd International Symposium on Research in Attacks, Intrusions and Defenses/, Beijing, China. September 23-25, 2019. \[CCF B\] \[[paper/raid2019-zhang-li.pdf PDF]\] \[[https://github.com/zhanglikernel/CRYPTOREX Code]\]
+. *\[ICSE'22\]* Shishuai Yang (🧑‍🎓), Rui Li (👩‍🎓), Jiongyi Chen, *Wenrui Diao* (✉️), and Shanqing Guo. Demystifying Android Non-SDK APIs: Measurement and Understanding. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\] \[[paper/icse22-yang.pdf PDF]\] 
+. *\[IEEE TSE\]* Rui Li (👩‍🎓), *Wenrui Diao* (✉️), Zhou Li, Shishuai Yang (🧑‍🎓), Shuang Li (👩‍🎓), and Shanqing Guo. Android Custom Permissions Demystified: A Comprehensive Security Evaluation. /IEEE Transactions on Software Engineering/, 2021. \[CCF A\] \[[https://ieeexplore.ieee.org/document/9573482 Link]\] \[[https://github.com/little-leiry/CuPerFuzzer Code]\]
+. *\[ICPADS'21\]* Jin Zhang (🧑‍🎓), Chennan Zhang (🧑‍🎓), Xiangyu Liu, Yuncheng Wang (🧑‍🎓), *Wenrui Diao* (✉️), and Shanqing Guo. ShadowDroid: Practical Black-box Attack against ML-based Android Malware Detection. /The 27th IEEE International Conference on Parallel and Distributed Systems/, Beijing, China. December 14-16, 2021. \[CCF C\] \[[paper/icpads21-zhang.pdf PDF]\]
+. *\[CCS'21\]* Fenghao Xu, Siyu Shen, *Wenrui Diao*, Zhou Li, Yi Chen, Rui Li (👩‍🎓), and Kehuan Zhang. Android on PC: On the Security of End-user Android Emulators. /The 28th ACM Conference on Computer and Communications Security/, Seoul, South Korea. November 15-19, 2021. \[Top\] \[CCF A\] \[[paper/ccs21-xu.pdf PDF]\] \[[https://sites.google.com/view/emulatorsec Demo]\]
+. *\[IEEE S&P'21\]* Rui Li (👩‍🎓), *Wenrui Diao* (✉️), Zhou Li, Jianqi Du (🧑‍🎓), and Shanqing Guo. Android Custom Permissions Demystified: From Privilege Escalation to Design Shortcomings. /The 42nd IEEE Symposium on Security and Privacy/, San Francisco, CA, USA. May 23-27, 2021. \[Top\] \[CCF A\] \[[paper/oakland21-li.pdf PDF]\] \[[https://github.com/little-leiry/CuPerFuzzer Code]\] \[[https://sites.google.com/view/custom-permission Demo]\] \[CVE-2020-0418, CVE-2021-0306, CVE-2021-0307, CVE-2021-0317\]
+. *\[WiSec'20\]* Zicheng Zhang, *Wenrui Diao* (✉️), Chengyu Hu, Shanqing Guo (✉️), Chaoshun Zuo, and Li Li. An Empirical Study of Potentially Malicious Third-Party Libraries in Android Apps. /The 13th ACM Conference on Security and Privacy in Wireless and Mobile Networks/, Linz, Austria. July 8-10, 2020. \[CCF C\] \[[paper/wisec20-zhang.pdf PDF]\]
+. *\[RAID'19\]* *Wenrui Diao* (✉️), Yue Zhang, Li Zhang (🧑‍🎓), Zhou Li, Fenghao Xu, Xiaorui Pan, Xiangyu Liu, Jian Weng, Kehuan Zhang, and XiaoFeng Wang. Kindness is a Risky Business: On the Usage of the Accessibility APIs in Android. /The 22nd International Symposium on Research in Attacks, Intrusions and Defenses/, Beijing, China. September 23-25, 2019. \[CCF B\]  \[[paper/raid2019-diao.pdf PDF]\] \[[https://sites.google.com/site/droidaccessibility/ Demo]\]
+. *\[RAID'19\]* Li Zhang (🧑‍🎓), Jiongyi Chen, *Wenrui Diao* (✉️), Shanqing Guo, Jian Weng, and Kehuan Zhang. CryptoREX: Large-scale Analysis of Cryptographic Misuse in IoT Devices. /The 22nd International Symposium on Research in Attacks, Intrusions and Defenses/, Beijing, China. September 23-25, 2019. \[CCF B\] \[[paper/raid2019-zhang-li.pdf PDF]\] \[[https://github.com/zhanglikernel/CRYPTOREX Code]\]
 . *\[DSN'19\]* Jiongyi Chen, Chaoshun Zuo, *Wenrui Diao*, Shuaike Dong, Qingchuan Zhao, Menghan Sun, Zhiqiang Lin, Yinqian Zhang, and Kehuan Zhang. Your IoTs Are (Not) Mine: On the Remote Binding Between IoT Devices and Users. /The 49th IEEE\/IFIP International Conference on Dependable Systems and Networks/, Portland, OR, USA. June 24-27, 2019. \[CCF B\] \[[paper/dsn19-chen.pdf PDF]\] 
 . *\[NDSS'19\]*​ Fenghao Xu, *Wenrui Diao*, Zhou Li, Jiongyi Chen, and Kehuan Zhang. BadBluetooth: Breaking Android Security Mechanisms via Malicious Bluetooth Peripherals. /The 26th Annual Network and Distributed System Security Symposium/, San Diego, CA, USA. February 24-27, 2019. \[Top\] \[CCF B\] \[[paper/ndss19-xu.pdf PDF]\] \[[https://sites.google.com/view/bluetoothvul/ Demo]\] \[CVE-2019-2225\]
-. *\[ICSME'18\]*​ Chao Chen, *Wenrui Diao*, Yingpei Zeng, Shanqing Guo, and Chengyu Hu. DRLgencert: Deep Learning-based Automated Testing of Certificate Verification in SSL\/TLS Implementations. /The 34th IEEE International Conference on Software Maintenance and Evolution/, Madrid, Spain. September 23-29, 2018. \[CCF B\] \[[paper/icsme18-chen.pdf PDF]\] 
+. *\[ICSME'18\]*​ Chao Chen, *Wenrui Diao* (✉️), Yingpei Zeng, Shanqing Guo (✉️), and Chengyu Hu. DRLgencert: Deep Learning-based Automated Testing of Certificate Verification in SSL\/TLS Implementations. /The 34th IEEE International Conference on Software Maintenance and Evolution/, Madrid, Spain. September 23-29, 2018. \[CCF B\] \[[paper/icsme18-chen.pdf PDF]\] 
 . *\[SecureComm'18\]*​ Shuaike Dong, Menghao Li, *Wenrui Diao*, Xiangyu Liu, Jian Liu, Zhou Li, Fenghao Xu, Kai Chen, XiaoFeng Wang, and Kehuan Zhang. Understanding Android Obfuscation Techniques: A Large-Scale Investigation in the Wild. /The 14th EAI International Conference on Security and Privacy in Communication Networks/, Singapore​. August 8-10, 2018. \[CCF C\] \[[paper/securecomm18-dong.pdf PDF]\]
-. *\[JCS\]* *Wenrui Diao*, Rui Liu, Xiangyu Liu, Zhe Zhou, Zhou Li, and Kehuan Zhang. Accessing Mobile User’s Privacy Based on IME Personalization: Understanding and Practical Attacks. /Journal of Computer Security/. vol. 26, no. 3, pp. 283-309, 2018. \[CCF B\] \[[https://content.iospress.com/articles/journal-of-computer-security/jcs16909 Link]\]
+. *\[JCS\]* *Wenrui Diao* (✉️), Rui Liu, Xiangyu Liu, Zhe Zhou, Zhou Li, and Kehuan Zhang. Accessing Mobile User’s Privacy Based on IME Personalization: Understanding and Practical Attacks. /Journal of Computer Security/. vol. 26, no. 3, pp. 283-309, 2018. \[CCF B\] \[[https://content.iospress.com/articles/journal-of-computer-security/jcs16909 Link]\]
 . *\[DSN'18\]* Jia Chen, Ge Han, Shanqing Guo, and *Wenrui Diao*. FragDroid: Automated User Interface Interaction with Activity and Fragment Analysis in Android Applications. /The 48th IEEE\/IFIP International Conference on Dependable Systems and Networks/, Luxembourg City, Luxembourg. June 23-28, 2018. \[CCF B\]  \[[paper/dsn18-chen.pdf PDF]\] 
 . *\[NDSS'18\]* Jiongyi Chen, *Wenrui Diao*, Qingchuan Zhao, Chaoshun Zuo, Zhiqiang Lin, XiaoFeng Wang, Wing Cheong Lau, Menghan Sun, Ronghai Yang, and Kehuan Zhang. IoTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing. /The 25th Annual Network and Distributed System Security Symposium/, San Diego, CA, USA. February 18-21, 2018. \[Top\] \[CCF B\] \[[paper/ndss18-chen.pdf PDF]\]
 . *\[PETS'17\]* Zhe Zhou, *Wenrui Diao*, Xiangyu Liu, Zhou Li, Kehuan Zhang, and Rui Liu. Vulnerable GPU Memory Management: Towards Recovering Raw Data from GPU. /The 17th Privacy Enhancing Technologies Symposium/, Minneapolis, MN, USA. July 19-22, 2017. \[CCF C\]
@@ -168,7 +185,7 @@ Publications at top-tier venues (10 papers): IEEE S&P ('21, '16), CCS (21', '15,
 #\[Media Coverage: [https://uk.news.yahoo.com/google-voice-search-android-smartphones-could-exploited-malware-061413938.html Yahoo! News], [http://www.theregister.co.uk/2014/07/29/bump_in_the_night_nope_its_your_android_blabbering_to_hackers/ The Register], [http://www.ibtimes.co.uk/google-voice-search-android-smartphones-could-be-exploited-by-malware-states-research-1461842 IBTimes], [http://www.net-security.org/secworld.php?id=17178 Help Net Security], [http://www.tomsguide.com/us/loudmouth-android-malware-secrets,news-19234.html Tom's Guide], [http://www.cnbeta.com/articles/312895.htm cnBeta], [https://news.mingpao.com/pns/%E5%AD%B8%E8%80%85%E6%8F%AD%E6%89%8B%E6%A9%9F%E7%A4%BE%E4%BA%A4%E7%B6%B2%E6%BC%8F%E6%B4%9E%20%E9%BB%91%E5%AE%A2%E9%81%99%E6%8E%A7%E8%AA%9E%E9%9F%B3%E5%8A%9F%E8%83%BD%E7%9B%9C%E7%A7%81%E9%9A%B1/web_tc/article/20150710/s00002/1436464098927 Ming Pao (明報)], [http://news.takungpao.com.hk/paper/q/2015/0710/3046081.html Ta Kung Pao (大公報)], [http://std.stheadline.com/yesterday/edu/0710go04.html Sing Tao Daily (星島日報)]\]
 
 == Professional Activities
-*TPC Member:*
+=== TPC Member:
 - International Conference on Information Security and Cryptology (Inscrypt): 2022
 - International Conference on Network and System Security (NSS): 2022
 - International Conference on Information and Communications Security (*ICICS*): 2022, 2021
@@ -178,7 +195,7 @@ Publications at top-tier venues (10 papers): IEEE S&P ('21, '16), CCS (21', '15,
 - IEEE International Conference on Mobile Ad-Hoc and Smart Systems (*MASS*): 2020
 - ACM Conference on Computer and Communications Security (*CCS*): 2019, 2018
 
-*Reviewer:*
+=== Reviewer:
 - IEEE Security and Privacy Magazine
 - ACM Transactions on Software Engineering and Methodology
 - IEEE Transactions on Mobile Computing
@@ -190,7 +207,7 @@ Publications at top-tier venues (10 papers): IEEE S&P ('21, '16), CCS (21', '15,
 - 《通讯学报》
 - 《信息安全学报》
 
-*External Reviewer:*
+=== External Reviewer:
 - International Conference on Applied Cryptography and Network Security (ACNS): 2021
 - Network and Distributed System Security Symposium (NDSS): 2018
 - ACM Conference on Computer and Communications Security (CCS): 2014, 2015, 2016, 2017
@@ -235,6 +252,7 @@ Teaching Assistant@CUHK:
 - IERG 3310 - Computer Networks: 2014 Fall
 
 == Awards
+- 2022: Taishan Young Scholar, Shandong Province (山东省泰山学者青年专家)
 - 2021: 第十四届全国大学生信息安全竞赛-作品赛 优秀指导教师
 - 2020: [https://www.acmturc.com/2020/en/new_star_award.html ACM SIGSAC China Rising Star Award] ([https://www.acmturc.com/2020/cn/new_star_award.html ACM SIGSAC China新星奖]), 2019
 - 2019: Qilu Young Scholar, Shandong University (山东大学“齐鲁青年学者”)
@@ -243,8 +261,8 @@ Teaching Assistant@CUHK:
 - 2016: IEEE S&P 2016 Student Travel Grants, [https://www.ieee-security.org/TC/SP2016/ The 37th IEEE Symposium on Security and Privacy]
 - 2012: Dean’s List 2010-2011, Faculty of Engineering, CUHK
 
-*指导学生获奖:*
-- 研究生: ACM WiSec Student Travel Grants (2022), DataCon大数据安全分析竞赛-邮件安全赛道 第8名 (2021), 硕士研究生国家奖学金 (2021), 山东大学研究生优秀学术成果奖二等奖 (2021), 山东大学第十二届学生“五•四”青年科学奖优秀成果奖 (2021), IEEE S&P Student Registration Grants (2021), 硕士研究生国家奖学金 (2020) 
+=== 指导学生获奖  (校级以上奖励):
+- 研究生: ACM WiSec Student Travel Grants (2022), DataCon大数据安全分析竞赛-邮件安全赛道 第8名 (2021), 博士研究生中期考核优秀 (2021), 硕士研究生国家奖学金 (2021), 山东大学研究生优秀学术成果奖二等奖 (2021), 山东大学第十二届学生“五•四”青年科学奖优秀成果奖 (2021), IEEE S&P Student Registration Grants (2021), 硕士研究生国家奖学金 (2020) 
  
 - 本科生: 第十四届全国大学生信息安全竞赛-作品赛一等奖 (2021)
 
@@ -266,7 +284,7 @@ Teaching Assistant@CUHK:
 - Wenzhi Li (MS Student, 2022 - )
 - Yifan Yu (MS Student, 2022 - )
 
-Alumni:
+=== Alumni:
 - Jin Zhang (MS Student at Shandong University, Graduated in 2022)
 -- Publications (first author): ICPADS 2021
 -- Awards: 硕士研究生国家奖学金
