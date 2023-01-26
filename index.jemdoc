@@ -29,6 +29,8 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 ~~~
 *News:*
 
+>>> Jan 2023: One paper accepted by [https://www2023.thewebconf.org/ WWW 2023].
+
 >>> Nov 2022: One paper accepted by [https://qrs22.techconf.org/ IEEE QRS 2022].
 
 >>> Oct 2022: I was awarded 山东省泰山学者青年专家.
@@ -59,11 +61,11 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 
 >>> Mar 2021: I will serve as TPC Member for [https://www.icics.cn/ ICICS 2021].
 
->>> Jan 2021: I will serve as TPC Member for [https://asset-group.github.io/simla2021/ SiMLA 2021].
+#>>> Jan 2021: I will serve as TPC Member for [https://asset-group.github.io/simla2021/ SiMLA 2021].
 
->>> Dec 2020: I will serve as TPC Member for [https://esorics2021.athene-center.de/ ESORICS 2021].
+#>>> Dec 2020: I will serve as TPC Member for [https://esorics2021.athene-center.de/ ESORICS 2021].
 
->>> Nov 2020: One paper accepted by [https://www.ieee-security.org/TC/SP2021/ IEEE S&P 2021].
+#>>> Nov 2020: One paper accepted by [https://www.ieee-security.org/TC/SP2021/ IEEE S&P 2021].
 
 #>>> Aug 2020: I will serve as TPC Member for [https://www.iitr.ac.in/mass2020/ IEEE MASS 2020].
 
@@ -143,15 +145,16 @@ I am a Qilu Young Professor (“齐鲁青年学者”特聘教授) in [http://ww
 
 == Publications
 ~~~
-Publications at top-tier venues (10 papers): IEEE S&P ('21, '16), CCS (21', '15, '14), NDSS ('19, '18), ICSE ('22 × 3)
+Publications at top-tier venues (11 papers): IEEE S&P ('21, '16), CCS (21', '15, '14), NDSS ('19, '18), ICSE ('22 × 3), WWW ('23)
 
-Publications Ranking Statistics: CCF A: 11 papers, CCF B: 8 papers, CCF C: 8 papers
+Publications Ranking Statistics: CCF A: 12 papers, CCF B: 8 papers, CCF C: 8 papers
 
 #Author with (👨‍🎓\/👩🏻‍🎓): Student Author - 本组学生或本人所直接指导的学生
 
 Author with (✉️): Corresponding Author - 通讯作者，即相关论文由本组所主导完成
 ~~~
 
+. *\[WWW'23\]* Kailun Yan, Jilian Zhang, Xiangyu Liu, *Wenrui Diao* (✉️), and Shanqing Guo. Bad Apples: Understanding the Centralized Security Risks in Decentralized Ecosystems. /The 32nd ACM Web Conference/, Austin, Texas, USA. April 30 - May 4, 2023. \[Top\] \[CCF A\]
 . *\[QRS'22\]* Guangwei Tian, Jiongyi Chen (✉️), Kailun Yan, Shishuai Yang, and *Wenrui Diao* (✉️). Cast Away: On the Security of DLNA Deployments in the SmartTV Ecosystem. /The 22nd IEEE International Conference on Software Quality, Reliability, and Security/, Guangzhou, China. December 5-9, 2022. \[CCF C\] \[[paper/qrs22-tian.pdf PDF]\]
 . *\[SECON'22\]* Jianqi Du, Fenghao Xu (✉️), Chennan Zhang, Zidong Zhang, Xiaoyin Liu, Pengcheng Ren, *Wenrui Diao* (✉️), Shanqing Guo, and Kehuan Zhang. Identifying the BLE Misconfigurations of IoT Devices through Companion Mobile Apps. /The 19th Annual IEEE International Conference on Sensing, Communication, and Networking/, Virtual Conference. September 20-23, 2022. \[CCF B\] \[[paper/secon22-du.pdf PDF]\]
 . *\[WiSec'22\]* Chennan Zhang, Shuang Li, *Wenrui Diao* (✉️), and Shanqing Guo. PITracker: Detecting Android PendingIntent Vulnerabilities through Intent Flow Analysis. /The 15th ACM Conference on Security and Privacy in Wireless and Mobile Networks/, San Antonio, Texas, USA. May 16-19, 2022. \[CCF C\] \[[paper/wisec22-zhang.pdf PDF]\] \[[https://github.com/Sp1keeeee/PItracker Code]\]
