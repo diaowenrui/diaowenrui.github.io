@@ -101,13 +101,13 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 ~~~
 
 == 招生意向
-在网络空间安全专业（网络与系统安全方向）招收博士、硕士研究生，将主要开展国际水准的移动安全、物联网安全、侧信道分析、代码分析等方向研究。研究项目获得国家自然科学基金及山东大学高层次人才学科建设经费支持。研究成果发表于IEEE S&P、CCS、NDSS、ICSE、RAID、DSN、ESORICS等多个[https://www.ccf.org.cn/Academic_Evaluation/NIS/ 系统安全\&软件工程领域顶级\/知名国际会议]。欢迎对于系统安全研究具有浓厚兴趣，具备良好编程动手能力及系统软硬件知识的同学报考。
+在网络空间安全专业（网络与系统安全方向）招收博士、硕士研究生，将主要开展国际水准的移动安全与物联网安全方向研究。研究项目获得国家自然科学基金、山东省泰山学者工程、山东大学高层次人才学科建设经费等支持。研究成果发表于IEEE S&P、CCS、NDSS、ICSE、RAID、DSN、ESORICS等多个[https://www.ccf.org.cn/Academic_Evaluation/NIS/ 系统安全\&软件工程领域顶级\/知名国际会议]。欢迎对于系统安全研究具有浓厚兴趣，具备良好编程动手能力及系统软硬件知识的同学报考。
 
 课题组为科研表现优异的研究生提供多种形式的国内/海外学术交流访问机会，为优秀硕士生提供硕转博衔接培养机会，为优秀博士生提供海外顶级系统安全实验室访问机会。P.S., 本组专业型硕士研究生（专硕）亦采用科研导向的培养模式，毕业标准参照学术型硕士研究生（学硕）。
 
 有意报考同学请通过电子邮件同我取得联系，标明推免报考类型（专硕\/学硕）。按照学院要求，不可在正式录取前确认学生，推免同学可在【我院推免录取名单公示后】同我联系，本院推免同学可提前进组参与科研实践，考研同学可在【通过我院研招复试后】同我联系。我院博士招生采用申请-考核制，一般在12月（来年4\/5月可能有少量名额的第二批招生）开展招生工作，可随时联系，但预计在11月名额才会较为确定。
 
-报考硕士研究生的同学需具备信息安全、计算机、软件工程等电子信息类本科专业背景，通过英语六级，请提供【简历】\+【本科成绩单】。申请博士研究生的同学需具备计算机安全或相关领域（如软件工程、操作系统、编程语言等）研究基础及论文发表经历，请提供【简历】\+【论文代表作】。如未提供有效材料，恕无法回复邮件。
+报考硕士研究生的同学需具备信息安全、计算机、软件工程等电子信息类本科专业背景，通过英语六级，请提供【简历】\+【本科成绩单】，CTF等安全竞赛经历为加分项。申请博士研究生的同学需具备计算机安全或相关领域（如软件工程、操作系统、编程语言等）研究基础及论文发表经历，请提供【简历】\+【论文代表作】。如未提供有效材料，恕无法回复邮件。
 
 再次强调一下，本组研究方向关注现实安全问题，为非理论性研究，学生需具备【良好的编程与系统搭建能力】，以便开展科研。
 
@@ -154,7 +154,7 @@ Publications Ranking Statistics: CCF A: 12 papers, CCF B: 8 papers, CCF C: 8 pap
 Author with (✉️): Corresponding Author - 通讯作者，即相关论文由本组所主导完成
 ~~~
 
-. *\[WWW'23\]* Kailun Yan, Jilian Zhang, Xiangyu Liu, *Wenrui Diao* (✉️), and Shanqing Guo. Bad Apples: Understanding the Centralized Security Risks in Decentralized Ecosystems. /The 32nd ACM Web Conference/, Austin, Texas, USA. April 30 - May 4, 2023. \[Top\] \[CCF A\]
+. *\[WWW'23\]* Kailun Yan, Jilian Zhang, Xiangyu Liu, *Wenrui Diao* (✉️), and Shanqing Guo. Bad Apples: Understanding the Centralized Security Risks in Decentralized Ecosystems. /The 32nd ACM Web Conference/, Austin, Texas, USA. April 30 - May 4, 2023. \[Top\] \[CCF A\] \[Media Coverage: [https://www.view.sdu.edu.cn/info/1021/175584.htm 山大视点]\]
 . *\[QRS'22\]* Guangwei Tian, Jiongyi Chen (✉️), Kailun Yan, Shishuai Yang, and *Wenrui Diao* (✉️). Cast Away: On the Security of DLNA Deployments in the SmartTV Ecosystem. /The 22nd IEEE International Conference on Software Quality, Reliability, and Security/, Guangzhou, China. December 5-9, 2022. \[CCF C\] \[[paper/qrs22-tian.pdf PDF]\]
 . *\[SECON'22\]* Jianqi Du, Fenghao Xu (✉️), Chennan Zhang, Zidong Zhang, Xiaoyin Liu, Pengcheng Ren, *Wenrui Diao* (✉️), Shanqing Guo, and Kehuan Zhang. Identifying the BLE Misconfigurations of IoT Devices through Companion Mobile Apps. /The 19th Annual IEEE International Conference on Sensing, Communication, and Networking/, Virtual Conference. September 20-23, 2022. \[CCF B\] \[[paper/secon22-du.pdf PDF]\]
 . *\[WiSec'22\]* Chennan Zhang, Shuang Li, *Wenrui Diao* (✉️), and Shanqing Guo. PITracker: Detecting Android PendingIntent Vulnerabilities through Intent Flow Analysis. /The 15th ACM Conference on Security and Privacy in Wireless and Mobile Networks/, San Antonio, Texas, USA. May 16-19, 2022. \[CCF C\] \[[paper/wisec22-zhang.pdf PDF]\] \[[https://github.com/Sp1keeeee/PItracker Code]\]
@@ -203,12 +203,14 @@ Author with (✉️): Corresponding Author - 通讯作者，即相关论文由�
 - ACM Transactions on Software Engineering and Methodology
 - IEEE Transactions on Mobile Computing
 - IEEE Transactions on Information Forensics and Security
+- Information and Software Technology (Elsevier)
 - Journal of Network and Computer Applications (Elsevier)
 - Applied Computing and Informatics (Elsevier)
 - The Computer Journal (Oxford)
 - Cybersecurity (Springer)
 - 《通讯学报》
 - 《信息安全学报》
+- 《网络与信息安全学报》
 
 === External Reviewer:
 - International Conference on Applied Cryptography and Network Security (ACNS): 2021
@@ -223,7 +225,11 @@ Author with (✉️): Corresponding Author - 通讯作者，即相关论文由�
 
 
 == Invited Talks
+- Large-scale Security Measurement for Android Ecosystem
+-- Apr 2023: [https://mp.weixin.qq.com/s/YsnFpk7R_MhtdX__haruXw InForSec 2023年网络空间安全国际学术研究成果分享及青年学者论坛]
+
 - Android Custom Permissions Demystified
+-- Dec 2021: [https://mp.weixin.qq.com/s/su1CjMIz-RTKXbdlDDvMPA 之江实验室可信计算前沿学术研讨会]
 -- Jul 2021: [https://www.acmturc.com/2021/en/SIGSAC_China.html SIGSAC@ACM Turing Award Celebration Conference - China]
 
 - BadBluetooth: Breaking Android Security Mechanisms via Malicious Bluetooth Peripherals
@@ -235,7 +241,7 @@ Author with (✉️): Corresponding Author - 通讯作者，即相关论文由�
 
 == Teaching
 Instructor@SDU:
-- 04630210 - [https://diaowenrui.github.io/reverse-engineering/ Reverse Engineering (逆向工程)]: 2022 Spring
+- 04630210 - [https://diaowenrui.github.io/reverse-engineering/ Reverse Engineering (逆向工程)]: 2023 Spring, 2022 Spring
 - 04630130 - [https://diaowenrui.github.io/software-security/ Software Security (软件安全)]: 2022 Fall, 2021 Fall, 2020 Fall
 - 04630080 - [https://diaowenrui.github.io/computer-networks/ Computer Networks (计算机网络)]: 2021 Spring, 2020 Spring
 - 0740003 - [https://diaowenrui.github.io/computing-system-security/ Computing System Security (计算系统安全)]: 2021 Fall, 2020 Fall, 2019 Fall
@@ -291,6 +297,7 @@ Teaching Assistant@CUHK:
 - Jin Zhang (MS Student at Shandong University, Graduated in 2022)
 -- Publications (first author): ICPADS 2021
 -- Awards: 硕士研究生国家奖学金
+
 - Li Zhang (Co-supervised MS Student at Jinan University, Graduated in 2019)
 -- Publications (first author): RAID 2019
 -- Awards: RAID 2019 Student Travel Grants
