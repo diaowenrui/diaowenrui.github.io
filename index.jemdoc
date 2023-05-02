@@ -59,7 +59,7 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 
 >>> Jul 2021: One paper accepted by [https://www.sigsac.org/ccs/CCS2021/index.html ACM CCS 2021].
 
->>> Mar 2021: I will serve as TPC Member for [https://www.icics.cn/ ICICS 2021].
+#>>> Mar 2021: I will serve as TPC Member for [https://www.icics.cn/ ICICS 2021].
 
 #>>> Jan 2021: I will serve as TPC Member for [https://asset-group.github.io/simla2021/ SiMLA 2021].
 
@@ -154,10 +154,10 @@ Publications Ranking Statistics: CCF A: 12 papers, CCF B: 8 papers, CCF C: 8 pap
 Author with (✉️): Corresponding Author - 通讯作者，即相关论文由本组所主导完成
 ~~~
 
-. *\[WWW'23\]* Kailun Yan, Jilian Zhang, Xiangyu Liu, *Wenrui Diao* (✉️), and Shanqing Guo. Bad Apples: Understanding the Centralized Security Risks in Decentralized Ecosystems. /The 32nd ACM Web Conference/, Austin, Texas, USA. April 30 - May 4, 2023. \[Top\] \[CCF A\] \[Media Coverage: [https://www.view.sdu.edu.cn/info/1021/175584.htm 山大视点]\]
-. *\[QRS'22\]* Guangwei Tian, Jiongyi Chen (✉️), Kailun Yan, Shishuai Yang, and *Wenrui Diao* (✉️). Cast Away: On the Security of DLNA Deployments in the SmartTV Ecosystem. /The 22nd IEEE International Conference on Software Quality, Reliability, and Security/, Guangzhou, China. December 5-9, 2022. \[CCF C\] \[[paper/qrs22-tian.pdf PDF]\]
+. *\[WWW'23\]* Kailun Yan, Jilian Zhang, Xiangyu Liu, *Wenrui Diao* (✉️), and Shanqing Guo. Bad Apples: Understanding the Centralized Security Risks in Decentralized Ecosystems. /The 32nd ACM Web Conference/, Austin, Texas, USA. April 30 - May 4, 2023. \[Top\] \[CCF A\] \[[paper/www23-yan.pdf PDF]\] \[Media Coverage: [https://www.view.sdu.edu.cn/info/1021/175584.htm 山大视点]\]
+. *\[QRS'22\]* Guangwei Tian, Jiongyi Chen (✉️), Kailun Yan, Shishuai Yang, and *Wenrui Diao* (✉️). Cast Away: On the Security of DLNA Deployments in the SmartTV Ecosystem. /The 22nd IEEE International Conference on Software Quality, Reliability, and Security/, Guangzhou, China. December 5-9, 2022. \[CCF C\] \[[paper/qrs22-tian.pdf PDF]\] \[CNVD-2022-54667, CNVD-2022-34589\]
 . *\[SECON'22\]* Jianqi Du, Fenghao Xu (✉️), Chennan Zhang, Zidong Zhang, Xiaoyin Liu, Pengcheng Ren, *Wenrui Diao* (✉️), Shanqing Guo, and Kehuan Zhang. Identifying the BLE Misconfigurations of IoT Devices through Companion Mobile Apps. /The 19th Annual IEEE International Conference on Sensing, Communication, and Networking/, Virtual Conference. September 20-23, 2022. \[CCF B\] \[[paper/secon22-du.pdf PDF]\]
-. *\[WiSec'22\]* Chennan Zhang, Shuang Li, *Wenrui Diao* (✉️), and Shanqing Guo. PITracker: Detecting Android PendingIntent Vulnerabilities through Intent Flow Analysis. /The 15th ACM Conference on Security and Privacy in Wireless and Mobile Networks/, San Antonio, Texas, USA. May 16-19, 2022. \[CCF C\] \[[paper/wisec22-zhang.pdf PDF]\] \[[https://github.com/Sp1keeeee/PItracker Code]\]
+. *\[WiSec'22\]* Chennan Zhang, Shuang Li, *Wenrui Diao* (✉️), and Shanqing Guo. PITracker: Detecting Android PendingIntent Vulnerabilities through Intent Flow Analysis. /The 15th ACM Conference on Security and Privacy in Wireless and Mobile Networks/, San Antonio, Texas, USA. May 16-19, 2022. \[CCF C\] \[[paper/wisec22-zhang.pdf PDF]\] \[[https://github.com/Sp1keeeee/PItracker Code]\] \[CNVD-2021-102096, CNVD-2021-100644\] 
 . *\[ICSE'22\]* Xing Zhang, Jiongyi Chen, Chao Feng, Ruilin Li, *Wenrui Diao*, Kehuan Zhang, Jing Lei, and and Chaojing Tang. DeFault: Mutual Information-based Crash Triage for Massive Crashes. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\] \[[paper/icse22-zhang.pdf PDF]\] 
 . *\[ICSE'22\]* Qinsheng Hou, *Wenrui Diao*, Yanhao Wang, Xiaofeng Liu, Song Liu, Lingyun Ying, Shanqing Guo, Yuanzhi Li, Meining Nie, and Haixin Duan. Large-scale Security Measurements on the Android Firmware Ecosystem. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\] \[[paper/icse22-hou.pdf PDF]\] \[[https://github.com/chicharitomu14/AndScanner Code]\]
 . *\[ICSE'22\]* Shishuai Yang, Rui Li, Jiongyi Chen, *Wenrui Diao* (✉️), and Shanqing Guo. Demystifying Android Non-SDK APIs: Measurement and Understanding. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\] \[[paper/icse22-yang.pdf PDF]\] 
@@ -284,10 +284,10 @@ Teaching Assistant@CUHK:
 - Shishuai Yang (MS-Ph.D. Student, 2020 - )
 - Jianqi Du (Ph.D. Student, 2020 - )
 - Kailun Yan (Ph.D. Student, 2021 - )
+- Shuang Li (MS-Ph.D. Student, 2021 - )
 - Guangwei Tian (MS Student, 2020 - )
 - Chennan Zhang (MS Student, 2020 - )
 - Zidong Zhang (MS Student, 2021 - )
-- Shuang Li (MS Student, 2021 - )
 - Xiaoyin Liu (MS Student, 2021 - )
 - Jialong Guo (MS Student, 2022 - )
 - Wenzhi Li (MS Student, 2022 - )
