@@ -29,6 +29,10 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 ~~~
 *News:*
 
+>>> Jun 2023: One paper accepted by [https://www.usenix.org/conference/usenixsecurity23 USENIX Security 2023].
+
+>>> May 2023: One paper accepted by [https://www.computer.org/csdl/journal/ts IEEE TSE].
+
 >>> Jan 2023: One paper accepted by [https://www2023.thewebconf.org/ WWW 2023].
 
 >>> Nov 2022: One paper accepted by [https://qrs22.techconf.org/ IEEE QRS 2022].
@@ -133,7 +137,7 @@ P.S., 山东大学为中央网信办和教育部一流网络安全学院建设�
 #- 有意愿参与本组科研实践的本科同学，一般应已完成计算机类核心课程（建议大二课程结束后），成绩排名前列，请提供成绩单以供参考。（每年度接收1-2名同学，2021年度已无空余名额，不再接收申请。）
 
 == Biography
-I am a Qilu Young Professor (“齐鲁青年学者”特聘教授) in [http://www.cst.qd.sdu.edu.cn/ School of Cyber Science and Technology] at [http://www.sdu.edu.cn/ Shandong University]. Before joining SDU, I obtained my Ph.D. degree from [http://www.cuhk.edu.hk/ The Chinese University of Hong Kong], under the supervision of [https://staff.ie.cuhk.edu.hk/~khzhang/ Prof. Kehuan Zhang]. Also, I ever visited \/ worked \/ interned at [http://www.jnu.edu.cn/ Jinan University], [https://www.indiana.edu/ Indiana University Bloomington], [http://www.cs.cityu.edu.hk/ City University of Hong Kong], [http://www.syniverse.com/home Syniverse Technologies], and [http://china.emc.com/campaign/centre-of-excellence/innovation.htm EMC Labs China]. My research focuses on system security, especially mobile security and IoT security. Currently, I work closely with [https://staff.ie.cuhk.edu.hk/~khzhang/ Prof. Kehuan Zhang], [http://faculty.sites.uci.edu/zhouli/ Prof. Zhou Li], [https://netsec.ccert.edu.cn/people/duanhx/ Prof. Haixin Duan], and [https://homes.luddy.indiana.edu/xw7/ Prof. XiaoFeng Wang]. I was a founding member of [http://ssl.ie.cuhk.edu.hk/ System Security Lab] of CUHK.
+I am a Qilu Young Professor (“齐鲁青年学者”特聘教授) in [http://www.cst.qd.sdu.edu.cn/ School of Cyber Science and Technology] at [http://www.sdu.edu.cn/ Shandong University]. Before joining SDU, I obtained my Ph.D. degree from [http://www.cuhk.edu.hk/ The Chinese University of Hong Kong], under the supervision of [https://staff.ie.cuhk.edu.hk/~khzhang/ Prof. Kehuan Zhang]. Also, I ever visited \/ worked \/ interned at [http://www.jnu.edu.cn/ Jinan University], [https://www.indiana.edu/ Indiana University Bloomington], [http://www.cs.cityu.edu.hk/ City University of Hong Kong], [http://www.syniverse.com/home Syniverse Technologies], and [http://china.emc.com/campaign/centre-of-excellence/innovation.htm EMC Labs China]. My research focuses on system security, especially mobile security and IoT security. Currently, I work closely with [https://faculty.sdu.edu.cn/guoshanqing/zh_CN/index/521661/list/index.htm Prof. Shanqing Guo], [https://staff.ie.cuhk.edu.hk/~khzhang/ Prof. Kehuan Zhang], [http://faculty.sites.uci.edu/zhouli/ Prof. Zhou Li], [https://netsec.ccert.edu.cn/people/duanhx/ Prof. Haixin Duan], and [https://homes.luddy.indiana.edu/xw7/ Prof. XiaoFeng Wang]. I was a founding member of [http://ssl.ie.cuhk.edu.hk/ System Security Lab] of CUHK.
 
 == Education
 - Aug 2013 - Aug 2017: Ph.D. in Information Engineering, supervised by [https://staff.ie.cuhk.edu.hk/~khzhang/ Prof. Kehuan Zhang], The Chinese University of Hong Kong, Hong Kong.
@@ -150,7 +154,7 @@ I am a Qilu Young Professor (“齐鲁青年学者”特聘教授) in [http://ww
 
 == Publications
 ~~~
-Publications at top-tier venues (11 papers): IEEE S&P ('21, '16), CCS (21', '15, '14), NDSS ('19, '18), ICSE ('22 × 3), WWW ('23)
+Publications at top-tier venues (12 papers): IEEE S&P ('21, '16), USENIX-Sec ('23), CCS ('21, '15, '14), NDSS ('19, '18), ICSE ('22 × 3), WWW ('23)
 
 Publications Ranking Statistics: CCF A: 12 papers, CCF B: 8 papers, CCF C: 8 papers
 
@@ -159,6 +163,8 @@ Publications Ranking Statistics: CCF A: 12 papers, CCF B: 8 papers, CCF C: 8 pap
 Author with (✉️): Corresponding Author - 通讯作者，即相关论文由本组所主导完成
 ~~~
 
+. *\[USENIX-Sec'23\]* Rui Li, *Wenrui Diao* (✉️), Shishuai Yang, Xiangyu Liu, Shanqing Guo, and Kehuan Zhang. Lost in Conversion: Exploit Data Structure Conversion with Attribute Loss to Break Android Systems. /The 32nd USENIX Security Symposium/, Anaheim, CA, USA. May 23-27, 2021. \[Top\] \[CCF A\] \[[https://sites.google.com/view/eviltwins Demo]\] \[CVE-2021-39695, CVE-2022-20392, CVE-2023-20971\]
+. *\[IEEE TSE\]* Qinsheng Hou, *Wenrui Diao*, Yanhao Wang, Chenglin Mao, Lingyun Ying, Song Liu, Xiaofeng Liu, Yuanzhi Li, Shanqing Guo, Meining Nie, and Haixin Duan. Can We Trust the Phone Vendors? Comprehensive Security Measurements on the Android Firmware Ecosystem. /IEEE Transactions on Software Engineering/, PrePrints, 2023. \[CCF A\] \[[https://www.computer.org/csdl/journal/ts/5555/01/10141678/1NCDl4NhQPe Link]\] \[[https://github.com/chicharitomu14/AndScanner Code]\]
 . *\[WWW'23\]* Kailun Yan, Jilian Zhang, Xiangyu Liu, *Wenrui Diao* (✉️), and Shanqing Guo. Bad Apples: Understanding the Centralized Security Risks in Decentralized Ecosystems. /The 32nd ACM Web Conference/, Austin, Texas, USA. April 30 - May 4, 2023. \[Top\] \[CCF A\] \[[paper/www23-yan.pdf PDF]\] \[Media Coverage: [https://www.view.sdu.edu.cn/info/1021/175584.htm 山大视点]\]
 . *\[QRS'22\]* Guangwei Tian, Jiongyi Chen (✉️), Kailun Yan, Shishuai Yang, and *Wenrui Diao* (✉️). Cast Away: On the Security of DLNA Deployments in the SmartTV Ecosystem. /The 22nd IEEE International Conference on Software Quality, Reliability, and Security/, Guangzhou, China. December 5-9, 2022. \[CCF C\] \[[paper/qrs22-tian.pdf PDF]\] \[CNVD-2022-54667, CNVD-2022-34589\]
 . *\[SECON'22\]* Jianqi Du, Fenghao Xu (✉️), Chennan Zhang, Zidong Zhang, Xiaoyin Liu, Pengcheng Ren, *Wenrui Diao* (✉️), Shanqing Guo, and Kehuan Zhang. Identifying the BLE Misconfigurations of IoT Devices through Companion Mobile Apps. /The 19th Annual IEEE International Conference on Sensing, Communication, and Networking/, Virtual Conference. September 20-23, 2022. \[CCF B\] \[[paper/secon22-du.pdf PDF]\]
@@ -204,10 +210,11 @@ Author with (✉️): Corresponding Author - 通讯作者，即相关论文由�
 - ACM Conference on Computer and Communications Security (*CCS*): 2019, 2018
 
 === Reviewer:
-- IEEE Security and Privacy Magazine
 - ACM Transactions on Software Engineering and Methodology
 - IEEE Transactions on Mobile Computing
+- IEEE Transactions on Dependable and Secure Computing
 - IEEE Transactions on Information Forensics and Security
+- IEEE Security and Privacy Magazine
 - Information and Software Technology (Elsevier)
 - Journal of Network and Computer Applications (Elsevier)
 - Applied Computing and Informatics (Elsevier)
