@@ -29,6 +29,8 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 ~~~
 *News:*
 
+>>> Jun 2023: I will serve as TPC Member for [https://chinasoft.ccf.org.cn/ CCF ChinaSoft 2023].
+
 >>> Jun 2023: One paper accepted by [https://www.usenix.org/conference/usenixsecurity23 USENIX Security 2023].
 
 >>> May 2023: One paper accepted by [https://www.computer.org/csdl/journal/ts IEEE TSE].
@@ -165,7 +167,7 @@ Author with (✉️): Corresponding Author - 通讯作者，即相关论文由�
 
 . *\[USENIX-Sec'23\]* Rui Li, *Wenrui Diao* (✉️), Shishuai Yang, Xiangyu Liu, Shanqing Guo, and Kehuan Zhang. Lost in Conversion: Exploit Data Structure Conversion with Attribute Loss to Break Android Systems. /The 32nd USENIX Security Symposium/, Anaheim, CA, USA. August 9-1, 2023. \[Top\] \[CCF A\] \[[https://sites.google.com/view/eviltwins Demo]\] \[CVE-2021-39695, CVE-2022-20392, CVE-2023-20971\]
 . *\[IEEE TSE\]* Qinsheng Hou, *Wenrui Diao*, Yanhao Wang, Chenglin Mao, Lingyun Ying, Song Liu, Xiaofeng Liu, Yuanzhi Li, Shanqing Guo, Meining Nie, and Haixin Duan. Can We Trust the Phone Vendors? Comprehensive Security Measurements on the Android Firmware Ecosystem. /IEEE Transactions on Software Engineering/, PrePrints, 2023. \[CCF A\] \[[https://www.computer.org/csdl/journal/ts/5555/01/10141678/1NCDl4NhQPe Link]\] \[[https://github.com/chicharitomu14/AndScanner Code]\]
-. *\[WWW'23\]* Kailun Yan, Jilian Zhang, Xiangyu Liu, *Wenrui Diao* (✉️), and Shanqing Guo. Bad Apples: Understanding the Centralized Security Risks in Decentralized Ecosystems. /The 32nd ACM Web Conference/, Austin, Texas, USA. April 30 - May 4, 2023. \[Top\] \[CCF A\] \[[paper/www23-yan.pdf PDF]\] \[Media Coverage: [https://www.view.sdu.edu.cn/info/1021/175584.htm 山大视点]\]
+. *\[WWW'23\]* Kailun Yan, Jilian Zhang, Xiangyu Liu, *Wenrui Diao* (✉️), and Shanqing Guo. Bad Apples: Understanding the Centralized Security Risks in Decentralized Ecosystems. /The 32nd ACM Web Conference/, Austin, Texas, USA. April 30 - May 4, 2023. \[Top\] \[CCF A\] \[[paper/www23-yan.pdf PDF]\] \[[https://github.com/d0scoo1/Naga Code]\] \[Media Coverage: [https://www.view.sdu.edu.cn/info/1021/175584.htm 山大视点]\]
 . *\[QRS'22\]* Guangwei Tian, Jiongyi Chen (✉️), Kailun Yan, Shishuai Yang, and *Wenrui Diao* (✉️). Cast Away: On the Security of DLNA Deployments in the SmartTV Ecosystem. /The 22nd IEEE International Conference on Software Quality, Reliability, and Security/, Guangzhou, China. December 5-9, 2022. \[CCF C\] \[[paper/qrs22-tian.pdf PDF]\] \[CNVD-2022-54667, CNVD-2022-34589\]
 . *\[SECON'22\]* Jianqi Du, Fenghao Xu (✉️), Chennan Zhang, Zidong Zhang, Xiaoyin Liu, Pengcheng Ren, *Wenrui Diao* (✉️), Shanqing Guo, and Kehuan Zhang. Identifying the BLE Misconfigurations of IoT Devices through Companion Mobile Apps. /The 19th Annual IEEE International Conference on Sensing, Communication, and Networking/, Virtual Conference. September 20-23, 2022. \[CCF B\] \[[paper/secon22-du.pdf PDF]\]
 . *\[WiSec'22\]* Chennan Zhang, Shuang Li, *Wenrui Diao* (✉️), and Shanqing Guo. PITracker: Detecting Android PendingIntent Vulnerabilities through Intent Flow Analysis. /The 15th ACM Conference on Security and Privacy in Wireless and Mobile Networks/, San Antonio, Texas, USA. May 16-19, 2022. \[CCF C\] \[[paper/wisec22-zhang.pdf PDF]\] \[[https://github.com/Sp1keeeee/PItracker Code]\] \[CNVD-2021-102096, CNVD-2021-100644\] 
@@ -200,6 +202,7 @@ Author with (✉️): Corresponding Author - 通讯作者，即相关论文由�
 
 == Professional Activities
 === TPC Member:
+- CCF ChinaSoft / 中国软件大会: 2023
 - International Conference on Information Security and Cryptology (Inscrypt): 2022
 - International Conference on Network and System Security (NSS): 2022
 - International Conference on Information and Communications Security (*ICICS*): 2022, 2021
@@ -283,7 +286,7 @@ Teaching Assistant@CUHK:
 - 2012: Dean’s List 2010-2011, Faculty of Engineering, CUHK
 
 === 指导学生获奖  (校级以上奖励):
-- 研究生: ACM WiSec Student Travel Grants (2022), DataCon大数据安全分析竞赛-邮件安全赛道 第8名 (2021), 博士研究生中期考核优秀 (2021), 硕士研究生国家奖学金 (2021), 山东大学研究生优秀学术成果奖二等奖 (2021), 山东大学第十二届学生“五•四”青年科学奖优秀成果奖 (2021), IEEE S&P Student Registration Grants (2021), 硕士研究生国家奖学金 (2020) 
+- 研究生: 山东大学优秀毕业生 (2023), ACM WiSec Student Travel Grants (2022), DataCon大数据安全分析竞赛-邮件安全赛道 第8名 (2021), 博士研究生中期考核优秀 (2021), 硕士研究生国家奖学金 (2021), 山东大学研究生优秀学术成果奖二等奖 (2021), 山东大学第十二届学生“五•四”青年科学奖优秀成果奖 (2021), IEEE S&P Student Registration Grants (2021), 硕士研究生国家奖学金 (2020) 
  
 - 本科生: 第十四届全国大学生信息安全竞赛-作品赛一等奖 (2021)
 
@@ -297,8 +300,6 @@ Teaching Assistant@CUHK:
 - Jianqi Du (Ph.D. Student, 2020 - )
 - Kailun Yan (Ph.D. Student, 2021 - )
 - Shuang Li (MS-Ph.D. Student, 2021 - )
-- Guangwei Tian (MS Student, 2020 - )
-- Chennan Zhang (MS Student, 2020 - )
 - Zidong Zhang (MS Student, 2021 - )
 - Xiaoyin Liu (MS Student, 2021 - )
 - Jialong Guo (MS Student, 2022 - )
@@ -306,6 +307,16 @@ Teaching Assistant@CUHK:
 - Yifan Yu (MS Student, 2022 - )
 
 === Alumni:
+- Guangwei Tian (MS Student, Graduated in 2023)
+-- Publications (first author): IEEE QRS 2022
+-- Awards: 山东大学优秀毕业生
+-- First Job: 山东省东营市公务员
+
+- Chennan Zhang (MS Student, Graduated in 2023)
+-- Publications (first author): ACM WiSec 2022
+-- Awards: ACM WiSec Student Travel Grants
+-- First Job: Researcher at OPPO子午实验室
+
 - Jin Zhang (MS Student at Shandong University, Graduated in 2022)
 -- Publications (first author): ICPADS 2021
 -- Awards: 硕士研究生国家奖学金
