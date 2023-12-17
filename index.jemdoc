@@ -29,6 +29,8 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 ~~~
 *News:*
 
+>>> Dec 2023: One papers accepted by [https://conf.researchr.org/home/saner-2024 SANER 2024].
+
 >>> Nov 2023: Our team ranked [https://mp.weixin.qq.com/s/p4BPKW1geduZtYRyDp593Q 2023 DataCon大数据安全分析竞赛-互联网威胁溯源赛道 第3名].
 
 >>> Nov 2023: Our team ranked [https://mp.weixin.qq.com/s/p4BPKW1geduZtYRyDp593Q 2023 DataCon大数据安全分析竞赛-软件安全赛道 第3名].
@@ -55,7 +57,7 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 
 >>> Jan 2023: One paper accepted by [https://www2023.thewebconf.org/ WWW 2023].
 
-#>>> Nov 2022: One paper accepted by [https://qrs22.techconf.org/ IEEE QRS 2022].
+>>> Nov 2022: One paper accepted by [https://qrs22.techconf.org/ IEEE QRS 2022].
 
 >>> Oct 2022: I was awarded 山东省泰山学者青年专家.
 
@@ -175,7 +177,7 @@ I am a Qilu Young Professor (“齐鲁青年学者”特聘教授) in [http://ww
 ~~~
 *Publications at top-tier venues (13 papers): IEEE S&P ('21, '16), USENIX-Sec ('23), CCS ('21, '15, '14), NDSS ('19, '18), ICSE ('24, '22 × 3), WWW ('23)*
 
-*Publications Ranking Statistics: CCF A: 15 papers, CCF B: 8 papers, CCF C: 10 papers*
+*Publications Ranking Statistics: CCF A: 15 papers, CCF B: 9 papers, CCF C: 10 papers*
 
 #Author with (👨‍🎓\/👩🏻‍🎓): Student Author - 本组学生或本人所直接指导的学生
 
@@ -185,6 +187,7 @@ See: [./publications.html Full Publications]
 ~~~
 
 . *\[ICSE'24\]* Pengcheng Ren, Chaoshun Zuo, Xiaofeng Liu, *Wenrui Diao*, Qingchuan Zhao, and Shanqing Guo. DEMISTIFY: Identifying On-device Machine Learning Models Stealing and Reuse Vulnerabilities in Mobile Apps. /The 46th IEEE\/ACM International Conference on Software Engineering/, Lisbon, Portugal. April 14-20, 2024. \[Top\] \[CCF A\]
+. *\[SANER'24\]* Shuang Li, Rui Li, Yifan Yu, Kailun Yan, Shishuai Yang, and *Wenrui Diao* (✉️). Understanding Android OS Forward Compatibility Support for Legacy Apps: A Data-Driven Analysis. /The 31st IEEE International Conference on Software Analysis, Evolution, and Reengineering/, Rovaniemi, Finland. March 12-15, 2024. \[CCF B\]
 . *\[USENIX-Sec'23\]* Rui Li, *Wenrui Diao* (✉️), Shishuai Yang, Xiangyu Liu, Shanqing Guo, and Kehuan Zhang. Lost in Conversion: Exploit Data Structure Conversion with Attribute Loss to Break Android Systems. /The 32nd USENIX Security Symposium/, Anaheim, CA, USA. August 9-11, 2023. \[Top\] \[CCF A\] \[[paper/usenixsecurity23-li-rui.pdf PDF]\] \[[https://sites.google.com/view/eviltwins Demo]\] \[CVE-2021-39695, CVE-2022-20392, CVE-2023-20971\]
 . *\[IEEE TSE\]* Qinsheng Hou, *Wenrui Diao*, Yanhao Wang, Chenglin Mao, Lingyun Ying, Song Liu, Xiaofeng Liu, Yuanzhi Li, Shanqing Guo, Meining Nie, and Haixin Duan. Can We Trust the Phone Vendors? Comprehensive Security Measurements on the Android Firmware Ecosystem. /IEEE Transactions on Software Engineering/, 49(7): 3901-3921, 2023. \[CCF A\] \[[https://www.computer.org/csdl/journal/ts/5555/01/10141678/1NCDl4NhQPe Link]\] \[[https://github.com/chicharitomu14/AndScanner Code]\]
 . *\[WWW'23\]* Kailun Yan, Jilian Zhang, Xiangyu Liu, *Wenrui Diao* (✉️), and Shanqing Guo. Bad Apples: Understanding the Centralized Security Risks in Decentralized Ecosystems. /The 32nd ACM Web Conference/, Austin, Texas, USA. April 30 - May 4, 2023. \[Top\] \[CCF A\] \[[paper/www23-yan.pdf PDF]\] \[[https://github.com/d0scoo1/Naga Code]\] \[Media Coverage: [https://www.view.sdu.edu.cn/info/1021/175584.htm 山大视点]\]
