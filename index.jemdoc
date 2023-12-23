@@ -29,6 +29,8 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 ~~~
 *News:*
 
+>>> Dec 2023: I will serve as TPC Member for [https://www.sigsac.org/ccs/CCS2024/ CCS 2024].
+
 >>> Dec 2023: One papers accepted by [https://conf.researchr.org/home/saner-2024 SANER 2024].
 
 >>> Dec 2023: I was awarded [https://cst.qd.sdu.edu.cn/info/1037/2927.htm 山东大学首届“小米青年学者”].
@@ -59,7 +61,7 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 
 >>> Jan 2023: One paper accepted by [https://www2023.thewebconf.org/ WWW 2023].
 
->>> Nov 2022: One paper accepted by [https://qrs22.techconf.org/ IEEE QRS 2022].
+#>>> Nov 2022: One paper accepted by [https://qrs22.techconf.org/ IEEE QRS 2022].
 
 >>> Oct 2022: I was awarded 山东省泰山学者青年专家.
 
@@ -218,6 +220,7 @@ See: [./publications.html Full Publications]
 
 == Professional Activities
 === TPC Member:
+- ACM Conference on Computer and Communications Security (*CCS*): 2024, 2019, 2018
 - ACM Conference on Data and Application Security and Privacy (*CODASPY*): 2024
 - IEEE International Conference on Software Analysis, Evolution and Reengineering (*SANER*): 2024
 - IEEE European Symposium on Security and Privacy (*IEEE EuroS&P*): 2024
@@ -228,7 +231,6 @@ See: [./publications.html Full Publications]
 - International Conference on Information Systems Security and Privacy (ICISSP): 2021, 2020
 - ACNS Workshop on Security in Machine Learning and its Applications (SiMLA): 2021,2020
 - IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS): 2020
-- ACM Conference on Computer and Communications Security (*CCS*): 2019, 2018
 - CCF ChinaSoft / 中国软件大会: 2023
 
 === Reviewer:
