@@ -2,7 +2,7 @@
 = Wenrui Diao's Homepage (刁文瑞教授-山东大学-个人主页)
 
 ~~~
-{}{img_left}{pic/image004.jpg}{alt text}{}{230px}{}
+{}{img_left}{pic/image005.jpg}{alt text}{}{230px}{}
 
 == Wenrui Diao 刁文瑞
 Ph.D., The Chinese University of Hong Kong, 2017
@@ -200,7 +200,7 @@ See: [./publications.html *Full Publications*]
 . *\[USENIX-Sec'23\]* Rui Li, *Wenrui Diao* (✉️), Shishuai Yang, Xiangyu Liu, Shanqing Guo, and Kehuan Zhang. Lost in Conversion: Exploit Data Structure Conversion with Attribute Loss to Break Android Systems. /The 32nd USENIX Security Symposium/, Anaheim, CA, USA. August 9-11, 2023. \[Top\] \[CCF A\] \[[paper/usenixsecurity23-li-rui.pdf PDF]\] \[[https://sites.google.com/view/eviltwins Demo]\] \[CVE-2021-39695, CVE-2022-20392, CVE-2023-20971\]
 . *\[IEEE TSE\]* Qinsheng Hou, *Wenrui Diao*, Yanhao Wang, Chenglin Mao, Lingyun Ying, Song Liu, Xiaofeng Liu, Yuanzhi Li, Shanqing Guo, Meining Nie, and Haixin Duan. Can We Trust the Phone Vendors? Comprehensive Security Measurements on the Android Firmware Ecosystem. /IEEE Transactions on Software Engineering/, 49(7): 3901-3921, 2023. \[CCF A\] \[[https://www.computer.org/csdl/journal/ts/5555/01/10141678/1NCDl4NhQPe Link]\] \[[https://github.com/chicharitomu14/AndScanner Code]\]
 . *\[WWW'23\]* Kailun Yan, Jilian Zhang, Xiangyu Liu, *Wenrui Diao* (✉️), and Shanqing Guo. Bad Apples: Understanding the Centralized Security Risks in Decentralized Ecosystems. /The 32nd ACM Web Conference/, Austin, Texas, USA. April 30 - May 4, 2023. \[Top\] \[CCF A\] \[[paper/www23-yan.pdf PDF]\] \[[https://github.com/d0scoo1/Naga Code]\] \[Media Coverage: [https://www.view.sdu.edu.cn/info/1021/175584.htm 山大视点]\]
-. *\[ICSE'22\]* Xing Zhang, Jiongyi Chen, Chao Feng, Ruilin Li, *Wenrui Diao*, Kehuan Zhang, Jing Lei, and and Chaojing Tang. DeFault: Mutual Information-based Crash Triage for Massive Crashes. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\] \[[paper/icse22-zhang.pdf PDF]\] 
+. *\[ICSE'22\]* Xing Zhang, Jiongyi Chen, Chao Feng, Ruilin Li, *Wenrui Diao*, Kehuan Zhang, Jing Lei, and Chaojing Tang. DeFault: Mutual Information-based Crash Triage for Massive Crashes. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\] \[[paper/icse22-zhang.pdf PDF]\] 
 . *\[ICSE'22\]* Qinsheng Hou, *Wenrui Diao*, Yanhao Wang, Xiaofeng Liu, Song Liu, Lingyun Ying, Shanqing Guo, Yuanzhi Li, Meining Nie, and Haixin Duan. Large-scale Security Measurements on the Android Firmware Ecosystem. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\] \[[paper/icse22-hou.pdf PDF]\] \[[https://github.com/chicharitomu14/AndScanner Code]\]
 . *\[ICSE'22\]* Shishuai Yang, Rui Li, Jiongyi Chen, *Wenrui Diao* (✉️), and Shanqing Guo. Demystifying Android Non-SDK APIs: Measurement and Understanding. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\] \[[paper/icse22-yang.pdf PDF]\] 
 . *\[IEEE TSE\]* Rui Li, *Wenrui Diao* (✉️), Zhou Li, Shishuai Yang, Shuang Li, and Shanqing Guo. Android Custom Permissions Demystified: A Comprehensive Security Evaluation. /IEEE Transactions on Software Engineering/, 48(11): 4465-4484, 2022. \[CCF A\] \[[https://ieeexplore.ieee.org/document/9573482 Link]\] \[[https://github.com/little-leiry/CuPerFuzzer Code]\]
@@ -221,6 +221,7 @@ See: [./publications.html *Full Publications*]
 - ACM Conference on Data and Application Security and Privacy (*CODASPY*): 2024
 - IEEE International Conference on Software Analysis, Evolution and Reengineering (*SANER*): 2024
 - IEEE European Symposium on Security and Privacy (*IEEE EuroS&P*): 2024
+- International Conference on Availability, Reliability and Security (ARES): 2024
 - International Conference on Information Security and Cryptology (Inscrypt): 2023, 2022
 - International Conference on Network and System Security (NSS): 2022
 - International Conference on Information and Communications Security (ICICS): 2022, 2021
