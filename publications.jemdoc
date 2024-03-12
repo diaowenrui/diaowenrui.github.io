@@ -2,7 +2,7 @@
 = Wenrui Diao's Homepage (刁文瑞教授-山东大学-个人主页)
 
 ~~~
-{}{img_left}{pic/image004.jpg}{alt text}{}{230px}{}
+{}{img_left}{pic/image005.jpg}{alt text}{}{285px}{}
 
 == Wenrui Diao 刁文瑞
 Ph.D., The Chinese University of Hong Kong, 2017
@@ -30,9 +30,9 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 
 == Full Publications
 ~~~
-*Publications at top-tier venues (13 papers): IEEE S&P ('21, '16), USENIX-Sec ('23), CCS ('21, '15, '14), NDSS ('19, '18), ICSE ('24, '22 × 3), WWW ('23)*
+*Publications at top-tier venues (14 papers): IEEE S&P ('21, '16), USENIX-Sec ('23), CCS ('21, '15, '14), NDSS ('19, '18), ICSE ('24, '22 × 3), WWW ('24, '23)*
 
-*Publications Ranking Statistics: CCF A: 15 papers, CCF B: 9 papers, CCF C: 10 papers*
+*Publications Ranking Statistics: CCF A: 16 papers, CCF B: 9 papers, CCF C: 10 papers*
 
 #Author with (👨‍🎓\/👩🏻‍🎓): Student Author - 本组学生或本人所直接指导的学生
 
@@ -50,7 +50,7 @@ Author with (✉️): Corresponding Author - 通讯作者，即相关论文由�
 . *\[QRS'22\]* Guangwei Tian, Jiongyi Chen (✉️), Kailun Yan, Shishuai Yang, and *Wenrui Diao* (✉️). Cast Away: On the Security of DLNA Deployments in the SmartTV Ecosystem. /The 22nd IEEE International Conference on Software Quality, Reliability, and Security/, Guangzhou, China. December 5-9, 2022. \[CCF C\] \[[paper/qrs22-tian.pdf PDF]\] \[CNVD-2022-54667, CNVD-2022-34589\]
 . *\[SECON'22\]* Jianqi Du, Fenghao Xu (✉️), Chennan Zhang, Zidong Zhang, Xiaoyin Liu, Pengcheng Ren, *Wenrui Diao* (✉️), Shanqing Guo, and Kehuan Zhang. Identifying the BLE Misconfigurations of IoT Devices through Companion Mobile Apps. /The 19th Annual IEEE International Conference on Sensing, Communication, and Networking/, Virtual Conference. September 20-23, 2022. \[CCF B\] \[[paper/secon22-du.pdf PDF]\]
 . *\[WiSec'22\]* Chennan Zhang, Shuang Li, *Wenrui Diao* (✉️), and Shanqing Guo. PITracker: Detecting Android PendingIntent Vulnerabilities through Intent Flow Analysis. /The 15th ACM Conference on Security and Privacy in Wireless and Mobile Networks/, San Antonio, Texas, USA. May 16-19, 2022. \[CCF C\] \[[paper/wisec22-zhang.pdf PDF]\] \[[https://github.com/Sp1keeeee/PItracker Code]\] \[CNVD-2021-102096, CNVD-2021-100644\] 
-. *\[ICSE'22\]* Xing Zhang, Jiongyi Chen, Chao Feng, Ruilin Li, *Wenrui Diao*, Kehuan Zhang, Jing Lei, and and Chaojing Tang. DeFault: Mutual Information-based Crash Triage for Massive Crashes. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\] \[[paper/icse22-zhang.pdf PDF]\] 
+. *\[ICSE'22\]* Xing Zhang, Jiongyi Chen, Chao Feng, Ruilin Li, *Wenrui Diao*, Kehuan Zhang, Jing Lei, and Chaojing Tang. DeFault: Mutual Information-based Crash Triage for Massive Crashes. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\] \[[paper/icse22-zhang.pdf PDF]\] 
 . *\[ICSE'22\]* Qinsheng Hou, *Wenrui Diao*, Yanhao Wang, Xiaofeng Liu, Song Liu, Lingyun Ying, Shanqing Guo, Yuanzhi Li, Meining Nie, and Haixin Duan. Large-scale Security Measurements on the Android Firmware Ecosystem. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\] \[[paper/icse22-hou.pdf PDF]\] \[[https://github.com/chicharitomu14/AndScanner Code]\]
 . *\[ICSE'22\]* Shishuai Yang, Rui Li, Jiongyi Chen, *Wenrui Diao* (✉️), and Shanqing Guo. Demystifying Android Non-SDK APIs: Measurement and Understanding. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\] \[[paper/icse22-yang.pdf PDF]\] 
 . *\[IEEE TSE\]* Rui Li, *Wenrui Diao* (✉️), Zhou Li, Shishuai Yang, Shuang Li, and Shanqing Guo. Android Custom Permissions Demystified: A Comprehensive Security Evaluation. /IEEE Transactions on Software Engineering/, 48(11): 4465-4484, 2022. \[CCF A\] \[[https://ieeexplore.ieee.org/document/9573482 Link]\] \[[https://github.com/little-leiry/CuPerFuzzer Code]\]
