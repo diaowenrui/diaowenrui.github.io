@@ -29,6 +29,8 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 ~~~
 *News:*
 
+>>> May 2024: Two papers accepted by [https://www.sigsac.org/ccs/CCS2024/ CCS 2024].
+
 >>> Mar 2024: I will serve as TPC Member for [https://www.ares-conference.eu/ ARES 2024].
 
 >>> Jan 2024: One paper accepted by [https://www2024.thewebconf.org/ WWW 2024].
@@ -183,7 +185,7 @@ I am a Qilu Young Professor (“齐鲁青年学者”特聘教授) in [http://ww
 
 == Selected Recent Publications
 ~~~
-*Publications at top-tier venues (14 papers): IEEE S&P ('21, '16), USENIX-Sec ('23), CCS ('21, '15, '14), NDSS ('19, '18), ICSE ('24, '22 × 3), WWW ('24, '23)*
+*Publications at top-tier venues (16 papers): IEEE S&P ('21, '16), USENIX-Sec ('23), CCS ('24 x 2, 21, '15, '14), NDSS ('19, '18), ICSE ('24, '22 × 3), WWW ('24, '23)*
 
 *Publications Ranking Statistics: CCF A: 16 papers, CCF B: 9 papers, CCF C: 10 papers*
 
@@ -194,6 +196,8 @@ Author with (✉️): Corresponding Author - 通讯作者，即相关论文由�
 See: [./publications.html *Full Publications*]
 ~~~
 
+. *\[CCS'24\]* Kailun Yan, Xiaokuan Zhang (✉️), and *Wenrui Diao* (✉️). Stealing Trust: Unraveling Blind Message Attacks in Web3 Authentication. /The 31st ACM Conference on Computer and Communications Security/, Salt Lake City, UT, USA. October 14-18, 2024. \[Top\] \[CCF A\]
+. *\[CCS'24\]* Zidong Zhang, Qinsheng Hou, Lingyun Ying (✉️), *Wenrui Diao* (✉️), Yacong Gu, Rui Li, Shanqing Guo, Haixin Duan. MiniCAT: Understanding and Detecting Cross-Page Request Forgery Vulnerabilities in Mini-Programs. /The 31st ACM Conference on Computer and Communications Security/, Salt Lake City, UT, USA. October 14-18, 2024. \[Top\] \[CCF A\]
 . *\[WWW'24\]* Xiaoyin Liu, Wenzhi Li, Qinsheng Hou, Shishuai Yang, Lingyun Ying (✉️), *Wenrui Diao* (✉️), Yanan Li, Shanqing Guo, and Haixin Duan. From Promises to Practice: Evaluating the Private Browsing Modes of Android Browser Apps. /The 33rd ACM Web Conference/, Singapore. May 13-17, 2024. \[Top\] \[CCF A\]
 . *\[ICSE'24\]* Pengcheng Ren, Chaoshun Zuo, Xiaofeng Liu, *Wenrui Diao*, Qingchuan Zhao, and Shanqing Guo. DEMISTIFY: Identifying On-device Machine Learning Models Stealing and Reuse Vulnerabilities in Mobile Apps. /The 46th IEEE\/ACM International Conference on Software Engineering/, Lisbon, Portugal. April 14-20, 2024. \[Top\] \[CCF A\]
 . *\[SANER'24\]* Shuang Li, Rui Li, Yifan Yu, Kailun Yan, Shishuai Yang, and *Wenrui Diao* (✉️). Understanding Android OS Forward Compatibility Support for Legacy Apps: A Data-Driven Analysis. /The 31st IEEE International Conference on Software Analysis, Evolution, and Reengineering/, Rovaniemi, Finland. March 12-15, 2024. \[CCF B\]
