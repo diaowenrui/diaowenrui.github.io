@@ -9,7 +9,9 @@ Ph.D., The Chinese University of Hong Kong, 2017
 
 Taishan Young Scholar (山东省泰山学者青年专家)
 
-Qilu Young Professor (山东大学“齐鲁青年学者”特聘教授)
+Xiaomi Young Scholar (山东大学小米青年学者)
+
+Professor 教授、博士生导师
 
 School of Cyber Science and Technology, Shandong University
 
@@ -41,9 +43,9 @@ Author with (✉️): Corresponding Author - 通讯作者，即相关论文由�
 
 . *\[CCS'24\]* Kailun Yan, Xiaokuan Zhang (✉️), and *Wenrui Diao* (✉️). Stealing Trust: Unraveling Blind Message Attacks in Web3 Authentication. /The 31st ACM Conference on Computer and Communications Security/, Salt Lake City, UT, USA. October 14-18, 2024. \[Top\] \[CCF A\]
 . *\[CCS'24\]* Zidong Zhang, Qinsheng Hou, Lingyun Ying (✉️), *Wenrui Diao* (✉️), Yacong Gu, Rui Li, Shanqing Guo, Haixin Duan. MiniCAT: Understanding and Detecting Cross-Page Request Forgery Vulnerabilities in Mini-Programs. /The 31st ACM Conference on Computer and Communications Security/, Salt Lake City, UT, USA. October 14-18, 2024. \[Top\] \[CCF A\]
-. *\[WWW'24\]* Xiaoyin Liu, Wenzhi Li, Qinsheng Hou, Shishuai Yang, Lingyun Ying (✉️), *Wenrui Diao* (✉️), Yanan Li, Shanqing Guo, and Haixin Duan. From Promises to Practice: Evaluating the Private Browsing Modes of Android Browser Apps. /The 33rd ACM Web Conference/, Singapore. May 13-17, 2024. \[Top\] \[CCF A\]
-. *\[ICSE'24\]* Pengcheng Ren, Chaoshun Zuo, Xiaofeng Liu, *Wenrui Diao*, Qingchuan Zhao, and Shanqing Guo. DEMISTIFY: Identifying On-device Machine Learning Models Stealing and Reuse Vulnerabilities in Mobile Apps. /The 46th IEEE\/ACM International Conference on Software Engineering/, Lisbon, Portugal. April 14-20, 2024. \[Top\] \[CCF A\]
-. *\[SANER'24\]* Shuang Li, Rui Li, Yifan Yu, Kailun Yan, Shishuai Yang, and *Wenrui Diao* (✉️). Understanding Android OS Forward Compatibility Support for Legacy Apps: A Data-Driven Analysis. /The 31st IEEE International Conference on Software Analysis, Evolution, and Reengineering/, Rovaniemi, Finland. March 12-15, 2024. \[CCF B\]
+. *\[WWW'24\]* Xiaoyin Liu, Wenzhi Li, Qinsheng Hou, Shishuai Yang, Lingyun Ying (✉️), *Wenrui Diao* (✉️), Yanan Li, Shanqing Guo, and Haixin Duan. From Promises to Practice: Evaluating the Private Browsing Modes of Android Browser Apps. /The 33rd ACM Web Conference/, Singapore. May 13-17, 2024. \[Top\] \[CCF A\] \[[paper/www24-liu.pdf PDF]\]
+. *\[ICSE'24\]* Pengcheng Ren, Chaoshun Zuo, Xiaofeng Liu, *Wenrui Diao*, Qingchuan Zhao, and Shanqing Guo. DEMISTIFY: Identifying On-device Machine Learning Models Stealing and Reuse Vulnerabilities in Mobile Apps. /The 46th IEEE\/ACM International Conference on Software Engineering/, Lisbon, Portugal. April 14-20, 2024. \[Top\] \[CCF A\] \[[paper/icse24-ren.pdf PDF]\]
+. *\[SANER'24\]* Shuang Li, Rui Li, Yifan Yu, Kailun Yan, Shishuai Yang, and *Wenrui Diao* (✉️). Understanding Android OS Forward Compatibility Support for Legacy Apps: A Data-Driven Analysis. /The 31st IEEE International Conference on Software Analysis, Evolution, and Reengineering/, Rovaniemi, Finland. March 12-15, 2024. \[CCF B\] \[[paper/saner24-liu.pdf PDF]\]
 . *\[MSN'23\]* Jianqi Du, Zidong Zhang, Fenghao Xu (✉️), and *Wenrui Diao* (✉️). Living in the Past: Analyzing BLE IoT Devices Based on Mobile Companion Apps in Old Versions. /The 19th International Conference on Mobility, Sensing and Networking/, Nanjing, China. December 14-16, 2023. \[CCF C\] 
 . *\[APSEC'23\]* Shishuai Yang, Qinsheng Hou (✉️), Shuang Li, and *Wenrui Diao* (✉️). Do App Developers Follow the Android Official Data Security Guidelines? /The 30th Asia-Pacific Software Engineering Conference/, Seoul, Korea. December 4-7, 2023. \[CCF C\] 
 . *\[USENIX-Sec'23\]* Rui Li, *Wenrui Diao* (✉️), Shishuai Yang, Xiangyu Liu, Shanqing Guo, and Kehuan Zhang. Lost in Conversion: Exploit Data Structure Conversion with Attribute Loss to Break Android Systems. /The 32nd USENIX Security Symposium/, Anaheim, CA, USA. August 9-11, 2023. \[Top\] \[CCF A\] \[[paper/usenixsecurity23-li-rui.pdf PDF]\] \[[https://sites.google.com/view/eviltwins Demo]\] \[CVE-2021-39695, CVE-2022-20392, CVE-2023-20971\]
