@@ -33,6 +33,10 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 ~~~
 *News:*
 
+>>> Jul 2024: I will serve as TPC Member for [https://www.usenix.org/conference/usenixsecurity25 USENIX Security 2025].
+
+>>> Jul 2024: Two papers accepted by [https://issre.github.io/2024/index.html ISSRE 2024].
+
 >>> Jul 2024: One paper accepted by [https://raid2024.github.io/ RAID 2024].
 
 >>> Jun 2024: I will serve as TPC Member for [https://eurosp2025.ieee-security.org/ IEEE EuroS&P 2025].
@@ -204,7 +208,7 @@ I am a Professor in [http://www.cst.qd.sdu.edu.cn/ School of Cyber Science and T
 ~~~
 *Publications at Top-tier Venues (16 papers): IEEE S&P ('21, '16), USENIX-Sec ('23), CCS ('24 x 2, '21, '15, '14), NDSS ('19, '18), ICSE ('24, '22 × 3), WWW ('24, '23)*
 
-*Publications Ranking Statistics: CCF A: 18 papers, CCF B: 10 papers, CCF C: 10 papers*
+*Publications Ranking Statistics: CCF A: 18 papers, CCF B: 12 papers, CCF C: 10 papers*
 
 #Author with (👨‍🎓\/👩🏻‍🎓): Student Author - 本组学生或本人所直接指导的学生
 
@@ -213,7 +217,9 @@ Author with (✉️): Corresponding Author - 通讯作者，即相关论文由�
 See: [./publications.html *Full Publications*]
 ~~~
 
-. *\[RAID'24\]* Jianing Wang, Shanqing Guo, *Wenrui Diao*, Zhenkai Liang, Yue Liu, Haixin Duan, Yichen Liu. CrypTody: Cryptographic Misuse Analysis of IoT Firmware via Data-flow Reasoning. /The 27th International Symposium on Research in Attacks, Intrusions and Defenses/, Padua, Italy. September 30 - October 2, 2024. \[CCF B\] 
+. *\[ISSRE'24\]* Shuang Li, Rui Li, Shishuai Yang, and Wenrui Diao (✉️). Android's Cat-and-Mouse Game: Understanding Evasion Techniques against Dynamic Analysis. /The 35th IEEE International Symposium on Software Reliability Engineering/, Tsukuba, Japan. October 28th - 31st, 2024. \[CCF B\]
+. *\[ISSRE'24\]* Shishuai Yang, Guangdong Bai (✉️), Ruoyan Lin, Jialong Guo, and Wenrui Diao (✉️). Beyond the Horizon: Exploring Cross-Market Security Discrepancies in Parallel Android Apps. /The 35th IEEE International Symposium on Software Reliability Engineering/, Tsukuba, Japan. October 28th - 31st, 2024. \[CCF B\] 
+. *\[RAID'24\]* Jianing Wang, Shanqing Guo, *Wenrui Diao*, Yue Liu, Haixin Duan, Yichen Liu, and Zhenkai Liang. CrypTody: Cryptographic Misuse Analysis of IoT Firmware via Data-flow Reasoning. /The 27th International Symposium on Research in Attacks, Intrusions and Defenses/, Padua, Italy. September 30 - October 2, 2024. \[CCF B\] 
 . *\[CCS'24\]* Kailun Yan, Xiaokuan Zhang (✉️), and *Wenrui Diao* (✉️). Stealing Trust: Unraveling Blind Message Attacks in Web3 Authentication. /The 31st ACM Conference on Computer and Communications Security/, Salt Lake City, UT, USA. October 14-18, 2024. \[Top\] \[CCF A\]
 . *\[CCS'24\]* Zidong Zhang, Qinsheng Hou, Lingyun Ying (✉️), *Wenrui Diao* (✉️), Yacong Gu, Rui Li, Shanqing Guo, Haixin Duan. MiniCAT: Understanding and Detecting Cross-Page Request Forgery Vulnerabilities in Mini-Programs. /The 31st ACM Conference on Computer and Communications Security/, Salt Lake City, UT, USA. October 14-18, 2024. \[Top\] \[CCF A\]
 . *\[WWW'24\]* Xiaoyin Liu, Wenzhi Li, Qinsheng Hou, Shishuai Yang, Lingyun Ying (✉️), *Wenrui Diao* (✉️), Yanan Li, Shanqing Guo, and Haixin Duan. From Promises to Practice: Evaluating the Private Browsing Modes of Android Browser Apps. /The 33rd ACM Web Conference/, Singapore. May 13-17, 2024. \[Top\] \[CCF A\] \[[paper/www24-liu.pdf PDF]\]
