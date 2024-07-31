@@ -33,7 +33,7 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 ~~~
 *News:*
 
->>> Jul 2024: I will serve as TPC Member for [https://www.usenix.org/conference/usenixsecurity25 USENIX Security 2025].
+>>> Jul 2024: I will serve as TPC Member for [https://www.usenix.org/conference/usenixsecurity25 USENIX-Sec 2025].
 
 >>> Jul 2024: Two papers accepted by [https://issre.github.io/2024/index.html ISSRE 2024].
 
@@ -238,13 +238,11 @@ See: [./publications.html *Full Publications*]
 . *\[RAID'19\]* Li Zhang, Jiongyi Chen, *Wenrui Diao* (✉️), Shanqing Guo, Jian Weng, and Kehuan Zhang. CryptoREX: Large-scale Analysis of Cryptographic Misuse in IoT Devices. /The 22nd International Symposium on Research in Attacks, Intrusions and Defenses/, Beijing, China. September 23-25, 2019. \[CCF B\] \[[paper/raid2019-zhang-li.pdf PDF]\] \[[https://github.com/zhanglikernel/CRYPTOREX Code]\]
 . *\[DSN'19\]* Jiongyi Chen, Chaoshun Zuo, *Wenrui Diao*, Shuaike Dong, Qingchuan Zhao, Menghan Sun, Zhiqiang Lin, Yinqian Zhang, and Kehuan Zhang. Your IoTs Are (Not) Mine: On the Remote Binding Between IoT Devices and Users. /The 49th IEEE\/IFIP International Conference on Dependable Systems and Networks/, Portland, OR, USA. June 24-27, 2019. \[CCF B\] \[[paper/dsn19-chen.pdf PDF]\] 
 . *\[NDSS'19\]* Fenghao Xu, *Wenrui Diao*, Zhou Li, Jiongyi Chen, and Kehuan Zhang. BadBluetooth: Breaking Android Security Mechanisms via Malicious Bluetooth Peripherals. /The 26th Annual Network and Distributed System Security Symposium/, San Diego, CA, USA. February 24-27, 2019. \[Top\] \[CCF A\] \[[paper/ndss19-xu.pdf PDF]\] \[[https://sites.google.com/view/bluetoothvul/ Demo]\] \[CVE-2019-2225\]
-. *\[ICSME'18\]* Chao Chen, *Wenrui Diao* (✉️), Yingpei Zeng, Shanqing Guo (✉️), and Chengyu Hu. DRLgencert: Deep Learning-based Automated Testing of Certificate Verification in SSL\/TLS Implementations. /The 34th IEEE International Conference on Software Maintenance and Evolution/, Madrid, Spain. September 23-29, 2018. \[CCF B\] \[[paper/icsme18-chen.pdf PDF]\]
-. *\[DSN'18\]* Jia Chen, Ge Han, Shanqing Guo, and *Wenrui Diao*. FragDroid: Automated User Interface Interaction with Activity and Fragment Analysis in Android Applications. /The 48th IEEE\/IFIP International Conference on Dependable Systems and Networks/, Luxembourg City, Luxembourg. June 23-28, 2018. \[CCF B\]  \[[paper/dsn18-chen.pdf PDF]\] 
-. *\[NDSS'18\]* Jiongyi Chen, *Wenrui Diao*, Qingchuan Zhao, Chaoshun Zuo, Zhiqiang Lin, XiaoFeng Wang, Wing Cheong Lau, Menghan Sun, Ronghai Yang, and Kehuan Zhang. IoTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing. /The 25th Annual Network and Distributed System Security Symposium/, San Diego, CA, USA. February 18-21, 2018. \[Top\] \[CCF A\] \[[paper/ndss18-chen.pdf PDF]\]
 
 
 == Professional Activities
 === TPC Member:
+- USENIX Security Symposium (*USENIX-Sec*): 2025
 - IEEE European Symposium on Security and Privacy (*IEEE EuroS&P*): 2025, 2024
 - ACM Conference on Computer and Communications Security (*CCS*): 2024, 2019, 2018
 - ACM Conference on Data and Application Security and Privacy (*CODASPY*): 2024
@@ -359,6 +357,7 @@ Teaching Assistant@CUHK:
 - [https://scholar.google.com/citations?user=cnxnsY0AAAAJ&hl=en Rui Li] (MS-Ph.D. Student at Shandong University, Graduated in 2024)
 -- Publications (first author): USENIX-Sec 2023 (CCF A), IEEE S&P 2021 (CCF A), IEEE TSE (CCF A)
 -- Awards: 山东省优秀毕业生, 山东大学优秀毕业生, 博士研究生国家奖学金, 硕士研究生国家奖学金, 山东大学研究生优秀学术成果奖, 山东大学学生“五•四”青年科学奖, IEEE S&P Student Registration Grants, ...
+-- Visiting Experience: The Chinese University of Hong Kong (2023.01 - 2023.07) 
 -- First Job: Research Scientist at Singapore Management University 
 
 - [https://kee1ongz.github.io/ Zidong Zhang] (MS Student at Shandong University, Graduated in 2024)
