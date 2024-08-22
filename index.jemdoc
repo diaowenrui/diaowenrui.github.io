@@ -219,9 +219,9 @@ See: [./publications.html *Full Publications*]
 
 . *\[ISSRE'24\]* Shuang Li, Rui Li, Shishuai Yang, and Wenrui Diao (✉️). Android's Cat-and-Mouse Game: Understanding Evasion Techniques against Dynamic Analysis. /The 35th IEEE International Symposium on Software Reliability Engineering/, Tsukuba, Japan. October 28th - 31st, 2024. \[CCF B\]
 . *\[ISSRE'24\]* Shishuai Yang, Guangdong Bai (✉️), Ruoyan Lin, Jialong Guo, and Wenrui Diao (✉️). Beyond the Horizon: Exploring Cross-Market Security Discrepancies in Parallel Android Apps. /The 35th IEEE International Symposium on Software Reliability Engineering/, Tsukuba, Japan. October 28th - 31st, 2024. \[CCF B\] 
+. *\[CCS'24\]* Kailun Yan, Xiaokuan Zhang (✉️), and *Wenrui Diao* (✉️). Stealing Trust: Unraveling Blind Message Attacks in Web3 Authentication. /The 31st ACM Conference on Computer and Communications Security/, Salt Lake City, UT, USA. October 14-18, 2024. \[Top\] \[CCF A\] \[CVE-2023-50053, CVE-2023-50059\]
+. *\[CCS'24\]* Zidong Zhang, Qinsheng Hou, Lingyun Ying (✉️), *Wenrui Diao* (✉️), Yacong Gu, Rui Li, Shanqing Guo, Haixin Duan. MiniCAT: Understanding and Detecting Cross-Page Request Forgery Vulnerabilities in Mini-Programs. /The 31st ACM Conference on Computer and Communications Security/, Salt Lake City, UT, USA. October 14-18, 2024. \[Top\] \[CCF A\] \[CNVD-2024-05527, CNVD-2023-75836, CNVD-2023-75837\]
 . *\[RAID'24\]* Jianing Wang, Shanqing Guo, *Wenrui Diao*, Yue Liu, Haixin Duan, Yichen Liu, and Zhenkai Liang. CrypTody: Cryptographic Misuse Analysis of IoT Firmware via Data-flow Reasoning. /The 27th International Symposium on Research in Attacks, Intrusions and Defenses/, Padua, Italy. September 30 - October 2, 2024. \[CCF B\] 
-. *\[CCS'24\]* Kailun Yan, Xiaokuan Zhang (✉️), and *Wenrui Diao* (✉️). Stealing Trust: Unraveling Blind Message Attacks in Web3 Authentication. /The 31st ACM Conference on Computer and Communications Security/, Salt Lake City, UT, USA. October 14-18, 2024. \[Top\] \[CCF A\]
-. *\[CCS'24\]* Zidong Zhang, Qinsheng Hou, Lingyun Ying (✉️), *Wenrui Diao* (✉️), Yacong Gu, Rui Li, Shanqing Guo, Haixin Duan. MiniCAT: Understanding and Detecting Cross-Page Request Forgery Vulnerabilities in Mini-Programs. /The 31st ACM Conference on Computer and Communications Security/, Salt Lake City, UT, USA. October 14-18, 2024. \[Top\] \[CCF A\]
 . *\[WWW'24\]* Xiaoyin Liu, Wenzhi Li, Qinsheng Hou, Shishuai Yang, Lingyun Ying (✉️), *Wenrui Diao* (✉️), Yanan Li, Shanqing Guo, and Haixin Duan. From Promises to Practice: Evaluating the Private Browsing Modes of Android Browser Apps. /The 33rd ACM Web Conference/, Singapore. May 13-17, 2024. \[Top\] \[CCF A\] \[[paper/www24-liu.pdf PDF]\]
 . *\[ICSE'24\]* Pengcheng Ren, Chaoshun Zuo, Xiaofeng Liu, *Wenrui Diao*, Qingchuan Zhao, and Shanqing Guo. DEMISTIFY: Identifying On-device Machine Learning Models Stealing and Reuse Vulnerabilities in Mobile Apps. /The 46th IEEE\/ACM International Conference on Software Engineering/, Lisbon, Portugal. April 14-20, 2024. \[Top\] \[CCF A\] \[[paper/icse24-ren.pdf PDF]\]
 . *\[SANER'24\]* Shuang Li, Rui Li, Yifan Yu, Kailun Yan, Shishuai Yang, and *Wenrui Diao* (✉️). Understanding Android OS Forward Compatibility Support for Legacy Apps: A Data-Driven Analysis. /The 31st IEEE International Conference on Software Analysis, Evolution, and Reengineering/, Rovaniemi, Finland. March 12-15, 2024. \[CCF B\] \[[paper/saner24-li.pdf PDF]\]
@@ -306,7 +306,7 @@ See: [./publications.html *Full Publications*]
 == Teaching
 Instructor@SDU:
 - 04630210 - [https://diaowenrui.github.io/reverse-engineering/ Reverse Engineering (逆向工程)]: 2024 Spring, 2023 Spring, 2022 Spring
-- 04630130 - [https://diaowenrui.github.io/software-security/ Software Security (软件安全)]: 2023 Fall, 2022 Fall, 2021 Fall, 2020 Fall
+- 04630130 - [https://diaowenrui.github.io/software-security/ Software Security (软件安全)]: 2024 Fall, 2023 Fall, 2022 Fall, 2021 Fall, 2020 Fall
 - 04630080 - [https://diaowenrui.github.io/computer-networks/ Computer Networks (计算机网络)]: 2021 Spring, 2020 Spring
 - 0740003 - [https://diaowenrui.github.io/computing-system-security/ Computing System Security (计算系统安全)]: 2021 Fall, 2020 Fall, 2019 Fall
 
@@ -395,5 +395,5 @@ Teaching Assistant@CUHK:
 - [http://jianying.space/conference-ranking.html Top Crypto and Security Conferences Ranking]
 - [https://s3.eurecom.fr/~balzarot/security-circus/index.html System Security Circus]
 - [https://www.ccf.org.cn/Academic_Evaluation/NIS/ CCF Conference and Journal Rankings]
-- [http://123.57.137.208/ccf/ccf-3.jsp Call4Papers]
+#- [http://123.57.137.208/ccf/ccf-3.jsp Call4Papers]
 - [https://ccfddl.github.io/ CCF Conference Deadlines]
