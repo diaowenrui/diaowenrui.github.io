@@ -33,7 +33,7 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 ~~~
 *News:*
 
->>> Jul 2024: I will serve as TPC Member for [https://www.usenix.org/conference/usenixsecurity25 USENIX-Sec 2025].
+>>> Jul 2024: I will serve as TPC Member for [https://www.usenix.org/conference/usenixsecurity25 USENIX Security 2025].
 
 >>> Jul 2024: Two papers accepted by [https://issre.github.io/2024/index.html ISSRE 2024].
 
@@ -206,7 +206,7 @@ I am a Professor in [http://www.cst.qd.sdu.edu.cn/ School of Cyber Science and T
 
 == Selected Recent Publications
 ~~~
-*Publications at Top-tier Venues (16 papers): IEEE S&P ('21, '16), USENIX-Sec ('23), CCS ('24 x 2, '21, '15, '14), NDSS ('19, '18), ICSE ('24, '22 × 3), WWW ('24, '23)*
+*Publications at Top-tier Venues (16 papers): IEEE S&P ('21, '16), USENIX Security ('23), ACM CCS ('24 x 2, '21, '15, '14), NDSS ('19, '18), ICSE ('24, '22 × 3), WWW ('24, '23)*
 
 *Publications Ranking Statistics: CCF A: 18 papers, CCF B: 12 papers, CCF C: 10 papers*
 
@@ -225,7 +225,7 @@ See: [./publications.html *Full Publications*]
 . *\[WWW'24\]* Xiaoyin Liu, Wenzhi Li, Qinsheng Hou, Shishuai Yang, Lingyun Ying (✉️), *Wenrui Diao* (✉️), Yanan Li, Shanqing Guo, and Haixin Duan. From Promises to Practice: Evaluating the Private Browsing Modes of Android Browser Apps. /The 33rd ACM Web Conference/, Singapore. May 13-17, 2024. \[Top\] \[CCF A\] \[[paper/www24-liu.pdf PDF]\]
 . *\[ICSE'24\]* Pengcheng Ren, Chaoshun Zuo, Xiaofeng Liu, *Wenrui Diao*, Qingchuan Zhao, and Shanqing Guo. DEMISTIFY: Identifying On-device Machine Learning Models Stealing and Reuse Vulnerabilities in Mobile Apps. /The 46th IEEE\/ACM International Conference on Software Engineering/, Lisbon, Portugal. April 14-20, 2024. \[Top\] \[CCF A\] \[[paper/icse24-ren.pdf PDF]\]
 . *\[SANER'24\]* Shuang Li, Rui Li, Yifan Yu, Kailun Yan, Shishuai Yang, and *Wenrui Diao* (✉️). Understanding Android OS Forward Compatibility Support for Legacy Apps: A Data-Driven Analysis. /The 31st IEEE International Conference on Software Analysis, Evolution, and Reengineering/, Rovaniemi, Finland. March 12-15, 2024. \[CCF B\] \[[paper/saner24-li.pdf PDF]\]
-. *\[USENIX-Sec'23\]* Rui Li, *Wenrui Diao* (✉️), Shishuai Yang, Xiangyu Liu, Shanqing Guo, and Kehuan Zhang. Lost in Conversion: Exploit Data Structure Conversion with Attribute Loss to Break Android Systems. /The 32nd USENIX Security Symposium/, Anaheim, CA, USA. August 9-11, 2023. \[Top\] \[CCF A\] \[[paper/usenixsecurity23-li-rui.pdf PDF]\] \[[https://sites.google.com/view/eviltwins Demo]\] \[CVE-2021-39695, CVE-2022-20392, CVE-2023-20971\]
+. *\[Security'23\]* Rui Li, *Wenrui Diao* (✉️), Shishuai Yang, Xiangyu Liu, Shanqing Guo, and Kehuan Zhang. Lost in Conversion: Exploit Data Structure Conversion with Attribute Loss to Break Android Systems. /The 32nd USENIX Security Symposium/, Anaheim, CA, USA. August 9-11, 2023. \[Top\] \[CCF A\] \[[paper/usenixsecurity23-li-rui.pdf PDF]\] \[[https://sites.google.com/view/eviltwins Demo]\] \[CVE-2021-39695, CVE-2022-20392, CVE-2023-20971\]
 . *\[IEEE TSE\]* Qinsheng Hou, *Wenrui Diao*, Yanhao Wang, Chenglin Mao, Lingyun Ying, Song Liu, Xiaofeng Liu, Yuanzhi Li, Shanqing Guo, Meining Nie, and Haixin Duan. Can We Trust the Phone Vendors? Comprehensive Security Measurements on the Android Firmware Ecosystem. /IEEE Transactions on Software Engineering/, 49(7): 3901-3921, 2023. \[CCF A\] \[[https://www.computer.org/csdl/journal/ts/5555/01/10141678/1NCDl4NhQPe Link]\] \[[https://github.com/chicharitomu14/AndScanner Code]\]
 . *\[WWW'23\]* Kailun Yan, Jilian Zhang, Xiangyu Liu, *Wenrui Diao* (✉️), and Shanqing Guo. Bad Apples: Understanding the Centralized Security Risks in Decentralized Ecosystems. /The 32nd ACM Web Conference/, Austin, Texas, USA. April 30 - May 4, 2023. \[Top\] \[CCF A\] \[[paper/www23-yan.pdf PDF]\] \[[https://github.com/d0scoo1/Naga Code]\] \[Media Coverage: [https://www.view.sdu.edu.cn/info/1021/175584.htm 山大视点]\]
 . *\[ICSE'22\]* Xing Zhang, Jiongyi Chen, Chao Feng, Ruilin Li, *Wenrui Diao*, Kehuan Zhang, Jing Lei, and Chaojing Tang. DeFault: Mutual Information-based Crash Triage for Massive Crashes. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\] \[[paper/icse22-zhang.pdf PDF]\] 
@@ -242,7 +242,7 @@ See: [./publications.html *Full Publications*]
 
 == Professional Activities
 === TPC Member:
-- USENIX Security Symposium (*USENIX-Sec*): 2025
+- USENIX Security Symposium (*USENIX Security*): 2025
 - IEEE European Symposium on Security and Privacy (*IEEE EuroS&P*): 2025, 2024
 - ACM Conference on Computer and Communications Security (*CCS*): 2024, 2019, 2018
 - ACM Conference on Data and Application Security and Privacy (*CODASPY*): 2024
@@ -339,11 +339,10 @@ Teaching Assistant@CUHK:
 === 指导学生获奖  (校级以上奖励):
 - 研究生: 第七届“强网杯”全国网络安全挑战赛“强网先锋” (2024), DataCon大数据安全分析竞赛-软件安全赛道 第3名 (2023), DataCon大数据安全分析竞赛-互联网威胁溯源赛道 第3名 (2023), 博士研究生国家奖学金 (2023), 山东大学优秀毕业生 (2023), ACM WiSec Student Travel Grants (2022), DataCon大数据安全分析竞赛-邮件安全赛道 第8名 (2021), 硕士研究生国家奖学金 (2021), 山东大学研究生优秀学术成果奖二等奖 (2021), 山东大学第十二届学生“五•四”青年科学奖优秀成果奖 (2021), IEEE S&P Student Registration Grants (2021), 硕士研究生国家奖学金 (2020) 
  
-- 本科生: 第十四届全国大学生信息安全竞赛-作品赛一等奖 (2021)
+- 本科生: 山东大学优秀本科毕业论文(2024), 第十四届全国大学生信息安全竞赛-作品赛一等奖 (2021)
 
 == Students
 - [https://scholar.google.com/citations?user=_uV7ob4AAAAJ&hl=en Shishuai Yang] (MS-Ph.D. Student, 2020 - )
-- Jianqi Du (Ph.D. Student, 2020 - )
 - [https://dos.cool/cv.html Kailun Yan] (Ph.D. Student, 2021 - )
 - Shuang Li (MS-Ph.D. Student, 2021 - )
 - Jialong Guo (MS-Ph.D. Student, 2022 - )
@@ -357,12 +356,17 @@ Teaching Assistant@CUHK:
 === Alumni:
 - [https://scholar.google.com/citations?user=cnxnsY0AAAAJ&hl=en Rui Li] (MS-Ph.D. Student at Shandong University, Graduated in 2024)
 -- Publications (first author): USENIX-Sec 2023 (CCF A), IEEE S&P 2021 (CCF A), IEEE TSE (CCF A)
--- Awards: 山东省优秀毕业生, 山东大学优秀毕业生, 博士研究生国家奖学金, 硕士研究生国家奖学金, 山东大学研究生优秀学术成果奖, 山东大学学生“五•四”青年科学奖, IEEE S&P Student Registration Grants, ...
--- Visiting Experience: The Chinese University of Hong Kong (2023.01 - 2023.07) 
--- First Job: Research Scientist at Singapore Management University 
+-- Awards: 山东省优秀毕业生, 山东大学优秀毕业生, 博士研究生国家奖学金, 硕士研究生国家奖学金, 山东大学研究生优秀学术成果奖, 山东大学学生“五•四”青年科学奖, IEEE S&P 2021 Student Registration Grants, ...
+-- Oversea Experience: The Chinese University of Hong Kong (2023.01 - 2023.07) 
+-- First Job: Research Scientist at Singapore Management University
+
+- Jianqi Du (Ph.D Student at Shandong University, Graduated in 2024)
+-- Publications (first author): SANER 2022 (CCF B), MSN 2023 (CCF C)
+-- First Job: Researcher at China Unicom Digital Technology Co., Ltd.
 
 - [https://kee1ongz.github.io/ Zidong Zhang] (MS Student at Shandong University, Graduated in 2024)
--- Publications (first author): CCS 2024 (CCF A)
+-- Publications (first author): CCS 2024 (CCF A), SaTS 2024 (Workshop@CCS 2024)
+-- Awards: ACM CCS 2024 Student Travel Grants
 -- First Job: Ph.D. Student at Simon Fraser University
 
 - Xiaoyin Liu (MS Student at Shandong University, Graduated in 2024)
@@ -376,7 +380,7 @@ Teaching Assistant@CUHK:
 
 - Chennan Zhang (MS Student at Shandong University, Graduated in 2023)
 -- Publications (first author): ACM WiSec 2022 (CCF C)
--- Awards: ACM WiSec Student Travel Grants
+-- Awards: ACM WiSec 2022 Student Travel Grants
 -- First Job: Researcher at OPPO子午实验室
 
 - Jin Zhang (MS Student at Shandong University, Graduated in 2022)
