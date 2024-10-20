@@ -33,6 +33,8 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 ~~~
 *News:*
 
+>>> Oct 2024: Our Web3 Security Paper received *[https://www.sigsac.org/ccs/CCS2024/program/awards.html ACM CCS 2024 Distinguished Paper Award]*! 
+
 >>> Jul 2024: I will serve as TPC Member for [https://www.usenix.org/conference/usenixsecurity25 USENIX Security 2025].
 
 >>> Jul 2024: Two papers accepted by [https://issre.github.io/2024/index.html ISSRE 2024].
@@ -219,7 +221,7 @@ See: [./publications.html *Full Publications*]
 
 . *\[ISSRE'24\]* Shuang Li, Rui Li, Shishuai Yang, and *Wenrui Diao* (✉️). Android's Cat-and-Mouse Game: Understanding Evasion Techniques against Dynamic Analysis. /The 35th IEEE International Symposium on Software Reliability Engineering/, Tsukuba, Japan. October 28th - 31st, 2024. \[CCF B\] \[[paper/issre24-li.pdf PDF]\]
 . *\[ISSRE'24\]* Shishuai Yang, Guangdong Bai (✉️), Ruoyan Lin, Jialong Guo, and *Wenrui Diao* (✉️). Beyond the Horizon: Exploring Cross-Market Security Discrepancies in Parallel Android Apps. /The 35th IEEE International Symposium on Software Reliability Engineering/, Tsukuba, Japan. October 28th - 31st, 2024. \[CCF B\] \[[paper/issre24-yang.pdf PDF]\]
-. *\[CCS'24\]* Kailun Yan, Xiaokuan Zhang (✉️), and *Wenrui Diao* (✉️). Stealing Trust: Unraveling Blind Message Attacks in Web3 Authentication. /The 31st ACM Conference on Computer and Communications Security/, Salt Lake City, UT, USA. October 14-18, 2024. \[Top\] \[CCF A\] \[[paper/ccs24-yan.pdf PDF]\] \[[https://sites.google.com/view/web3auth Demo]\] \[[https://github.com/d0scoo1/Web3AuthChecker Code]\] \[CVE-2023-50053, CVE-2023-50059\]
+. *\[CCS'24\]* Kailun Yan, Xiaokuan Zhang (✉️), and *Wenrui Diao* (✉️). Stealing Trust: Unraveling Blind Message Attacks in Web3 Authentication. /The 31st ACM Conference on Computer and Communications Security/, Salt Lake City, UT, USA. October 14-18, 2024. \[[https://www.sigsac.org/ccs/CCS2024/program/awards.html Distinguished Paper Award]\] \[Top\] \[CCF A\] \[[paper/ccs24-yan.pdf PDF]\] \[[https://sites.google.com/view/web3auth Demo]\] \[[https://github.com/d0scoo1/Web3AuthChecker Code]\] \[CVE-2023-50053, CVE-2023-50059\]
 . *\[CCS'24\]* Zidong Zhang, Qinsheng Hou, Lingyun Ying (✉️), *Wenrui Diao* (✉️), Yacong Gu, Rui Li, Shanqing Guo, Haixin Duan. MiniCAT: Understanding and Detecting Cross-Page Request Forgery Vulnerabilities in Mini-Programs. /The 31st ACM Conference on Computer and Communications Security/, Salt Lake City, UT, USA. October 14-18, 2024. \[Top\] \[CCF A\] \[[paper/ccs24-zhang.pdf PDF]\] \[[https://github.com/kee1ongz/MiniCAT Code]\] \[CNVD-2024-05527, CNVD-2023-75836, CNVD-2023-75837\]
 . *\[RAID'24\]* Jianing Wang, Shanqing Guo, *Wenrui Diao*, Yue Liu, Haixin Duan, Yichen Liu, and Zhenkai Liang. CrypTody: Cryptographic Misuse Analysis of IoT Firmware via Data-flow Reasoning. /The 27th International Symposium on Research in Attacks, Intrusions and Defenses/, Padua, Italy. September 30 - October 2, 2024. \[CCF B\] 
 . *\[WWW'24\]* Xiaoyin Liu, Wenzhi Li, Qinsheng Hou, Shishuai Yang, Lingyun Ying (✉️), *Wenrui Diao* (✉️), Yanan Li, Shanqing Guo, and Haixin Duan. From Promises to Practice: Evaluating the Private Browsing Modes of Android Browser Apps. /The 33rd ACM Web Conference/, Singapore. May 13-17, 2024. \[Top\] \[CCF A\] \[[paper/www24-liu.pdf PDF]\]
@@ -325,6 +327,7 @@ Teaching Assistant@CUHK:
 - IERG 3310 - Computer Networks: 2014 Fall
 
 == Awards
+- 2024: [https://www.sigsac.org/ccs/CCS2024/program/awards.html Distinguished Paper Award, ACM CCS 2024] 
 - 2024: [https://eurosp2024.ieee-security.org/committee-program.html Noteworthy Reviewer, IEEE EuroS&P 2024]
 - 2023: Xiaomi Young Scholar, Shandong University (山东大学小米青年学者)
 - 2022: Taishan Young Scholar, Shandong Province (山东省泰山学者青年专家)
@@ -337,7 +340,7 @@ Teaching Assistant@CUHK:
 - 2012: Dean’s List 2010-2011, Faculty of Engineering, CUHK
 
 === 指导学生获奖  (校级以上奖励):
-- *研究生:* ACM CCS Student Travel Grants (2024), 山东省优秀毕业生(2024), 山东大学优秀毕业生(2024), 网络安全学院学生创新资助计划(2024), 第七届“强网杯”全国网络安全挑战赛“强网先锋” (2024), DataCon大数据安全分析竞赛-软件安全赛道 第3名 (2023), DataCon大数据安全分析竞赛-互联网威胁溯源赛道 第3名 (2023), 博士研究生国家奖学金 (2023), 山东大学优秀毕业生 (2023), ACM WiSec Student Travel Grants (2022), DataCon大数据安全分析竞赛-邮件安全赛道 第8名 (2021), 硕士研究生国家奖学金 (2021), 山东大学研究生优秀学术成果奖二等奖 (2021), 山东大学第十二届学生“五•四”青年科学奖优秀成果奖 (2021), IEEE S&P Student Registration Grants (2021), 硕士研究生国家奖学金 (2020) 
+- *研究生:* ACM CCS 2024 Distinguished Paper Award (2024), ACM CCS 2024 Student Travel Grants (2024), 山东省优秀毕业生(2024), 山东大学优秀毕业生(2024), 网络安全学院学生创新资助计划(2024), 第七届“强网杯”全国网络安全挑战赛“强网先锋” (2024), DataCon大数据安全分析竞赛-软件安全赛道 第3名 (2023), DataCon大数据安全分析竞赛-互联网威胁溯源赛道 第3名 (2023), 博士研究生国家奖学金 (2023), 山东大学优秀毕业生 (2023), ACM WiSec Student Travel Grants (2022), DataCon大数据安全分析竞赛-邮件安全赛道 第8名 (2021), 硕士研究生国家奖学金 (2021), 山东大学研究生优秀学术成果奖二等奖 (2021), 山东大学第十二届学生“五•四”青年科学奖优秀成果奖 (2021), IEEE S&P Student Registration Grants (2021), 硕士研究生国家奖学金 (2020) 
  
 - *本科生:* 山东大学优秀本科毕业论文(2024), 网络安全学院学生创新资助计划(2024), 第十四届全国大学生信息安全竞赛-作品赛一等奖 (2021)
 
