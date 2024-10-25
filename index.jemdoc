@@ -33,7 +33,9 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 ~~~
 *News:*
 
->>> Oct 2024: Our Web3 Security Paper received *[https://www.sigsac.org/ccs/CCS2024/program/awards.html ACM CCS 2024 Distinguished Paper Award]*! 
+>>> Oct 2024: I will serve as TPC Member for [http://www.codaspy.org/2025/ CODASPY 2025].
+
+>>> Oct 2024: Our Web3 Security Paper was awarded *[https://www.sigsac.org/ccs/CCS2024/program/awards.html ACM CCS 2024 Distinguished Paper Award]*! 
 
 >>> Jul 2024: I will serve as TPC Member for [https://www.usenix.org/conference/usenixsecurity25 USENIX Security 2025].
 
@@ -221,7 +223,7 @@ See: [./publications.html *Full Publications*]
 
 . *\[ISSRE'24\]* Shuang Li, Rui Li, Shishuai Yang, and *Wenrui Diao* (✉️). Android's Cat-and-Mouse Game: Understanding Evasion Techniques against Dynamic Analysis. /The 35th IEEE International Symposium on Software Reliability Engineering/, Tsukuba, Japan. October 28th - 31st, 2024. \[CCF B\] \[[paper/issre24-li.pdf PDF]\]
 . *\[ISSRE'24\]* Shishuai Yang, Guangdong Bai (✉️), Ruoyan Lin, Jialong Guo, and *Wenrui Diao* (✉️). Beyond the Horizon: Exploring Cross-Market Security Discrepancies in Parallel Android Apps. /The 35th IEEE International Symposium on Software Reliability Engineering/, Tsukuba, Japan. October 28th - 31st, 2024. \[CCF B\] \[[paper/issre24-yang.pdf PDF]\]
-. *\[CCS'24\]* Kailun Yan, Xiaokuan Zhang (✉️), and *Wenrui Diao* (✉️). Stealing Trust: Unraveling Blind Message Attacks in Web3 Authentication. /The 31st ACM Conference on Computer and Communications Security/, Salt Lake City, UT, USA. October 14-18, 2024. \[[https://www.sigsac.org/ccs/CCS2024/program/awards.html Distinguished Paper Award]\] \[Top\] \[CCF A\] \[[paper/ccs24-yan.pdf PDF]\] \[[https://sites.google.com/view/web3auth Demo]\] \[[https://github.com/d0scoo1/Web3AuthChecker Code]\] \[CVE-2023-50053, CVE-2023-50059\]
+. *\[CCS'24\]* Kailun Yan, Xiaokuan Zhang (✉️), and *Wenrui Diao* (✉️). Stealing Trust: Unraveling Blind Message Attacks in Web3 Authentication. /The 31st ACM Conference on Computer and Communications Security/, Salt Lake City, UT, USA. October 14-18, 2024. \[Top\] \[CCF A\] \[[https://www.sigsac.org/ccs/CCS2024/program/awards.html *Distinguished Paper Award*]\] \[[paper/ccs24-yan.pdf PDF]\] \[[https://sites.google.com/view/web3auth Demo]\] \[[https://github.com/d0scoo1/Web3AuthChecker Code]\] \[CVE-2023-50053, CVE-2023-50059\]
 . *\[CCS'24\]* Zidong Zhang, Qinsheng Hou, Lingyun Ying (✉️), *Wenrui Diao* (✉️), Yacong Gu, Rui Li, Shanqing Guo, Haixin Duan. MiniCAT: Understanding and Detecting Cross-Page Request Forgery Vulnerabilities in Mini-Programs. /The 31st ACM Conference on Computer and Communications Security/, Salt Lake City, UT, USA. October 14-18, 2024. \[Top\] \[CCF A\] \[[paper/ccs24-zhang.pdf PDF]\] \[[https://github.com/kee1ongz/MiniCAT Code]\] \[CNVD-2024-05527, CNVD-2023-75836, CNVD-2023-75837\]
 . *\[RAID'24\]* Jianing Wang, Shanqing Guo, *Wenrui Diao*, Yue Liu, Haixin Duan, Yichen Liu, and Zhenkai Liang. CrypTody: Cryptographic Misuse Analysis of IoT Firmware via Data-flow Reasoning. /The 27th International Symposium on Research in Attacks, Intrusions and Defenses/, Padua, Italy. September 30 - October 2, 2024. \[CCF B\] 
 . *\[WWW'24\]* Xiaoyin Liu, Wenzhi Li, Qinsheng Hou, Shishuai Yang, Lingyun Ying (✉️), *Wenrui Diao* (✉️), Yanan Li, Shanqing Guo, and Haixin Duan. From Promises to Practice: Evaluating the Private Browsing Modes of Android Browser Apps. /The 33rd ACM Web Conference/, Singapore. May 13-17, 2024. \[Top\] \[CCF A\] \[[paper/www24-liu.pdf PDF]\]
@@ -246,8 +248,8 @@ See: [./publications.html *Full Publications*]
 === TPC Member:
 - USENIX Security Symposium (*USENIX Security*): 2025
 - IEEE European Symposium on Security and Privacy (*IEEE EuroS&P*): 2025, 2024
+- ACM Conference on Data and Application Security and Privacy (*CODASPY*): 2025, 2024
 - ACM Conference on Computer and Communications Security (*CCS*): 2024, 2019, 2018
-- ACM Conference on Data and Application Security and Privacy (*CODASPY*): 2024
 - IEEE International Conference on Software Analysis, Evolution and Reengineering (*SANER*): 2024
 - International Conference on Availability, Reliability and Security (ARES): 2024
 - International Conference on Information Security and Cryptology (Inscrypt): 2023, 2022
