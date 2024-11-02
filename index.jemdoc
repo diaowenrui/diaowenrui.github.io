@@ -9,7 +9,7 @@ Ph.D., The Chinese University of Hong Kong, 2017
 
 Taishan Young Scholar (山东省泰山学者青年专家)
 
-Xiaomi Young Scholar (山东大学小米青年学者)
+Xiaomi Young Scholar (小米青年学者)
 
 Qilu Young Scholar (山东大学齐鲁青年学者)
 
@@ -33,9 +33,13 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 ~~~
 *News:*
 
+>>> Oct 2024: I will serve as TPC Member for [https://www.sigsac.org/ccs/CCS2025/ ACM CCS 2025].
+
+>>> Oct 2024: One paper accepted by [https://link.springer.com/journal/10664 Empirical Software Engineering].
+
 >>> Oct 2024: I will serve as TPC Member for [http://www.codaspy.org/2025/ CODASPY 2025].
 
->>> Oct 2024: Our Web3 Security Paper was awarded *[https://www.sigsac.org/ccs/CCS2024/program/awards.html ACM CCS 2024 Distinguished Paper Award]*! 
+>>> Oct 2024: Our Web3 Security Paper received *[https://www.sigsac.org/ccs/CCS2024/program/awards.html ACM CCS 2024 Distinguished Paper Award]*! 
 
 >>> Jul 2024: I will serve as TPC Member for [https://www.usenix.org/conference/usenixsecurity25 USENIX Security 2025].
 
@@ -45,7 +49,7 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 
 >>> Jun 2024: I will serve as TPC Member for [https://eurosp2025.ieee-security.org/ IEEE EuroS&P 2025].
 
->>> May 2024: Two papers accepted by [https://www.sigsac.org/ccs/CCS2024/ CCS 2024].
+>>> May 2024: Two papers accepted by [https://www.sigsac.org/ccs/CCS2024/ ACM CCS 2024].
 
 >>> Mar 2024: I will serve as TPC Member for [https://www.ares-conference.eu/ ARES 2024].
 
@@ -55,7 +59,7 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 
 >>> Jan 2024: One paper accepted by [https://www2024.thewebconf.org/ WWW 2024].
 
->>> Dec 2023: I will serve as TPC Member for [https://www.sigsac.org/ccs/CCS2024/ CCS 2024].
+>>> Dec 2023: I will serve as TPC Member for [https://www.sigsac.org/ccs/CCS2024/ ACM CCS 2024].
 
 >>> Dec 2023: One paper accepted by [https://conf.researchr.org/home/saner-2024 SANER 2024].
 
@@ -83,7 +87,7 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 
 >>> Jun 2023: One paper accepted by [https://www.usenix.org/conference/usenixsecurity23 USENIX Security 2023].
 
->>> May 2023: One paper accepted by [https://www.computer.org/csdl/journal/ts IEEE TSE].
+>>> May 2023: One paper accepted by [https://www.computer.org/csdl/journal/ts IEEE Transactions on Software Engineering].
 
 >>> Jan 2023: One paper accepted by [https://www2023.thewebconf.org/ WWW 2023].
 
@@ -91,7 +95,7 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 
 #>>> Nov 2022: One paper accepted by [https://qrs22.techconf.org/ IEEE QRS 2022].
 
->>> Oct 2022: I was awarded 山东省泰山学者青年专家.
+#>>> Oct 2022: I was awarded 山东省泰山学者青年专家.
 
 #>>> Jul 2022: I will serve as TPC Member for [http://www.sklois.cn/inscrypt2022/ Inscrypt 2022].
 
@@ -107,7 +111,7 @@ Scholar]\] \[[https://dblp.org/pers/ht/d/Diao:Wenrui DBLP]\] \[[http://faculty.s
 
 #>>> Oct 2021: Our team ranked 2021 DataCon大数据安全分析竞赛-邮件安全赛道 第8名.
 
-#>>> Oct 2021: One paper accepted by [https://www.computer.org/csdl/journal/ts IEEE TSE].
+#>>> Oct 2021: One paper accepted by [https://www.computer.org/csdl/journal/ts IEEE Transactions on Software Engineering].
 
 #>>> Sep 2021: I will serve as TPC Member for [https://icics2022.cyber.kent.ac.uk/ ICICS 2022].
 
@@ -221,8 +225,11 @@ Author with (✉️): Corresponding Author - 通讯作者，即相关论文由�
 See: [./publications.html *Full Publications*]
 ~~~
 
+. *\[EMSE\]* Shishuai Yang, Qinsheng Hou, Shuang Li, Fenghao Xu, and *Wenrui Diao* (✉️). From Guidelines to Practice: Assessing Android App Developer Compliance with Google’s Security Recommendations. /Empirical Software Engineering/, 30 (11): 1-33, 2025. \[CCF B\] \[[https://rdcu.be/dYrz6 Link]\]
+. *\[TrustCom'24\]* Rui Li, *Wenrui Diao* (✉️), and Debin Gao (✉️). Custom Permission Misconfigurations in Android: A Large-Scale Security Analysis. /The 23rd IEEE International Conference on Trust, Security and Privacy in Computing and Communications/, Sanya, China. December 17-21, 2024. \[CCF C\]
+. *\[TrustCom'24\]* Yifan Yu, Ruoyan Lin, Shuang Li, Qinsheng Hou, and *Wenrui Diao* (✉️). Security Assessment of Customizations in Android Smartwatch Firmware. /The 23rd IEEE International Conference on Trust, Security and Privacy in Computing and Communications/, Sanya, China. December 17-21, 2024. \[CCF C\]
 . *\[ISSRE'24\]* Shuang Li, Rui Li, Shishuai Yang, and *Wenrui Diao* (✉️). Android's Cat-and-Mouse Game: Understanding Evasion Techniques against Dynamic Analysis. /The 35th IEEE International Symposium on Software Reliability Engineering/, Tsukuba, Japan. October 28th - 31st, 2024. \[CCF B\] \[[paper/issre24-li.pdf PDF]\]
-. *\[ISSRE'24\]* Shishuai Yang, Guangdong Bai (✉️), Ruoyan Lin, Jialong Guo, and *Wenrui Diao* (✉️). Beyond the Horizon: Exploring Cross-Market Security Discrepancies in Parallel Android Apps. /The 35th IEEE International Symposium on Software Reliability Engineering/, Tsukuba, Japan. October 28th - 31st, 2024. \[CCF B\] \[[paper/issre24-yang.pdf PDF]\]
+. *\[ISSRE'24\]* Shishuai Yang, Guangdong Bai (✉️), Ruoyan Lin, Jialong Guo, and *Wenrui Diao* (✉️). Beyond the Horizon: Exploring Cross-Market Security Discrepancies in Parallel Android Apps. /The 35th IEEE International Symposium on Software Reliability Engineering/, Tsukuba, Japan. October 28th - 31st, 2024. \[CCF B\] 
 . *\[CCS'24\]* Kailun Yan, Xiaokuan Zhang (✉️), and *Wenrui Diao* (✉️). Stealing Trust: Unraveling Blind Message Attacks in Web3 Authentication. /The 31st ACM Conference on Computer and Communications Security/, Salt Lake City, UT, USA. October 14-18, 2024. \[Top\] \[CCF A\] \[[https://www.sigsac.org/ccs/CCS2024/program/awards.html *Distinguished Paper Award*]\] \[[paper/ccs24-yan.pdf PDF]\] \[[https://sites.google.com/view/web3auth Demo]\] \[[https://github.com/d0scoo1/Web3AuthChecker Code]\] \[CVE-2023-50053, CVE-2023-50059\]
 . *\[CCS'24\]* Zidong Zhang, Qinsheng Hou, Lingyun Ying (✉️), *Wenrui Diao* (✉️), Yacong Gu, Rui Li, Shanqing Guo, Haixin Duan. MiniCAT: Understanding and Detecting Cross-Page Request Forgery Vulnerabilities in Mini-Programs. /The 31st ACM Conference on Computer and Communications Security/, Salt Lake City, UT, USA. October 14-18, 2024. \[Top\] \[CCF A\] \[[paper/ccs24-zhang.pdf PDF]\] \[[https://github.com/kee1ongz/MiniCAT Code]\] \[CNVD-2024-05527, CNVD-2023-75836, CNVD-2023-75837\]
 . *\[RAID'24\]* Jianing Wang, Shanqing Guo, *Wenrui Diao*, Yue Liu, Haixin Duan, Yichen Liu, and Zhenkai Liang. CrypTody: Cryptographic Misuse Analysis of IoT Firmware via Data-flow Reasoning. /The 27th International Symposium on Research in Attacks, Intrusions and Defenses/, Padua, Italy. September 30 - October 2, 2024. \[CCF B\] 
@@ -331,14 +338,14 @@ Teaching Assistant@CUHK:
 == Awards
 - 2024: [https://www.sigsac.org/ccs/CCS2024/program/awards.html Distinguished Paper Award, ACM CCS 2024] 
 - 2024: [https://eurosp2024.ieee-security.org/committee-program.html Noteworthy Reviewer, IEEE EuroS&P 2024]
-- 2023: Xiaomi Young Scholar, Shandong University (山东大学小米青年学者)
+- 2023: Xiaomi Young Scholar, Shandong University and Xiaomi Foundation (山东大学-小米公益基金会 小米青年学者)
 - 2022: Taishan Young Scholar, Shandong Province (山东省泰山学者青年专家)
 - 2021: 第十四届全国大学生信息安全竞赛-作品赛 优秀指导教师
 - 2020: [https://www.acmturc.com/2020/en/new_star_award.html ACM SIGSAC China Rising Star Award] ([https://www.acmturc.com/2020/cn/new_star_award.html ACM SIGSAC China新星奖]), 2019
 - 2019: Qilu Young Scholar, Shandong University (山东大学齐鲁青年学者)
-- 2017: PETS 2017 Stipends, [https://petsymposium.org/2017/ The 17th Privacy Enhancing Technologies Symposium]
+- 2017: Student Travel Grants, [https://petsymposium.org/2017/ PETS 2017]
 - 2017: Reaching Out Award 2016/17, HKSAR Government Scholarship Fund
-- 2016: IEEE S&P 2016 Student Travel Grants, [https://www.ieee-security.org/TC/SP2016/ The 37th IEEE Symposium on Security and Privacy]
+- 2016: Student Travel Grants, [https://www.ieee-security.org/TC/SP2016/ IEEE S&P 2016]
 - 2012: Dean’s List 2010-2011, Faculty of Engineering, CUHK
 
 === 指导学生获奖  (校级以上奖励):
@@ -401,7 +408,7 @@ Teaching Assistant@CUHK:
 -- Awards \& Honors: RAID 2019 Student Travel Grants
 -- First Job: Engineer at MingLead Gene
 
-=== Undergraduate Research Assistants:
+=== Previous Undergraduate Research Assistants:
 - Zhaoyu Qiu, Yanbo Xu, Chong Tian, Yuncheng Wang
 
 == Useful Links
