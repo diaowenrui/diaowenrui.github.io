@@ -223,10 +223,11 @@ Author with (✉️): Corresponding Author - 通讯作者，即相关论文由�
 See: [./publications.html *Full Publications*]
 ~~~
 
+. *\[EMSE\]* Shishuai Yang, Qinsheng Hou, Shuang Li, Fenghao Xu, and *Wenrui Diao* (✉️). From Guidelines to Practice: Assessing Android App Developer Compliance with Google’s Security Recommendations. /Empirical Software Engineering/, 30 (11): 1-33, 2025. \[CCF B\] \[[https://rdcu.be/dYrz6 Link]\]
 . *\[ISSRE'24\]* Shuang Li, Rui Li, Shishuai Yang, and *Wenrui Diao* (✉️). Android's Cat-and-Mouse Game: Understanding Evasion Techniques against Dynamic Analysis. /The 35th IEEE International Symposium on Software Reliability Engineering/, Tsukuba, Japan. October 28th - 31st, 2024. \[CCF B\] \[[paper/issre24-li.pdf PDF]\]
 . *\[ISSRE'24\]* Shishuai Yang, Guangdong Bai (✉️), Ruoyan Lin, Jialong Guo, and *Wenrui Diao* (✉️). Beyond the Horizon: Exploring Cross-Market Security Discrepancies in Parallel Android Apps. /The 35th IEEE International Symposium on Software Reliability Engineering/, Tsukuba, Japan. October 28th - 31st, 2024. \[CCF B\] \[[paper/issre24-yang.pdf PDF]\]
 . *\[CCS'24\]* Kailun Yan, Xiaokuan Zhang (✉️), and *Wenrui Diao* (✉️). Stealing Trust: Unraveling Blind Message Attacks in Web3 Authentication. /The 31st ACM Conference on Computer and Communications Security/, Salt Lake City, UT, USA. October 14-18, 2024. \[Top\] \[CCF A\] \[[https://www.sigsac.org/ccs/CCS2024/program/awards.html *Distinguished Paper Award*]\] \[[paper/ccs24-yan.pdf PDF]\] \[[https://sites.google.com/view/web3auth Demo]\] \[[https://github.com/d0scoo1/Web3AuthChecker Code]\] \[CVE-2023-50053, CVE-2023-50059\] \[Media Coverage: [https://www.view.sdu.edu.cn/info/1021/196114.htm 山大视点]\]
-. *\[CCS'24\]* Zidong Zhang, Qinsheng Hou, Lingyun Ying (✉️), *Wenrui Diao* (✉️), Yacong Gu, Rui Li, Shanqing Guo, Haixin Duan. MiniCAT: Understanding and Detecting Cross-Page Request Forgery Vulnerabilities in Mini-Programs. /The 31st ACM Conference on Computer and Communications Security/, Salt Lake City, UT, USA. October 14-18, 2024. \[Top\] \[CCF A\] \[[paper/ccs24-zhang.pdf PDF]\] \[[https://github.com/kee1ongz/MiniCAT Code]\] \[CNVD-2024-05527, CNVD-2023-75836, CNVD-2023-75837\]
+. *\[CCS'24\]* Zidong Zhang, Qinsheng Hou, Lingyun Ying (✉️), *Wenrui Diao* (✉️), Yacong Gu, Rui Li, Shanqing Guo, Haixin Duan. MiniCAT: Understanding and Detecting Cross-Page Request Forgery Vulnerabilities in Mini-Programs. /The 31st ACM Conference on Computer and Communications Security/, Salt Lake City, UT, USA. October 14-18, 2024. \[Top\] \[CCF A\] \[[paper/ccs24-zhang.pdf PDF]\] \[[https://github.com/kee1ongz/MiniCAT Code]\] \[CNVD-2024-05527, CNVD-2023-75836, CNVD-2023-75837\] \[Media Coverage: [https://research.qianxin.com/archives/2233 QI-ANXIN]\]
 . *\[RAID'24\]* Jianing Wang, Shanqing Guo, *Wenrui Diao*, Yue Liu, Haixin Duan, Yichen Liu, and Zhenkai Liang. CrypTody: Cryptographic Misuse Analysis of IoT Firmware via Data-flow Reasoning. /The 27th International Symposium on Research in Attacks, Intrusions and Defenses/, Padua, Italy. September 30 - October 2, 2024. \[CCF B\] 
 . *\[WWW'24\]* Xiaoyin Liu, Wenzhi Li, Qinsheng Hou, Shishuai Yang, Lingyun Ying (✉️), *Wenrui Diao* (✉️), Yanan Li, Shanqing Guo, and Haixin Duan. From Promises to Practice: Evaluating the Private Browsing Modes of Android Browser Apps. /The 33rd ACM Web Conference/, Singapore. May 13-17, 2024. \[Top\] \[CCF A\] \[[paper/www24-liu.pdf PDF]\] \[Media Coverage: [https://research.qianxin.com/archives/1740 QI-ANXIN]\]
 . *\[ICSE'24\]* Pengcheng Ren, Chaoshun Zuo, Xiaofeng Liu, *Wenrui Diao*, Qingchuan Zhao, and Shanqing Guo. DEMISTIFY: Identifying On-device Machine Learning Models Stealing and Reuse Vulnerabilities in Mobile Apps. /The 46th IEEE\/ACM International Conference on Software Engineering/, Lisbon, Portugal. April 14-20, 2024. \[Top\] \[CCF A\] \[[paper/icse24-ren.pdf PDF]\]
@@ -235,7 +236,7 @@ See: [./publications.html *Full Publications*]
 . *\[IEEE TSE\]* Qinsheng Hou, *Wenrui Diao*, Yanhao Wang, Chenglin Mao, Lingyun Ying, Song Liu, Xiaofeng Liu, Yuanzhi Li, Shanqing Guo, Meining Nie, and Haixin Duan. Can We Trust the Phone Vendors? Comprehensive Security Measurements on the Android Firmware Ecosystem. /IEEE Transactions on Software Engineering/, 49(7): 3901-3921, 2023. \[CCF A\] \[[https://www.computer.org/csdl/journal/ts/5555/01/10141678/1NCDl4NhQPe Link]\] \[[https://github.com/chicharitomu14/AndScanner Code]\]
 . *\[WWW'23\]* Kailun Yan, Jilian Zhang, Xiangyu Liu, *Wenrui Diao* (✉️), and Shanqing Guo. Bad Apples: Understanding the Centralized Security Risks in Decentralized Ecosystems. /The 32nd ACM Web Conference/, Austin, Texas, USA. April 30 - May 4, 2023. \[Top\] \[CCF A\] \[[paper/www23-yan.pdf PDF]\] \[[https://github.com/d0scoo1/Naga Code]\] \[Media Coverage: [https://www.view.sdu.edu.cn/info/1021/175584.htm 山大视点]\]
 . *\[ICSE'22\]* Xing Zhang, Jiongyi Chen, Chao Feng, Ruilin Li, *Wenrui Diao*, Kehuan Zhang, Jing Lei, and Chaojing Tang. DeFault: Mutual Information-based Crash Triage for Massive Crashes. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\] \[[paper/icse22-zhang.pdf PDF]\] 
-. *\[ICSE'22\]* Qinsheng Hou, *Wenrui Diao*, Yanhao Wang, Xiaofeng Liu, Song Liu, Lingyun Ying, Shanqing Guo, Yuanzhi Li, Meining Nie, and Haixin Duan. Large-scale Security Measurements on the Android Firmware Ecosystem. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\] \[[paper/icse22-hou.pdf PDF]\] \[[https://github.com/chicharitomu14/AndScanner Code]\]
+. *\[ICSE'22\]* Qinsheng Hou, *Wenrui Diao*, Yanhao Wang, Xiaofeng Liu, Song Liu, Lingyun Ying, Shanqing Guo, Yuanzhi Li, Meining Nie, and Haixin Duan. Large-scale Security Measurements on the Android Firmware Ecosystem. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\] \[[paper/icse22-hou.pdf PDF]\] \[[https://github.com/chicharitomu14/AndScanner Code]\] \[Media Coverage: [https://research.qianxin.com/archives/1208 QI-ANXIN]\]
 . *\[ICSE'22\]* Shishuai Yang, Rui Li, Jiongyi Chen, *Wenrui Diao* (✉️), and Shanqing Guo. Demystifying Android Non-SDK APIs: Measurement and Understanding. /The 44th IEEE\/ACM International Conference on Software Engineering/, Pittsburgh, PA, USA. May 21-29, 2022. \[Top\] \[CCF A\] \[[paper/icse22-yang.pdf PDF]\] 
 . *\[IEEE TSE\]* Rui Li, *Wenrui Diao* (✉️), Zhou Li, Shishuai Yang, Shuang Li, and Shanqing Guo. Android Custom Permissions Demystified: A Comprehensive Security Evaluation. /IEEE Transactions on Software Engineering/, 48(11): 4465-4484, 2022. \[CCF A\] \[[paper/tse22-li.pdf PDF]\] \[[https://github.com/little-leiry/CuPerFuzzer Code]\]
 . *\[CCS'21\]* Fenghao Xu, Siyu Shen, *Wenrui Diao*, Zhou Li, Yi Chen, Rui Li, and Kehuan Zhang. Android on PC: On the Security of End-user Android Emulators. /The 28th ACM Conference on Computer and Communications Security/, Seoul, South Korea. November 15-19, 2021. \[Top\] \[CCF A\] \[[paper/ccs21-xu.pdf PDF]\] \[[https://sites.google.com/view/emulatorsec Demo]\]
@@ -294,6 +295,9 @@ See: [./publications.html *Full Publications*]
 
 
 == Invited Talks
+- 揭秘Android自定义权限：The Good, The Bad, and The Ugly
+-- Nov 2024: 华为2012实验室系统安全实验室 磐石大师汇特邀报告
+
 - Security Research and Measurement for Android Ecosystem
 -- Aug 2023: [https://mp.weixin.qq.com/s/KbZgK4EoVUBJnE4VSPcX_w 2023年InForSec“网络空间安全”大学生夏令营“导师面对面”专题交流活动]
 
@@ -346,9 +350,9 @@ Teaching Assistant@CUHK:
 - 2012: Dean’s List 2010-2011, Faculty of Engineering, CUHK
 
 === 指导学生获奖  (校级以上奖励):
-- *研究生:* ACM CCS 2024 Distinguished Paper Award (2024), ACM CCS 2024 Student Travel Grants (2024), 山东省优秀毕业生(2024), 山东大学优秀毕业生(2024), 网络安全学院学生创新资助计划(2024), 第七届“强网杯”全国网络安全挑战赛“强网先锋” (2024), DataCon大数据安全分析竞赛-软件安全赛道 第3名 (2023), DataCon大数据安全分析竞赛-互联网威胁溯源赛道 第3名 (2023), 博士研究生国家奖学金 (2023), 山东大学优秀毕业生 (2023), ACM WiSec Student Travel Grants (2022), DataCon大数据安全分析竞赛-邮件安全赛道 第8名 (2021), 硕士研究生国家奖学金 (2021), 山东大学研究生优秀学术成果奖二等奖 (2021), 山东大学第十二届学生“五•四”青年科学奖优秀成果奖 (2021), IEEE S&P Student Registration Grants (2021), 硕士研究生国家奖学金 (2020) 
+- *研究生:* 博士研究生国家奖学金 (2024), 硕士研究生国家奖学金 (2024), ACM CCS 2024 Distinguished Paper Award (2024), ACM CCS 2024 Student Travel Grants (2024), 山东省优秀毕业生 (2024), 山东大学优秀毕业生 (2024), 网络安全学院学生创新资助计划 (2024), 第七届“强网杯”全国网络安全挑战赛“强网先锋” (2024), DataCon大数据安全分析竞赛-软件安全赛道 第3名 (2023), DataCon大数据安全分析竞赛-互联网威胁溯源赛道 第3名 (2023), 博士研究生国家奖学金 (2023), 山东大学优秀毕业生 (2023), ACM WiSec Student Travel Grants (2022), DataCon大数据安全分析竞赛-邮件安全赛道 第8名 (2021), 硕士研究生国家奖学金 (2021), 山东大学研究生优秀学术成果奖二等奖 (2021), 山东大学第十二届学生“五•四”青年科学奖优秀成果奖 (2021), IEEE S&P Student Registration Grants (2021), 硕士研究生国家奖学金 (2020) 
  
-- *本科生:* 山东大学优秀本科毕业论文(2024), 网络安全学院学生创新资助计划(2024), 第十四届全国大学生信息安全竞赛-作品赛一等奖 (2021)
+- *本科生:* 山东大学优秀本科毕业论文 (2024), 网络安全学院学生创新资助计划 (2024), 第十四届全国大学生信息安全竞赛-作品赛一等奖 (2021)
 
 == Students
 - [https://scholar.google.com/citations?user=_uV7ob4AAAAJ&hl=en Shishuai Yang] (MS-Ph.D. Student, 2020 - )
@@ -388,7 +392,7 @@ Teaching Assistant@CUHK:
 - Guangwei Tian (MS Student at Shandong University, Graduated in 2023)
 -- Publications (first author): IEEE QRS 2022 (CCF C)
 -- Awards \& Honors: 山东大学优秀毕业生
--- First Job: 山东省东营市选调生
+-- First Job: Engineer at 山东省东营市大数据中心
 
 - Chennan Zhang (MS Student at Shandong University, Graduated in 2023)
 -- Publications (first author): ACM WiSec 2022 (CCF C)
@@ -405,7 +409,7 @@ Teaching Assistant@CUHK:
 -- Awards \& Honors: RAID 2019 Student Travel Grants
 -- First Job: Engineer at MingLead Gene
 
-=== Undergraduate Research Assistants:
+=== Previous Undergraduate Research Assistants:
 - Zhaoyu Qiu, Yanbo Xu, Chong Tian, Yuncheng Wang
 
 == Useful Links
